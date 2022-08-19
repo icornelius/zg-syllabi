@@ -1,0 +1,461 @@
+---
+references:
+- id: BiggestPicture2021
+  citation-key: BiggestPicture2021
+  container-title: The Economist
+  issued:
+    - year: 2021
+      month: 10
+      day: 30
+  page: 3-4
+  title: The biggest picture
+  type: article-magazine
+
+- id: BoffeyManuscriptsAudience2006
+  author:
+    - family: Boffey
+      given: Julia
+    - family: Edwards
+      given: A. S. G.
+  citation-key: BoffeyManuscriptsAudience2006
+  container-title: A concise companion to Chaucer
+  editor:
+    - family: Saunders
+      given: Corinne J.
+  ISBN: 978-1-4051-1388-5
+  issued:
+    - year: 2006
+  page: 34-50
+  publisher: Wiley-Blackwell
+  source: Google Books
+  title: Manuscripts and audience
+  type: chapter
+
+- id: CookFirstFirstFolios2019
+  author:
+    - family: Cook
+      given: Megan L.
+  citation-key: CookFirstFirstFolios2019
+  container-title: >-
+    The poet and the antiquaries: Chaucerian scholarship and the rise of
+    literary history, 1532-1635
+  event-place: Philadelphia
+  ISBN: 978-0-8122-9582-5
+  issued:
+    - year: 2019
+  language: en
+  note: 'OCLC: 1085493162'
+  page: 17-43
+  publisher: University of Pennsylvania Press
+  publisher-place: Philadelphia
+  source: Open WorldCat
+  title: 'The first first folios: Chaucer''s *Works* in print'
+  type: chapter
+
+- id: DonaldsonChaucerCanterburyTales1965
+  accessed:
+    - year: 2021
+      month: 1
+      day: 8
+  author:
+    - family: Donaldson
+      given: E. T.
+  citation-key: DonaldsonChaucerCanterburyTales1965
+  container-title: Speculum
+  container-title-short: Speculum
+  DOI: 10.2307/2851399
+  ISSN: 0038-7134
+  issue: '4'
+  issued:
+    - year: 1965
+      month: 10
+      day: 1
+  page: 626-633
+  publisher: The University of Chicago Press
+  source: journals.uchicago.edu (Atypon)
+  title: 'Chaucer, *Canterbury Tales*, D117: A critical edition'
+  title-short: Chaucer, *Canterbury Tales*, D117
+  type: article-journal
+  URL: https://www.jstor.org/stable/2851399
+  volume: '40'
+
+- id: FultonVoiceAuthorityFree2022
+  author:
+    - family: Fulton
+      given: Helen
+  citation-key: FultonVoiceAuthorityFree2022
+  container-title: 'Medieval literary voices: embodiment, materiality and performance'
+  editor:
+    - family: D'Arcens
+      given: Louise
+    - family: Ríkharðsdóttir
+      given: Sif
+  event-place: Manchester
+  ISBN: 978-1-5261-4949-7
+  issued:
+    - year: 2022
+  language: en
+  note: 'OCLC: 1287923114'
+  page: 37-55
+  publisher: Manchester University Press
+  publisher-place: Manchester
+  source: Open WorldCat
+  title: 'Voice of authority: free indirect discourse in Chaucer''s General Prologue'
+  type: chapter
+
+- id: GraeberDawnEverythingNew2021
+  author:
+    - family: Graeber
+      given: David
+    - family: Wengrow
+      given: David
+  citation-key: GraeberDawnEverythingNew2021
+  event-place: New York
+  ISBN: 978-0-374-15735-7
+  issued:
+    - year: 2021
+  language: en
+  publisher: Farrar, Straus and Giroux
+  publisher-place: New York
+  source: luc.primo.exlibrisgroup.com
+  title: 'The dawn of everything: a new history of humanity'
+  title-short: The dawn of everything
+  type: book
+
+- id: HannaCompilatioWifeBath1996
+  author:
+    - family: Hanna
+      given: Ralph
+  call-number: PR275.T45 H36 1996
+  citation-key: HannaCompilatioWifeBath1996
+  container-title: 'Pursuing History: Middle English Manuscripts and Their Texts'
+  event-place: Stanford, CA
+  ISBN: 0-8047-2613-2
+  issued:
+    - year: 1996
+  page: 247-257, 319-321
+  publisher: Stanford University Press
+  publisher-place: Stanford, CA
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: '*Compilatio* and the Wife of Bath: Latin backgrounds, Ricardian texts'
+  type: chapter
+
+- id: HorobinIntroductionMiddleEnglish2002
+  author:
+    - family: Horobin
+      given: Simon
+    - family: Smith
+      given: J. J.
+  call-number: PE524 .H67 2002
+  citation-key: HorobinIntroductionMiddleEnglish2002
+  collection-title: Edinburgh Textbooks on the English Language
+  event-place: New York
+  ISBN: 0-19-521949-X
+  issued:
+    - year: 2002
+  number-of-pages: '182'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: An introduction to Middle English
+  type: book
+  URL: >-
+    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/detail.action?docID=5011612
+
+- id: IvyBibliographyManuscriptbook1958
+  author:
+    - family: Ivy
+      given: G. S.
+  citation-key: IvyBibliographyManuscriptbook1958
+  container-title: 'The English library before 1700: studies in Its history'
+  editor:
+    - family: Wormald
+      given: Francis
+    - family: Wright
+      given: C. E.
+  event-place: London
+  ISBN: 978-90-5005-136-1
+  issued:
+    - year: 1958
+  page: 32-65
+  publisher: Athlone Press
+  publisher-place: London
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: The bibliography of the manuscript-book
+  type: chapter
+
+- id: JohnsComingPrintEurope2014
+  abstract: >-
+    Throughout human history, the world's knowledge and fruits of the creative
+    imagination have been produced, circulated and received through the medium
+    of the material text. This Companion provides a wide-ranging account of the
+    history of the book and its ways of thinking about works from ancient
+    inscription to contemporary e-books, discussing thematic, chronological and
+    methodological aspects of this interdisciplinary field. The first part
+    considers book cultures from local, national and global perspectives. Part
+    two, organized around the dynamic relationship between the material book and
+    the mutable text, develops a loosely chronological narrative from early
+    writing, through manuscript and early printing, to the institution of a
+    mechanized book trade, and on to the globalization of publishing and the
+    introduction of the electronic book. A third part takes a practical turn,
+    discussing methods, sources and approaches: bibliographical, archival and
+    reading experience methodologies, as well as pedagogical strategies.
+  author:
+    - family: Johns
+      given: Adrian
+  citation-key: JohnsComingPrintEurope2014
+  collection-title: Cambridge Companions to Literature
+  container-title: The Cambridge companion to the history of the book
+  DOI: 10.1017/CCO9781139152242
+  editor:
+    - family: Howsam
+      given: Leslie
+  event-place: Cambridge
+  ISBN: 978-1-107-62509-9
+  issued:
+    - year: 2014
+  language: en
+  page: 107-124
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: The coming of print to Europe
+  type: chapter
+
+- id: KastanShakespeareBook2001
+  author:
+    - family: Kastan
+      given: David Scott
+  citation-key: KastanShakespeareBook2001
+  event-place: Cambridge
+  ISBN: 978-0-521-78139-8
+  issued:
+    - year: 2001
+  language: en
+  number-of-pages: xiii+167
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: Shakespeare and the book
+  type: book
+
+- id: Kerby-FultonOpeningMiddleEnglish2012
+  author:
+    - family: Kerby-Fulton
+      given: Kathryn
+    - family: Hilmo
+      given: Maidie
+    - family: Olson
+      given: Linda
+  citation-key: Kerby-FultonOpeningMiddleEnglish2012
+  event-place: Ithaca, NY
+  ISBN: 978-0-8014-5053-2
+  issued:
+    - year: 2012
+  publisher: Cornell University Press
+  publisher-place: Ithaca, NY
+  title: 'Opening up Middle English manuscripts: literary and visual approaches'
+  title-short: Opening up Middle English manuscripts
+  type: book
+
+- id: LawtonNortonChaucerCanterbury2019
+  abstract: >-
+    Vibrant, innovative, accessible Available as both a portable paperback
+    volume and an enhanced digital edition, this complete collection of The
+    Norton Chaucer: Canterbury Tales is meticulously glossed and annotated. With
+    access to the ground-breaking Reading Chaucer Tutorial included in every new
+    copy, this volume delivers unmatched support and value.
+  citation-key: LawtonNortonChaucerCanterbury2019
+  editor:
+    - family: Lawton
+      given: David
+  event-place: New York
+  ISBN: 978-0-393-64350-3
+  issued:
+    - year: 2019
+  language: en
+  number-of-pages: '640'
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  title: 'The Norton Chaucer: The Canterbury Tales'
+  title-short: The Canterbury Tales
+  type: book
+
+- id: MurphyIntroductionWhatHappens2007
+  abstract: >-
+    "Shakespeare's works were among the first English texts to be edited. The
+    history of adapting them has positioned them as a catalyst for theories of
+    editing and textuality. This book introduces the early editions, editing
+    practices, and publishing history of Shakespeare's works, and examines their
+    influence on bibliographic studies as a whole."--Electronic Library.
+  author:
+    - family: Murphy
+      given: Andrew
+  citation-key: MurphyIntroductionWhatHappens2007
+  collection-title: Blackwell concise companions to literature and culture
+  container-title: A concise companion to Shakespeare and the text
+  editor:
+    - family: Murphy
+      given: Andrew
+  event-place: Malden, MA
+  ISBN: 978-1-4051-8148-8
+  issued:
+    - year: 2007
+  language: en
+  page: 1-14
+  publisher: Blackwell Pub
+  publisher-place: Malden, MA
+  source: luc.primo.exlibrisgroup.com
+  title: 'Introduction: what happens in *Hamlet*?'
+  type: chapter
+
+- id: ONeilEnglishOrthography1980
+  author:
+    - family: O'Neil
+      given: Wayne
+  citation-key: ONeilEnglishOrthography1980
+  container-title: Standards and dialects in English
+  editor:
+    - family: Shopen
+      given: Timothy
+    - family: Williams
+      given: Joseph M.
+  event-place: Cambridge, MA
+  ISBN: 978-0-87626-817-9
+  issued:
+    - year: 1980
+  language: en
+  page: 63-83
+  publisher: Winthrop Publishers
+  publisher-place: Cambridge, MA
+  source: Google Books
+  title: English orthography
+  type: chapter
+
+- id: RobinsonWritingSystems2010
+  author:
+    - family: Robinson
+      given: Andrew
+  citation-key: RobinsonWritingSystems2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez, SJ
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: 978-0-19-967941-6
+  issued:
+    - year: 2010
+  language: en
+  page: 3-18
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: luc.primo.exlibrisgroup.com
+  title: Writing systems
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.flagship.luc.edu/view/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-0001
+
+- id: SayersExperienceAuthorityMediation2010
+  author:
+    - family: Sayers
+      given: Edna Edith
+  citation-key: SayersExperienceAuthorityMediation2010
+  container-title: 'Disability in the Middle Ages: reconsiderations and reverberations'
+  editor:
+    - family: Eyler
+      given: Joshua R.
+  event-place: Farnham
+  ISBN: 978-0-7546-6822-0
+  issued:
+    - year: 2010
+  page: 81-92
+  publisher: Ashgate Publishing Co.
+  publisher-place: Farnham
+  source: EBSCOhost
+  title: 'Experience, authority, and the mediation of deafness: Chaucer''s Wife of Bath'
+  title-short: Experience, authority, and the mediation of deafness
+  type: chapter
+  URL: >-
+    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/reader.action?docID=513937&ppg=94
+
+- id: ShakespeareHamlet2016
+  author:
+    - family: Shakespeare
+      given: William
+  call-number: PR2807.A2 T46 2016
+  citation-key: ShakespeareHamlet2016
+  collection-title: The Arden Shakespeare, third series
+  edition: Revised edition
+  editor:
+    - family: Thompson
+      given: Ann
+    - family: Taylor
+      given: Neil
+  event-place: London
+  ISBN: 978-1-4725-1838-5
+  issued:
+    - year: 2016
+      month: 4
+      day: 21
+  language: en
+  number-of-pages: '689'
+  publisher: Bloomsbury Publishing
+  publisher-place: London
+  source: Google Books
+  title: Hamlet
+  title-short: Hamlet
+  type: book
+
+- id: ShakespeareHamletTexts16032006
+  abstract: >-
+    This volume gives readers the First Quarto text of 1603 and the Folio Text
+    of 1623, modernised and edited to the usual Arden standard. As a companion
+    to the Second Quarto volume, it will be of particular interest to scholars
+    and students of textual history, or to anyone studying Hamlet at an advanced
+    level. Both plays are edited and annotated and the introduction contains the
+    fullest available stage history of the First Quarto text.
+  author:
+    - family: Shakespeare
+      given: William
+  citation-key: ShakespeareHamletTexts16032006
+  collection-title: The Arden Shakespeare, third series
+  editor:
+    - family: Taylor
+      given: Neil
+    - family: Thompson
+      given: Ann
+  event-place: London
+  ISBN: 978-1-904271-80-2
+  issued:
+    - year: 2006
+  language: en
+  number-of-pages: '384'
+  publisher: Bloomsbury Publishing
+  publisher-place: London
+  source: Amazon
+  title: 'Hamlet: The texts of 1603 and 1623'
+  title-short: Hamlet
+  type: book
+
+- id: WernerStudyingEarlyPrinted2019
+  abstract: "A comprehensive resource to understanding the hand-press printing of early books Studying Early Printed Books, 1450 - 1800 offers a guide to the fascinating process of how books were printed in the first centuries of the press and shows how the mechanics of making books shapes how we read and understand them. The author offers an insightful overview of how books were made in the hand-press period and then includes an in-depth review of the specific aspects of the printing process. She addresses questions such as: How was paper made? What were different book formats? How did the press work? In addition, the text is filled with illustrative examples that demonstrate how understanding the early processes can be helpful to today’s researchers. Studying Early Printed Books shows the connections between the material form of a book (what it looks like and how it was made), how a book conveys its meaning and how it is used by readers. The author helps readers navigate books by explaining how to tell which parts of a book are the result of early printing practices and which are a result of later changes. The text also offers guidance on: how to approach a book; how to read a catalog record; the difference between using digital facsimiles and books in-hand. This important guide:  Reveals how books were made with the advent of the printing press and how they are understood today Offers information on how to use digital reproductions of early printed books as well as how to work in a rare books library Contains a useful glossary and a detailed list of recommended readings Includes a companion website for further research\_  Written for students of book history, materiality of text and history of information, Studying Early Printed Books explores the many aspects of the early printing process of books and explains how their form is understood today."
+  author:
+    - family: Werner
+      given: Sarah
+  citation-key: WernerStudyingEarlyPrinted2019
+  event-place: Hoboken, NJ
+  ISBN: 978-1-119-04996-8
+  issued:
+    - year: 2019
+      month: 2
+      day: 26
+  language: en
+  number-of-pages: '216'
+  publisher: Wiley
+  publisher-place: Hoboken, NJ
+  title: 'Studying early printed books, 1450-1800: a practical guide'
+  title-short: Studying early printed books
+  type: book
+...
