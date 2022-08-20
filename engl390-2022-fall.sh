@@ -17,8 +17,8 @@ geometry: margin=1in
 fontsize: 12pt
 colorlinks: true
 toc: true
-csl: config/chicago-cv.csl
-bibliography: bibliographies/engl390-2022-fall.yaml
+csl: ../config/chicago-cv.csl
+bibliography: ../bibliographies/engl390-2022-fall.yaml
 suppress-bibliography: true
 ---
 PANDOC_FRONTMATTER
