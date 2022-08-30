@@ -31,6 +31,23 @@ references:
   title: Manuscripts and audience
   type: chapter
 
+- id: ButlerAncientPhonograph2015
+  author:
+    - family: Butler
+      given: Shane
+  citation-key: ButlerAncientPhonograph2015
+  event-place: New York
+  ISBN: 978-1-935408-91-8
+  issued:
+    - year: 2015
+  language: en
+  number-of-pages: '281'
+  publisher: Zone Books
+  publisher-place: New York
+  source: loyola-primo.com
+  title: The ancient phonograph
+  type: book
+
 - id: CookFirstFirstFolios2019
   author:
     - family: Cook
