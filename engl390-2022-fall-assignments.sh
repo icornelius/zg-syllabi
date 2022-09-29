@@ -33,7 +33,7 @@ echo
 # Exploring Middle English words
 heading
 echo "**Prompt for 09-13.**"
-zfind $COMMON --query-string 'tags:"test"' $PUBLISH  | pandoc_shift_headings
+zfind $COMMON --query-string 'filename:20210822133004' $PUBLISH  | pandoc_shift_headings
 echo "\newpage"
 echo
 
