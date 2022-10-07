@@ -201,6 +201,27 @@ references:
   title: The bibliography of the manuscript-book
   type: chapter
 
+- id: JeromeGoldenBookMarriage2005
+  call-number: PR1867 .K65 2005
+  citation-key: JeromeGoldenBookMarriage2005
+  container-title: >-
+    Geoffrey Chaucer: The Canterbury Tales: Fifteen Tales and the General
+    Prologue
+  edition: 2nd ed
+  event-place: New York
+  ISBN: 0-393-92587-0
+  issued:
+    - year: 2005
+  page: 357-378
+  publisher: W. W. Norton
+  publisher-place: New York
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: '[Latin sources for the Wife of Bath''s Prologue]'
+  translator:
+    - family: Rigg
+      given: A.G.
+  type: chapter
+
 - id: JohnsComingPrintEurope2014
   abstract: >-
     Throughout human history, the world's knowledge and fruits of the creative
