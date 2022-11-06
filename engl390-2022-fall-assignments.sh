@@ -85,7 +85,7 @@ echo
 
 # The second quarto *Hamlet* (week 11)
 heading
-echo "Respond to any prompt you did not select in last week's assignment. You may write on material from any part of the first quarto text of *Hamlet*."
+zfind $COMMON --query-string 'filename:20221105181640' $PUBLISH  | pandoc_shift_headings
 echo "\newpage"
 echo
 
