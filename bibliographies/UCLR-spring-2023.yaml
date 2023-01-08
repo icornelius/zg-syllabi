@@ -87,7 +87,7 @@ references:
   language: en-GB
   publisher: The Poetry Archive
   title: >-
-    <span class="nocase">\["Let me not to the marriage of true minds"]</span>
+    <span class="nocase">"\[Let me not to the marriage of true minds]"</span>
     (Sonnet 116), by William Shakespeare
   title-short: Sonnet 116
   type: song
@@ -112,25 +112,21 @@ references:
   title: A new history of English metre
   type: book
 
-- id: DunbarCollectedPoetryPaul1993
+- id: DunbarWeWearMaskPoetryFoundation
+  accessed:
+    - year: 2023
+      month: 1
+      day: 10
   author:
     - family: Dunbar
       given: Paul Laurence
-  citation-key: DunbarCollectedPoetryPaul1993
-  editor:
-    - family: Braxton
-      given: Joanne M.
-  event-place: Charlottesville
-  ISBN: 978-0-8139-1454-1
-  issued:
-    - year: 1993
+  citation-key: DunbarWeWearMaskPoetryFoundation
   language: en
-  number-of-pages: xxxvi+396
-  publisher: University Press of Virginia
-  publisher-place: Charlottesville
-  source: luc.primo.exlibrisgroup.com
-  title: The collected poetry of Paul Laurence Dunbar
-  type: book
+  license: Copyright 2023 Poetry Foundation
+  publisher: The Poetry Foundation
+  title: We wear the mask
+  type: document
+  URL: https://www.poetryfoundation.org/poems/44203/we-wear-the-mask
 
 - id: FentonWomanFaceNature
   accessed:
@@ -144,8 +140,8 @@ references:
   language: en-GB
   publisher: The Poetry Archive
   title: >-
-    <span class="nocase">\["A woman's face with Nature's own hand
-    painted"]</span> (Sonnet 20), by William Shakespeare
+    <span class="nocase">"\[A woman's face with Nature's own hand
+    painted]"</span> (Sonnet 20), by William Shakespeare
   title-short: Sonnet 20
   type: song
   URL: https://poetryarchive.org/poem/sonnet-20-womans-face/
@@ -160,6 +156,23 @@ references:
   title: Gloria Anzaldúa – How To Tame a Wild Tongue
   type: webpage
   URL: https://genius.com/Gloria-anzaldua-how-to-tame-a-wild-tongue-annotated
+
+- id: HarvardChaucerTextTranslations2023
+  accessed:
+    - year: 2023
+      month: 1
+      day: 15
+  citation-key: HarvardChaucerTextTranslations2023
+  container-title: Harvard's Geoffrey Chaucer Website
+  contributor:
+    - family: Benson
+      given: Larry Dean
+  issued:
+    - year: 2023
+  language: en
+  title: Text and translations
+  type: webpage
+  URL: https://chaucer.fas.harvard.edu/pages/text-and-translations
 
 - id: JohnsonIfWozTapNatch1996
   accessed:
@@ -201,6 +214,28 @@ references:
     - family: Staley
       given: Lynn
   type: book
+
+- id: KolveChaucerLanguage2018
+  author:
+    - family: Kolve
+      given: V. A.
+    - family: Olson
+      given: Glending
+  citation-key: KolveChaucerLanguage2018
+  container-title: 'The Canterbury Tales: Seventeen Tales and the General Prologue'
+  edition: 3rd
+  event-place: New York
+  ISBN: 978-1-324-00078-5
+  issued:
+    - year: 2018
+      month: 6
+  language: en
+  page: xv-xx
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: Google Books
+  title: Chaucer's language
+  type: chapter
 
 - id: LawtonNortonChaucerCanterbury2019
   abstract: >-
@@ -281,7 +316,7 @@ references:
   language: en-GB
   publisher: The Poetry Archive
   title: >-
-    <span class="nocase">\["Shall I Compare Thee to a Summer’s Day"]</span>
+    <span class="nocase">"\[Shall I Compare Thee to a Summer’s Day]"</span>
     (Sonnet 18), by William Shakespeare
   title-short: Sonnet 18
   type: song
@@ -407,6 +442,31 @@ references:
       given: John M.
   type: book
 
+- id: PopePoeticalWorks1978
+  author:
+    - family: Pope
+      given: Alexander
+  citation-key: PopePoeticalWorks1978
+  contributor:
+    - family: Rogers
+      given: Pat
+  editor:
+    - family: Davis
+      given: Herbert
+  event-place: Oxford
+  issued:
+    - year: 1978
+  language: en
+  note: 'OCLC: 27142255'
+  number-of-pages: '754'
+  original-date:
+    - year: 1966
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: Poetical works
+  type: book
+
 - id: Radcliffe130MyMistressEyes
   accessed:
     - year: 2023
@@ -422,7 +482,7 @@ references:
   language: en-GB
   publisher: The Poetry Archive
   title: >-
-    <span class="nocase">\["My mistress' eyes are nothing like the sun"]</span>
+    <span class="nocase">"\[My mistress' eyes are nothing like the sun]"</span>
     (Sonnet 130), by William Shakespeare
   title-short: Sonnet 130
   type: song
