@@ -15,9 +15,9 @@ fontsize: 12pt
 colorlinks: true
 link-citations: true
 toc: true
-csl: ../config/chicago-cv.csl
-bibliography: ../bibliographies/engl390-2022-fall.yaml
-suppress-bibliography: true
+csl: ../config/chicago-numerical.csl
+bibliography: ../bibliographies/UCLR-spring-2023.yaml
+suppress-bibliography: # true
 ---
 PANDOC_FRONTMATTER
 
@@ -44,8 +44,7 @@ echo
 
 # Schedule
 heading
-#zfind $COMMON --query-string 'tags:syllabus & tags:schedule & tags:390 & tags:"fall 2022"' $PUBLISH  | pandoc_shift_headings
-echo "To be supplied"
+zfind $COMMON --query-string 'filename:20220929172613' $PUBLISH  | pandoc_shift_headings
 echo
 
 # Assessment
@@ -144,13 +143,12 @@ echo
 # Version information
 heading
 zfind $COMMON --query-string 'tags:syllabus & tags:"ENGL 390" & tags:"fall 2022" & tags:"version information"' $PUBLISH  | pandoc_shift_headings
-echo "\newpage"
 echo
 
-## Questionnaire
-#heading
-#
-#zfind $COMMON --query-string 'tags:syllabus & tags:UCLR & tags:questionnaire' $PUBLISH  | pandoc_shift_headings
+# Questionnaire
+heading
+zfind $COMMON --query-string 'tags:syllabus & tags:UCLR & tags:questionnaire' $PUBLISH  | pandoc_shift_headings
+echo
 
 # Bibliography
 heading

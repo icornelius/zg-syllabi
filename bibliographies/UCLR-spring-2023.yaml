@@ -1,0 +1,535 @@
+---
+references:
+- id: AnzalduaHowTameWild1999
+  author:
+    - family: Anzaldúa
+      given: Gloria
+  call-number: PS3551 N95 B6 1999 (Bass)
+  citation-key: AnzalduaHowTameWild1999
+  container-title: Borderlands/la frontera, the new mestiza
+  contributor:
+    - family: Saldívar-Hull
+      given: Sonia
+  edition: '2'
+  event-place: San Francisco
+  issued:
+    - year: 1999
+  language: en
+  original-date:
+    - year: 1987
+  page: 75-86
+  publisher: Aunt Lute Books
+  publisher-place: San Francisco
+  title: How to tame a wild tongue
+  type: chapter
+
+- id: AshworthIntroductionArticulatoryPhonetics
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionArticulatoryPhonetics
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: 'Introduction to articulatory phonetics: consonants; vowels'
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
+
+- id: AshworthIntroductionInternationalPhonetic
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionInternationalPhonetic
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: Introduction to the International Phonetic Alphabet
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
+
+- id: BaldickOxfordDictionaryLiterary2015
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: BaldickOxfordDictionaryLiterary2015
+  editor:
+    - family: Baldick
+      given: Chris
+  event-place: Oxford
+  ISBN: 978-0-19-871544-3
+  issued:
+    - year: 2015
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: www-oxfordreference-com.flagship.luc.edu
+  title: The Oxford dictionary of literary terms
+  type: book
+  URL: >-
+    https://www.oxfordreference.com/display/10.1093/acref/9780198715443.001.0001/acref-9780198715443
+
+- id: Clarke116LetMeNot
+  accessed:
+    - year: 2023
+      month: 1
+      day: 10
+  author:
+    - family: Clarke
+      given: Gillian
+  citation-key: Clarke116LetMeNot
+  language: en-GB
+  publisher: The Poetry Archive
+  title: >-
+    <span class="nocase">\["Let me not to the marriage of true minds"]</span>
+    (Sonnet 116), by William Shakespeare
+  title-short: Sonnet 116
+  type: song
+  URL: https://poetryarchive.org/poem/sonnet-116/
+
+- id: DuffellNewHistoryEnglish2008
+  author:
+    - family: Duffell
+      given: Martin J.
+  call-number: PE1505 .D84 2008
+  citation-key: DuffellNewHistoryEnglish2008
+  collection-number: '5'
+  collection-title: Studies in Linguistics
+  event-place: London
+  ISBN: 978-1-905981-91-5 1-905981-91-0
+  issued:
+    - year: 2008
+  number-of-pages: '292'
+  publisher: Modern Humanities Research Association and Maney Publishing
+  publisher-place: London
+  source: orbis.library.yale.edu Library Catalog
+  title: A new history of English metre
+  type: book
+
+- id: DunbarCollectedPoetryPaul1993
+  author:
+    - family: Dunbar
+      given: Paul Laurence
+  citation-key: DunbarCollectedPoetryPaul1993
+  editor:
+    - family: Braxton
+      given: Joanne M.
+  event-place: Charlottesville
+  ISBN: 978-0-8139-1454-1
+  issued:
+    - year: 1993
+  language: en
+  number-of-pages: xxxvi+396
+  publisher: University Press of Virginia
+  publisher-place: Charlottesville
+  source: luc.primo.exlibrisgroup.com
+  title: The collected poetry of Paul Laurence Dunbar
+  type: book
+
+- id: FentonWomanFaceNature
+  accessed:
+    - year: 2023
+      month: 1
+      day: 10
+  author:
+    - family: Fenton
+      given: James
+  citation-key: FentonWomanFaceNature
+  language: en-GB
+  publisher: The Poetry Archive
+  title: >-
+    <span class="nocase">\["A woman's face with Nature's own hand
+    painted"]</span> (Sonnet 20), by William Shakespeare
+  title-short: Sonnet 20
+  type: song
+  URL: https://poetryarchive.org/poem/sonnet-20-womans-face/
+
+- id: GloriaAnzalduaHow
+  accessed:
+    - year: 2023
+      month: 1
+      day: 7
+  citation-key: GloriaAnzalduaHow
+  container-title: Genius
+  title: Gloria Anzaldúa – How To Tame a Wild Tongue
+  type: webpage
+  URL: https://genius.com/Gloria-anzaldua-how-to-tame-a-wild-tongue-annotated
+
+- id: JohnsonIfWozTapNatch1996
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  author:
+    - family: Johnson
+      given: Linton Kwesi
+  citation-key: JohnsonIfWozTapNatch1996
+  issued:
+    - year: 1996
+    - year: 2006
+  language: en-GB
+  publisher: The Poetry Archive
+  title: '*"If I Woz a Tap-Natch Poet"*'
+  type: song
+  URL: https://poetryarchive.org/poem/if-i-woz-tap-natch-poet/
+
+- id: KempeBookMargeryKempe2001
+  author:
+    - family: Kempe
+      given: Margery
+  call-number: PR2007.K4 A199 2001
+  citation-key: KempeBookMargeryKempe2001
+  editor:
+    - family: Staley
+      given: Lynn
+  event-place: New York
+  ISBN: 0-393-97639-4
+  issued:
+    - year: 2001
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: orbis.library.yale.edu Library Catalog
+  title: 'The book of Margery Kempe: A new translation, contexts, criticism'
+  title-short: The Book of Margery Kempe
+  translator:
+    - family: Staley
+      given: Lynn
+  type: book
+
+- id: LawtonNortonChaucerCanterbury2019
+  abstract: >-
+    Vibrant, innovative, accessible Available as both a portable paperback
+    volume and an enhanced digital edition, this complete collection of The
+    Norton Chaucer: Canterbury Tales is meticulously glossed and annotated. With
+    access to the ground-breaking Reading Chaucer Tutorial included in every new
+    copy, this volume delivers unmatched support and value.
+  author:
+    - family: Chaucer
+      given: Geoffrey
+  citation-key: LawtonNortonChaucerCanterbury2019
+  editor:
+    - family: Lawton
+      given: David
+  event-place: New York
+  ISBN: 978-0-393-64350-3
+  issued:
+    - year: 2019
+  language: en
+  number-of-pages: '640'
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  title: The Canterbury tales
+  title-short: The Canterbury Tales
+  type: book
+
+- id: ListenPoems
+  abstract: >-
+    Actors and poets reading and speaking about poetry. Listen to these tracks
+    to help you or your students master the art of recitation.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: ListenPoems
+  container-title: Poetry Out Loud
+  language: en-GB
+  title: Listen To Poems
+  type: webpage
+  URL: https://www.poetryoutloud.org/listen-to-poems/
+
+- id: McCarthyCollectedWorksAnna2019
+  abstract: >-
+    "The Collected Works of Anna Letitia Barbauld, Vol. 1: The Poems, Revised"
+    published on  by Oxford University Press.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: McCarthyCollectedWorksAnna2019
+  editor:
+    - family: McCarthy
+      given: William
+  event-place: Oxford
+  ISBN: 978-0-19-190367-0
+  issued:
+    - year: 2019
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: www.oxfordscholarlyeditions.com
+  title: 'The collected works of Anna Letitia Barbauld, vol. 1: the poems, revised'
+  title-short: The Collected Works of Anna Letitia Barbauld, Vol. 1
+  type: book
+  URL: >-
+    https://www.oxfordscholarlyeditions.com/display/10.1093/actrade/9780198704348.book.1/actrade-9780198704348-book-1
+
+- id: McKellenShallCompareThee
+  accessed:
+    - year: 2023
+      month: 1
+      day: 10
+  author:
+    - family: McKellen
+      given: Ian
+  citation-key: McKellenShallCompareThee
+  language: en-GB
+  publisher: The Poetry Archive
+  title: >-
+    <span class="nocase">\["Shall I Compare Thee to a Summer’s Day"]</span>
+    (Sonnet 18), by William Shakespeare
+  title-short: Sonnet 18
+  type: song
+  URL: >-
+    https://poetryarchive.org/poem/shall-i-compare-thee-to-a-summers-day-sonnet-18/
+
+- id: MelvilleMelvilleShortNovels2002
+  author:
+    - family: Melville
+      given: Herman
+  citation-key: MelvilleMelvilleShortNovels2002
+  editor:
+    - family: McCall
+      given: Dan
+  event-place: New York
+  ISBN: 978-0-393-97641-0
+  issued:
+    - year: 2002
+  language: en
+  number-of-pages: ix+408
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: luc.primo.exlibrisgroup.com
+  title: 'Melville''s short novels: authoritative texts, contexts, criticism'
+  title-short: Melville's short novels
+  type: book
+
+- id: MillaySelectedPoemsEdna2016
+  author:
+    - family: Millay
+      given: Edna St Vincent
+  call-number: PS3525.I495 A6 2016
+  citation-key: MillaySelectedPoemsEdna2016
+  contributor:
+    - family: Peppe
+      given: Holly
+  editor:
+    - family: Jackson
+      given: Timothy F.
+  event-place: New Haven
+  ISBN: 978-0-300-21396-6
+  issued:
+    - year: 2016
+  language: en
+  publisher: Yale University Press
+  publisher-place: New Haven
+  source: luc.primo.exlibrisgroup.com
+  title: Selected poems of Edna St. Vincent Millay
+  type: book
+
+- id: MiltonParadiseLost2005
+  author:
+    - family: Milton
+      given: John
+  citation-key: MiltonParadiseLost2005
+  editor:
+    - family: Kastan
+      given: David Scott
+    - family: Hughes
+      given: Merritt Y.
+  event-place: Indianapolis, IN
+  ISBN: 978-0-87220-734-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: lxxix+427
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  source: luc.primo.exlibrisgroup.com
+  title: Paradise lost
+  type: book
+
+- id: OEDTerminology
+  accessed:
+    - year: 2023
+      month: 1
+      day: 9
+  citation-key: OEDTerminology
+  container-title: Oxford English Dictionary
+  language: en
+  title: OED terminology
+  type: webpage
+  URL: https://public.oed.com/how-to-use-the-oed/glossary/
+
+- id: PhillipsStealAway2003
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  author:
+    - family: Phillips
+      given: Esther
+  citation-key: PhillipsStealAway2003
+  issued:
+    - year: 2003
+  language: en-GB
+  publisher: The Poetry Archive
+  title: '*"Steal Away"*'
+  type: song
+  URL: https://poetryarchive.org/poem/steal-away/
+
+- id: PlatoTrialDeathSocrates2000
+  author:
+    - literal: Plato of Athens
+  citation-key: PlatoTrialDeathSocrates2000
+  edition: 3rd ed.
+  event-place: Indianapolis, IN
+  ISBN: 978-1-60384-459-8
+  issued:
+    - year: 2000
+  language: en
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  source: luc.primo.exlibrisgroup.com
+  title: >-
+    The trial and death of Socrates: Euthyphro, Apology, Crito, death scene from
+    Phaedo
+  title-short: The trial and death of Socrates
+  translator:
+    - family: Grube
+      given: G. M. A.
+    - family: Cooper
+      given: John M.
+  type: book
+
+- id: Radcliffe130MyMistressEyes
+  accessed:
+    - year: 2023
+      month: 1
+      day: 10
+  author:
+    - family: Radcliffe
+      given: Daniel
+  citation-key: Radcliffe130MyMistressEyes
+  composer:
+    - family: Shakespeare
+      given: William
+  language: en-GB
+  publisher: The Poetry Archive
+  title: >-
+    <span class="nocase">\["My mistress' eyes are nothing like the sun"]</span>
+    (Sonnet 130), by William Shakespeare
+  title-short: Sonnet 130
+  type: song
+  URL: >-
+    https://poetryarchive.org/poem/sonnet-130-my-mistress-eyes-are-nothing-like-the-sun/
+
+- id: RandallBalladBirminghamPoetryFoundation
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  author:
+    - family: Randall
+      given: Dudley
+  citation-key: RandallBalladBirminghamPoetryFoundation
+  language: en
+  license: Copyright 2023 Poetry Foundation
+  note: 'Original publication date: 1968'
+  original-publisher: Broadside Press
+  publisher: The Poetry Foundation
+  title: Ballad of Birmingham
+  type: document
+  URL: https://www.poetryfoundation.org/poems/46562/ballad-of-birmingham
+
+- id: ShakespeareCompleteSonnetsPoems2008
+  author:
+    - family: Shakespeare
+      given: William
+  citation-key: ShakespeareCompleteSonnetsPoems2008
+  collection-title: The Oxford Shakespeare
+  editor:
+    - family: Burrow
+      given: Colin
+  event-place: Oxford
+  ISBN: 978-0-19-173232-4
+  issued:
+    - year: 2008
+  language: en
+  number-of-pages: ix+750
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: luc.primo.exlibrisgroup.com
+  title: The complete sonnets and poems
+  type: book
+
+- id: ShakespeareTempest2015
+  author:
+    - family: Shakespeare
+      given: William
+  citation-key: ShakespeareTempest2015
+  collection-title: Folger Shakespeare Library
+  edition: Updated ed.
+  editor:
+    - family: Mowat
+      given: Barbara A.
+    - family: Werstine
+      given: Paul
+  event-place: New York
+  ISBN: 978-1-5011-3001-4
+  issued:
+    - year: 2015
+  language: en
+  publisher: Simon & Schuster
+  publisher-place: New York
+  source: www.simonandschuster.com
+  title: The tempest
+  type: book
+
+- id: SophoclesOedipusGrene1991
+  author:
+    - literal: Sophocles
+  call-number: PA4414.A1 G7 1991
+  citation-key: SophoclesOedipusGrene1991
+  collection-title: The complete Greek tragedies
+  edition: 2nd ed.
+  editor:
+    - family: Grene
+      given: David
+    - family: Lattimore
+      given: Richard
+  event-place: Chicago
+  ISBN: 978-0-226-30792-3
+  issued:
+    - year: 1991
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: luc.primo.exlibrisgroup.com
+  title: 'Sophocles I: Oedipus the King; Oedipus at Colonus; Antigone'
+  translator:
+    - family: Grene
+      given: David
+  type: book
+
+- id: YezziWeWearMask
+  accessed:
+    - year: 2023
+      month: 1
+      day: 7
+  author:
+    - family: Yezzi
+      given: David
+  citation-key: YezziWeWearMask
+  language: en-GB
+  publisher: The Poetry Archive
+  title: '"We wear the mask," by Paul Laurence Dunbar'
+  title-short: We wear the mask
+  type: song
+  URL: https://poetryarchive.org/poem/we-wear-mask/
+...
