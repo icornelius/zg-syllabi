@@ -282,10 +282,6 @@ references:
   abstract: >-
     "The Collected Works of Anna Letitia Barbauld, Vol. 1: The Poems, Revised"
     published on  by Oxford University Press.
-  accessed:
-    - year: 2023
-      month: 1
-      day: 8
   citation-key: McCarthyCollectedWorksAnna2019
   editor:
     - family: McCarthy
@@ -301,8 +297,6 @@ references:
   title: 'The collected works of Anna Letitia Barbauld, vol. 1: the poems, revised'
   title-short: The Collected Works of Anna Letitia Barbauld, Vol. 1
   type: book
-  URL: >-
-    https://www.oxfordscholarlyeditions.com/display/10.1093/actrade/9780198704348.book.1/actrade-9780198704348-book-1
 
 - id: McKellenShallCompareThee
   accessed:
