@@ -1,11 +1,16 @@
 This repository builds course materials using the [ZettelGeist](https://zettelgeist.org/) publication workflow.
 Scripts are adapted from George K. Thiruvathukal's [working example](https://github.com/ZettelGeist/zg-tutorial/tree/master/a-working-example).
 
-Currently the repository contains the component parts and assembly scripts to build the syllabus and assignments for ENGL 390 "English Poetry from Manuscript to Print" (fall 2022).
-This GitHub repository also hosts the generated pdf files:
+The repository contains component parts and assembly scripts to build syllabi and assignments for courses taught at Loyola University Chicago in fall 2022 and spring 2023.
+It also hosts the following generated pdf files:
 
-- ENGL 390, fall 2022 [syllabus](https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall.pdf)
-- ENGL 390, fall 2022 [assignment package](https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall-assignments.pdf)
+- "English Poetry from Manuscript to Print" (ENGL 390)
+  [syllabus](https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall.pdf)
+  and [assignment package](https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall-assignments.pdf)
+- "History of the English Language" (ENGL 300)
+  [syllabus](https://icornelius.github.io/zg-syllabi/files/engl300-2023-spring.pdf)
+- "Interpreting Literature" (UCLR 100)
+  [syllabus](https://icornelius.github.io/zg-syllabi/files/uclr100-2023-spring.pdf)
 
 To view and browse the plain-text components of these documents, clone this repository.
 Then, assuming you have [installed ZettelGeist](https://github.com/ZettelGeist/zettelgeist/wiki/Installing-the-Tools), and activated the Python virtual environment, do the following:
