@@ -24,8 +24,8 @@ echo "wc on `date`" >> build-log-${NAME}.txt
 wc ${NAME}-preview.md >> build-log-${NAME}.txt
 tail -4 build-log-${NAME}.txt
 
-pandoc --read markdown --citeproc ${NAME}-preview.md -o ${NAME}-preview.pdf
-pandoc --read markdown --citeproc ${NAME}-preview.md -o ${NAME}-preview.html
+pandoc --read markdown --number-sections --citeproc ${NAME}-preview.md -o ${NAME}-preview.pdf
+pandoc --read markdown --number-sections --citeproc ${NAME}-preview.md -o ${NAME}-preview.html
 # pandoc --read markdown --number-sections --citeproc ${NAME}-preview.md -o ${NAME}-preview.docx
 popd
 
