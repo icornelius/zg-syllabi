@@ -289,6 +289,25 @@ references:
   type: webpage
   URL: https://dare.wisc.edu/audio/
 
+- id: DuffellNewHistoryEnglish2008
+  author:
+    - family: Duffell
+      given: Martin J.
+  call-number: PE1505 .D84 2008
+  citation-key: DuffellNewHistoryEnglish2008
+  collection-number: '5'
+  collection-title: Studies in Linguistics
+  event-place: London
+  ISBN: 978-1-905981-91-5 1-905981-91-0
+  issued:
+    - year: 2008
+  number-of-pages: '292'
+  publisher: Modern Humanities Research Association and Maney Publishing
+  publisher-place: London
+  source: orbis.library.yale.edu Library Catalog
+  title: A new history of English metre
+  type: book
+
 - id: HoadPreliminariesEnglish2012
   author:
     - family: Hoad
