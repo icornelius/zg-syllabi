@@ -115,6 +115,11 @@ heading
 zfind $COMMON --query-string 'filename:20230107104207' $PUBLISH  | pandoc_shift_headings
 echo
 
+## Revisions
+heading
+zfind $COMMON --query-string 'filename:20230206074850' $PUBLISH  | pandoc_shift_headings
+echo
+
 ## Extra credit
 heading
 zfind $COMMON --query-string 'filename:20221105180224' $PUBLISH  | pandoc_shift_headings
