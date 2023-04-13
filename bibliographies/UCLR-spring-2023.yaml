@@ -545,18 +545,16 @@ references:
   title: The tempest
   type: book
 
-- id: SophoclesOedipusGrene1991
+- id: Sophocles1UofChicagoP2ndEd1991
   author:
     - literal: Sophocles
   call-number: PA4414.A1 G7 1991
-  citation-key: SophoclesOedipusGrene1991
+  citation-key: Sophocles1UofChicagoP2ndEd1991
   collection-title: The complete Greek tragedies
   edition: 2nd ed.
   editor:
     - family: Grene
       given: David
-    - family: Lattimore
-      given: Richard
   event-place: Chicago
   ISBN: 978-0-226-30792-3
   issued:
@@ -569,6 +567,40 @@ references:
   translator:
     - family: Grene
       given: David
+  type: book
+
+- id: Sophocles1UofChicagoP3rdEd2013
+  author:
+    - literal: Sophocles
+  citation-key: Sophocles1UofChicagoP3rdEd2013
+  edition: 3rd
+  editor:
+    - family: Grene
+      given: David
+    - family: Lattimore
+      given: Richard
+    - family: Griffith
+      given: Mark
+    - family: Most
+      given: Glenn W.
+  event-place: Chicago
+  ISBN: 978-0-226-31150-0
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '224'
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: Google Books
+  title: 'Sophocles I: Antigone, Oedipus the King, Oedipus at Colonus'
+  title-short: Sophocles I
+  translator:
+    - family: Fitzgerald
+      given: Robert
+    - family: Grene
+      given: David
+    - family: Wyckoff
+      given: Elizabeth
   type: book
 
 - id: YezziWeWearMask
