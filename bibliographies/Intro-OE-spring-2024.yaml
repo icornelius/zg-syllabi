@@ -1,0 +1,160 @@
+---
+references:
+- id: AshworthIntroductionArticulatoryPhonetics
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionArticulatoryPhonetics
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: 'Introduction to articulatory phonetics: consonants; vowels'
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
+
+- id: AshworthIntroductionInternationalPhonetic
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionInternationalPhonetic
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: Introduction to the International Phonetic Alphabet
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
+
+- id: BrooksSocialPoliticalBackground2013
+  author:
+    - family: Brooks
+      given: Nicholas
+  call-number: PR173 .C36 2013
+  citation-key: BrooksSocialPoliticalBackground2013
+  container-title: The Cambridge companion to Old English literature
+  edition: 2nd
+  editor:
+    - family: Godden
+      given: Malcolm
+    - family: Lapidge
+      given: Michael
+  event-place: Cambridge
+  ISBN: 978-0-521-19332-0
+  issued:
+    - year: 2013
+  page: 1-18
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: orbis.library.yale.edu Library Catalog
+  title: The social and political background
+  type: chapter
+
+- id: DonoghueBeowulfVerseTranslation2002
+  call-number: PR1583 .H43 2002
+  citation-key: DonoghueBeowulfVerseTranslation2002
+  collection-title: A Norton critical edition
+  editor:
+    - family: Donoghue
+      given: Daniel
+  event-place: New York
+  ISBN: 978-0-393-97580-2
+  issued:
+    - year: 2002
+  language: en
+  number-of-pages: '256'
+  publisher: Norton
+  publisher-place: New York
+  source: orbis.library.yale.edu Library Catalog
+  title: 'Beowulf: a verse translation: authoritative text, contexts, criticism'
+  title-short: Beowulf
+  translator:
+    - family: Heaney
+      given: Seamus
+  type: book
+
+- id: FulkHistoryOldEnglish2013
+  author:
+    - family: Fulk
+      given: R. D.
+    - family: Cain
+      given: Christopher M.
+  call-number: PR173 .F85 2013eb
+  citation-key: FulkHistoryOldEnglish2013
+  collection-title: Blackwell histories of literature
+  contributor:
+    - family: Anderson
+      given: Rachel S.
+  edition: 2nd edn
+  event-place: Chichester, West Sussex, U.K
+  issued:
+    - year: 2013
+  number-of-pages: '492'
+  publisher: Blackwell
+  publisher-place: Chichester, West Sussex, U.K
+  title: A history of Old English literature
+  type: book
+
+- id: FulkIntroductoryGrammarOld2014
+  author:
+    - family: Fulk
+      given: R. D.
+  citation-key: FulkIntroductoryGrammarOld2014
+  event-place: Tempe, AZ
+  ISBN: 978-0-86698-514-7
+  issued:
+    - year: 2014
+  language: en
+  publisher: ACMRS Publications
+  publisher-place: Tempe, AZ
+  title: An introductory grammar of Old English with an anthology of readings
+  type: book
+
+- id: GoddenCambridgeCompanionOld2013
+  call-number: PR173 .C36 2013
+  citation-key: GoddenCambridgeCompanionOld2013
+  edition: 2nd
+  editor:
+    - family: Godden
+      given: Malcolm
+    - family: Lapidge
+      given: Michael
+  event-place: Cambridge
+  ISBN: 978-0-521-19332-0
+  issued:
+    - year: 2013
+  number-of-pages: '355'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: orbis.library.yale.edu Library Catalog
+  title: The Cambridge companion to Old English literature
+  type: book
+
+- id: LapidgeWileyBlackwellEncyclopediaAngloSaxon2014
+  call-number: DA152 .B58X 2014 (LC)
+  citation-key: LapidgeWileyBlackwellEncyclopediaAngloSaxon2014
+  edition: 2nd
+  editor:
+    - family: Lapidge
+      given: Michael
+    - family: Blair
+      given: John
+    - family: Keynes
+      given: Simon
+    - family: Scragg
+      given: Donald G.
+  event-place: Chichester, West Sussex
+  ISBN: 978-0-470-65632-7
+  issued:
+    - year: 2014
+  number-of-pages: '583'
+  publisher: Wiley Blackwell
+  publisher-place: Chichester, West Sussex
+  source: orbis.library.yale.edu Library Catalog
+  title: The Wiley-Blackwell encyclopedia of Anglo-Saxon England
+  type: book
+...
