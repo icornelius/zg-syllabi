@@ -1,0 +1,233 @@
+---
+references:
+- id: BaldickOxfordDictionaryLiterary2015
+  citation-key: BaldickOxfordDictionaryLiterary2015
+  edition: '4'
+  editor:
+    - family: Baldick
+      given: Chris
+  event-place: Oxford
+  ISBN: 978-0-19-871544-3
+  issued:
+    - year: 2015
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford dictionary of literary terms
+  type: book
+
+- id: Burrow2008CompleteSonnetsPoems
+  author:
+    - family: Shakespeare
+      given: William
+  citation-key: Burrow2008CompleteSonnetsPoems
+  collection-title: The Oxford Shakespeare
+  editor:
+    - family: Burrow
+      given: Colin
+  event-place: Oxford
+  ISBN: 978-0-19-173232-4
+  issued:
+    - year: 2008
+  language: en
+  number-of-pages: ix+750
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: luc.primo.exlibrisgroup.com
+  title: The complete sonnets and poems
+  type: book
+
+- id: ChaucerCanterburyTalesSeventeen2018
+  author:
+    - family: Chaucer
+      given: Geoffrey
+  citation-key: ChaucerCanterburyTalesSeventeen2018
+  edition: '3'
+  editor:
+    - family: Kolve
+      given: V. A.
+    - family: Olson
+      given: Glending
+  event-place: New York
+  ISBN: 978-1-324-00078-5
+  issued:
+    - year: 2018
+      month: 6
+  language: en
+  number-of-pages: '850'
+  publisher: W. W. Norton
+  publisher-place: New York
+  source: Google Books
+  title: 'The Canterbury Tales: Seventeen Tales and the General Prologue'
+  title-short: The Canterbury Tales
+  type: book
+
+- id: GreenePrincetonEncyclopediaPoetry2017
+  citation-key: GreenePrincetonEncyclopediaPoetry2017
+  edition: '4'
+  editor:
+    - family: Greene
+      given: Roland
+  event-place: Princeton
+  ISBN: 978-0-19-068117-3
+  issued:
+    - year: 2017
+  language: en
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: luc.primo.exlibrisgroup.com
+  title: The Princeton encyclopedia of poetry and poetics
+  type: book
+
+- id: LawtonNortonChaucerCanterbury2019
+  author:
+    - family: Chaucer
+      given: Geoffrey
+  citation-key: LawtonNortonChaucerCanterbury2019
+  editor:
+    - family: Lawton
+      given: David
+  event-place: New York
+  ISBN: 978-0-393-64350-3
+  issued:
+    - year: 2019
+  language: en
+  number-of-pages: '640'
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  title: The Canterbury tales
+  title-short: The Canterbury Tales
+  type: book
+
+- id: LiuzzaOldEnglishPoetry2014
+  citation-key: LiuzzaOldEnglishPoetry2014
+  editor:
+    - family: Liuzza
+      given: Roy M.
+  event-place: Peterborough, Ontario
+  ISBN: 978-1-55481-157-1
+  issued:
+    - year: 2014
+  language: en
+  number-of-pages: '280'
+  publisher: Broadview Press
+  publisher-place: Peterborough, Ontario
+  source: Amazon
+  title: 'Old English poetry: an anthology'
+  title-short: Old English Poetry
+  type: book
+
+- id: McArthurOxfordCompanionEnglish2018
+  abstract: >-
+    "The Oxford Companion to the English Language" published on  by Oxford
+    University Press.
+  citation-key: McArthurOxfordCompanionEnglish2018
+  editor:
+    - family: McArthur
+      given: Tom
+    - family: Lam-McArthur
+      given: Jacqueline
+    - family: Fontaine
+      given: Lise
+  event-place: Oxford
+  ISBN: 978-0-19-966128-2
+  issued:
+    - year: 2018
+      month: 5
+      day: 24
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford companion to the English language
+  type: book
+
+- id: MillaySelectedPoemsEdna2016
+  author:
+    - family: Millay
+      given: Edna St Vincent
+  call-number: PS3525.I495 A6 2016
+  citation-key: MillaySelectedPoemsEdna2016
+  contributor:
+    - family: Peppe
+      given: Holly
+  editor:
+    - family: Jackson
+      given: Timothy F.
+  event-place: New Haven
+  ISBN: 978-0-300-21396-6
+  issued:
+    - year: 2016
+  language: en
+  publisher: Yale University Press
+  publisher-place: New Haven
+  source: luc.primo.exlibrisgroup.com
+  title: Selected poems of Edna St. Vincent Millay
+  type: book
+
+- id: MiltonParadiseLost2005
+  author:
+    - family: Milton
+      given: John
+  citation-key: MiltonParadiseLost2005
+  editor:
+    - family: Kastan
+      given: David Scott
+    - family: Hughes
+      given: Merritt Y.
+  event-place: Indianapolis, IN
+  ISBN: 978-0-87220-734-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: lxxix+427
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  source: luc.primo.exlibrisgroup.com
+  title: Paradise lost
+  type: book
+
+- id: PopePoeticalWorks1978
+  author:
+    - family: Pope
+      given: Alexander
+  citation-key: PopePoeticalWorks1978
+  contributor:
+    - family: Rogers
+      given: Pat
+  editor:
+    - family: Davis
+      given: Herbert
+  event-place: Oxford
+  issued:
+    - year: 1978
+  language: en
+  note: 'OCLC: 27142255'
+  number-of-pages: '754'
+  original-date:
+    - year: 1966
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: Poetical works
+  type: book
+
+- id: WilliamsonCompleteOldEnglish2017
+  citation-key: WilliamsonCompleteOldEnglish2017
+  collection-title: The Middle Ages series
+  contributor:
+    - family: Shippey
+      given: T. A.
+  event-place: Philadelphia
+  ISBN: 978-0-8122-4847-0
+  issued:
+    - year: 2017
+  language: en
+  publisher: University of Pennsylvania Press
+  publisher-place: Philadelphia
+  source: luc.primo.exlibrisgroup.com
+  title: The complete Old English poems
+  translator:
+    - family: Williamson
+      given: Craig
+  type: book
+...
