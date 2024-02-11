@@ -1,0 +1,10 @@
+---
+geometry: margin=1in
+fontsize: 12pt
+colorlinks: True
+link-citations: True
+toc: True
+csl: config/modern-language-association.csl
+suppress-bibliography: # true
+include-auto: True
+---
