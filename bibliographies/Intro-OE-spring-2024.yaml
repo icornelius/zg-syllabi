@@ -30,6 +30,24 @@ references:
   type: motion_picture
   URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
 
+- id: BakerIntroductionOldEnglish2012
+  author:
+    - family: Baker
+      given: Peter S.
+  citation-key: BakerIntroductionOldEnglish2012
+  edition: 3rd ed.
+  event-place: Chichester, West Sussex
+  ISBN: 978-1-4443-5419-5
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: xvi+398
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester, West Sussex
+  source: luc.primo.exlibrisgroup.com
+  title: Introduction to Old English
+  type: book
+
 - id: BrooksSocialPoliticalBackground2013
   author:
     - family: Brooks
@@ -91,6 +109,7 @@ references:
       given: Rachel S.
   edition: 2nd edn
   event-place: Chichester, West Sussex, U.K
+  ISBN: 978-1-118-45323-0
   issued:
     - year: 2013
   number-of-pages: '492'
