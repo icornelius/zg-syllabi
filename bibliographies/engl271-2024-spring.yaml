@@ -115,6 +115,9 @@ references:
   source: Amazon
   title: 'Old English poetry: an anthology'
   title-short: Old English Poetry
+  translator:
+    - family: Liuzza
+      given: Roy M.
   type: book
 
 - id: McArthurOxfordCompanionEnglish2018
