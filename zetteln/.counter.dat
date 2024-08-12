@@ -1,1 +1,9 @@
-{"course_id": 8, "course_desc": 5, "texts": 4, "schedule": 6, "policies": 12, "misc": 2, "assessment": 7, "assignments": 36, "frame": 2}
+assessment: 7
+assignments: 36
+course_desc: 7
+course_id: 8
+frame: 2
+misc: 2
+policies: 12
+schedule: 6
+texts: 4
