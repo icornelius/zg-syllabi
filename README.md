@@ -40,10 +40,6 @@ Syllabi for spring 2024 are built with [Pandoc](https://pandoc.org/) using the l
 Components for each syllabus are gathered within files tagged `0frame`.
 Each of these 'frames' also supplies a suggested Pandoc command for generating the PDF.
 
-Syllabi for earlier courses were built with the ZettelGeist publication workflow, with scripts adapted from George K. Thiruvathukal's [working example](https://github.com/ZettelGeist/zg-tutorial/tree/master/a-working-example).
-These scripts have been moved to the directory `zg-scripts`.
-See 105f2b2c393c7d82543ec80e8f053d9d85e607b6.
-
 # Misc
 - `date-calculator.py` generates skeleton schedules. See the comment at the head of the file.
 - `bibliographies/` contains bibliographical details for use by Pandoc's `citeproc`
