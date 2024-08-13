@@ -7,4 +7,5 @@ toc: True
 csl: config/modern-language-association.csl
 suppress-bibliography: # true
 include-auto: True
+author: Ian Cornelius
 ---

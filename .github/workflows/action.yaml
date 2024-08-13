@@ -24,17 +24,13 @@ jobs:
       - name: Install XeLaTeX
         run: sudo apt-get install -y texlive-xetex
 
-      - name: Download lua-filter
-        run: wget https://raw.githubusercontent.com/pandoc/lua-filters/master/include-files/include-files.lua
-
       - name: Verify dependencies
         run: |
           pandoc --version
           xetex --version
-          ls include-files.lua
 
       - name: Build
-        run: bash build.sh
+        run: bash build-pdf.sh
 
       - name: Check for Resulting PDF
         run: |
