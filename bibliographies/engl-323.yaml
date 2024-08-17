@@ -1,0 +1,179 @@
+---
+references:
+- id: VaughanPiersPlowmanVersion2011
+  call-number: PR2013 .V38X 2011 (LC)
+  citation-key: VaughanPiersPlowmanVersion2011
+  editor:
+    - family: Vaughan
+      given: Míċeál F.
+  event-place: Baltimore
+  ISBN: 978-1-4214-0139-3
+  issued:
+    - year: 2011
+  number-of-pages: '196'
+  publisher: Johns Hopkins University Press
+  publisher-place: Baltimore
+  source: orbis.library.yale.edu Library Catalog
+  title: 'Piers Plowman: the A version'
+  title-short: Piers Plowman
+  type: book
+
+- id: HorobinIntroductionMiddleEnglish2002
+  author:
+    - family: Horobin
+      given: Simon
+    - family: Smith
+      given: J. J.
+  call-number: PE524 .H67 2002
+  citation-key: HorobinIntroductionMiddleEnglish2002
+  collection-title: Edinburgh Textbooks on the English Language
+  event-place: New York
+  ISBN: 978-0-19-521950-0
+  issued:
+    - year: 2002
+  number-of-pages: '182'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: An introduction to Middle English
+  type: book
+
+- id: LynchGeoffreyChaucerDream2006
+  citation-key: LynchGeoffreyChaucerDream2006
+  editor:
+    - family: Lynch
+      given: Kathyrn L.
+  event-place: New York
+  ISBN: 0-393-92588-9
+  issued:
+    - year: 2006
+  publisher: W.W. Norton
+  publisher-place: New York
+  source: Amazon.com
+  title: 'Geoffrey Chaucer: dream visions and other poems'
+  type: book
+
+- id: KurathMiddleEnglishDictionary1952
+  call-number: PE505 .M53x
+  citation-key: KurathMiddleEnglishDictionary1952
+  edition: online ed.
+  editor:
+    - family: Kurath
+      given: Hans
+    - family: Kuhn
+      given: Sherman M.
+    - family: Lewis
+      given: Robert E.
+  event-place: Ann Arbor
+  issued:
+    - year: 1952
+    - year: 2001
+  publisher: University of Michigan
+  publisher-place: Ann Arbor
+  title: Middle English Dictionary
+  type: book
+  URL: http://quod.lib.umich.edu/m/med/
+
+- id: WinnySirGawainGreen1995
+  abstract: >-
+    The fourteenth-century poem Sir Gawain and the Green Knight is one of the
+    greatest classics of English literature, but one of the least accessible to
+    most twentieth-century readers. Written in an obscure dialect, it is far
+    more difficult to digest in the original than are most other late medieval
+    English works. Yet any translation is bound to lose much of the flavour of
+    the original.   This edition of the poem offers the original text together
+    with a facing-page translation. With the alliterative Middle English before
+    the reader, James Winny provides a non-alliterative and sensitively literal
+    rendering in modern English. This edition also provides an introduction,
+    explanatory and textual notes, a further note on some words that present
+    particular difficulties, and, in the appendices, two contemporary stories,
+    The Feast of Bricriu and The Knight of the Sword, which provide insight on
+    the poem.
+  citation-key: WinnySirGawainGreen1995
+  event-place: Peterborough, Ont.
+  ISBN: 978-1-77048-244-9
+  issued:
+    - year: 1995
+      month: 5
+      day: 31
+  language: en
+  number-of-pages: '193'
+  publisher: Broadview Press
+  publisher-place: Peterborough, Ont.
+  source: Google Books
+  title: Sir Gawain and the Green Knight
+  translator:
+    - family: Winny
+      given: James
+  type: book
+
+- id: MurrayOxfordEnglishDictionary1989
+  citation-key: MurrayOxfordEnglishDictionary1989
+  contributor:
+    - family: Murray
+      given: J. A. H.
+    - family: Bradley
+      given: H.
+    - family: Craigie
+      given: W. A.
+    - family: Onions
+      given: C. T.
+    - family: Simpson
+      given: J. A.
+    - family: Weiner
+      given: E. S. C.
+  edition: 2nd and 3rd eds., online
+  event-place: Oxford
+  issued:
+    - year: 1989
+    - year: 2024
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford English Dictionary
+  title-short: OED
+  type: book
+  URL: http://www.oed.com/
+
+- id: RosenfeldChaucerEncyclopedia2023
+  abstract: >-
+    The Chaucer Encyclopedia provides the most comprehensive overview to date of
+    the life, times, works, sources/analogues, and influence of Geoffrey Chaucer
+    (b. 1340s – d. 1400). It also makes accessible the approaches readers have
+    taken to understanding Chaucer's oeuvre, as well as the analogues and
+    sources (direct or intermediary, contemporary or from the distant past) of
+    Chaucer's works. Providing nearly 1400 entries, more than any similar work
+    on the market today, The Chaucer Encyclopedia is the best source for a new
+    generation of students and scholars. The Chaucer Encyclopedia includes
+    material on:  Important people, places, things, and concepts in Chaucer’s
+    life and works that influenced and shaped him as a writer Chaucer’s
+    influence on generations of writers after him, including authors around the
+    world who continue to look to Chaucer’s texts for inspiration Various other
+    topics that are of particular significance to those pursuing in-depth
+    Chaucer scholarshipThe Chaucer Encyclopedia is an all-in-one resource for
+    those interested in Geoffrey Chaucer. It is a key literary resource for
+    undergraduate, graduate, and some secondary school students, teachers, and
+    informed general readers.
+  citation-key: RosenfeldChaucerEncyclopedia2023
+  DOI: 10.1002/9781119086130
+  editor:
+    - family: Rosenfeld
+      given: Jessica
+    - family: Gillespie
+      given: Vincent
+    - family: Newhauser
+      given: Richard
+    - family: Walter
+      given: Katie L.
+  ISBN: 978-1-119-08799-1
+  issued:
+    - year: 2023
+      month: 6
+      day: 12
+  language: en
+  number-of-pages: '2224'
+  number-of-volumes: '4'
+  publisher: Wiley
+  title: The Chaucer Encyclopedia
+  type: book
+  URL: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119086130
+...

@@ -3,6 +3,7 @@ geometry: margin=1in
 fontsize: 12pt
 colorlinks: True
 link-citations: True
+linkcolor: blue
 toc: True
 csl: config/modern-language-association.csl
 suppress-bibliography: # true

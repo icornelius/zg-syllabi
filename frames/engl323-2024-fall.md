@@ -1,7 +1,8 @@
 ---
-title: Interpreting Literature
+title: Studies in Medieval Literature
+subtitle: Middle English Narrative Poetry
 date: Fall 2024
-bibliography: bibliographies/uclr.yaml
+bibliography: bibliographies/engl-323.yaml
 ---
 
 \newpage
@@ -10,7 +11,7 @@ bibliography: bibliographies/uclr.yaml
 
 ## Course details
 ``` {.include}
-course_id-0002-20220929164752.md
+course_id-0009-20240812172556.md
 ```
 
 ## How to contact me
@@ -20,31 +21,31 @@ course_id-0004-20230107090154.md
 
 # Course description and learning outcomes
 ``` {.include}
-course_desc-0006-20240812160608.md
-course_desc-0007-20240812161300.md
+course_desc-0004-20240324184835.md
+course_desc-0008-20240817162853.md
 ```
 
 # Texts
 ``` {.include}
-texts-0001-20230107092615.md
+texts-0005-20240817164608.md
 ```
 
 # Schedule
 ``` {.include}
 schedule-0005-20240110143330.md
-../temp/schedule-uclr.md
+../temp/schedule-middle-english.md
 ```
 
 ## Final exam {.unnumbered}
 ``` {.include}
-schedule-0008-20240816175249.md
+schedule-0007-20240816175103.md
 policies-0016-20240816180023.md
 ```
 
 # Assessment
 ## Summary of grade components
 ``` {.include}
-assessment-0009-20240817140835.md
+assessment-0008-20240813170600.md
 ```
 
 ## Participation
@@ -52,13 +53,20 @@ assessment-0009-20240817140835.md
 assignments-0034-20240104180544.md
 ```
 
+## Note collections
+``` {.include}
+assignments-0032-20240101202151.md
+```
+
 ## Class presentation
 ``` {.include}
-assignments-0036-20240104202440.md
+assignments-0037-20240817210112.md
 ```
-<!--
-TODO: describe written assignments
--->
+
+## Translation and critical commentary
+``` {.include}
+assignments-0011-20200120155517.md
+```
 
 ## Exams
 ``` {.include}
@@ -85,11 +93,6 @@ policies-0004-20220818161423.md
 ## Attendance
 ``` {.include}
 policies-0000-20220818144137.md
-```
-
-## Extra credit
-``` {.include}
-policies-0010-20221105180224.md
 ```
 
 ## Equity and compliance
@@ -139,7 +142,8 @@ Last updated \today
 [View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/uclr100-2024-fall.md)
 
 # Bibliography
-This bibliography supplies details for readings listed on the [Schedule].
+This bibliography supplies details for readings listed on the course [Schedule] and other books and resources referenced in the [assignments](#assessment).
+These details are available on [Zotero](https://www.zotero.org/irc7/collections/PFJUZZB5) in machine-readable formats.
 
 ---
 nocite: |

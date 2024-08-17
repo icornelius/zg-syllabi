@@ -1,0 +1,210 @@
+---
+references:
+- id: KempeBookMargeryKempe2001
+  author:
+    - family: Kempe
+      given: Margery
+  call-number: PR2007.K4 A199 2001
+  citation-key: KempeBookMargeryKempe2001
+  editor:
+    - family: Staley
+      given: Lynn
+  event-place: New York
+  ISBN: 0-393-97639-4
+  issued:
+    - year: 2001
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: orbis.library.yale.edu Library Catalog
+  title: 'The book of Margery Kempe: A new translation, contexts, criticism'
+  title-short: The Book of Margery Kempe
+  translator:
+    - family: Staley
+      given: Lynn
+  type: book
+
+- id: ShakespeareTempest2015
+  author:
+    - family: Shakespeare
+      given: William
+  citation-key: ShakespeareTempest2015
+  collection-title: Folger Shakespeare Library
+  edition: Updated ed.
+  editor:
+    - family: Mowat
+      given: Barbara A.
+    - family: Werstine
+      given: Paul
+  event-place: New York
+  ISBN: 978-1-5011-3001-4
+  issued:
+    - year: 2015
+  language: en
+  publisher: Simon & Schuster
+  publisher-place: New York
+  source: www.simonandschuster.com
+  title: The tempest
+  type: book
+
+- id: AnzalduaHowTameWild1999
+  author:
+    - family: Anzaldúa
+      given: Gloria
+  call-number: PS3551 N95 B6 1999 (Bass)
+  citation-key: AnzalduaHowTameWild1999
+  container-title: Borderlands/la frontera, the new mestiza
+  contributor:
+    - family: Saldívar-Hull
+      given: Sonia
+  edition: '2'
+  event-place: San Francisco
+  issued:
+    - year: 1999
+  language: en
+  original-date:
+    - year: 1987
+  page: 75-86
+  publisher: Aunt Lute Books
+  publisher-place: San Francisco
+  title: How to tame a wild tongue
+  type: chapter
+
+- id: YezziWeWearMask
+  accessed:
+    - year: 2023
+      month: 1
+      day: 7
+  author:
+    - family: Yezzi
+      given: David
+  citation-key: YezziWeWearMask
+  language: en-GB
+  publisher: The Poetry Archive
+  title: '"We wear the mask," by Paul Laurence Dunbar'
+  title-short: We wear the mask
+  type: song
+  URL: https://poetryarchive.org/poem/we-wear-mask/
+
+- id: MiltonParadiseLost2005
+  author:
+    - family: Milton
+      given: John
+  citation-key: MiltonParadiseLost2005
+  editor:
+    - family: Kastan
+      given: David Scott
+    - family: Hughes
+      given: Merritt Y.
+  event-place: Indianapolis, IN
+  ISBN: 978-0-87220-734-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: lxxix+427
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  source: luc.primo.exlibrisgroup.com
+  title: Paradise lost
+  type: book
+
+- id: AshworthIntroductionArticulatoryPhonetics
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionArticulatoryPhonetics
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: 'Introduction to articulatory phonetics: consonants; vowels'
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
+
+- id: AshworthIntroductionInternationalPhonetic
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionInternationalPhonetic
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: Introduction to the International Phonetic Alphabet
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
+
+- id: BaldickOxfordDictionaryLiterary2015
+  citation-key: BaldickOxfordDictionaryLiterary2015
+  edition: '4'
+  editor:
+    - family: Baldick
+      given: Chris
+  event-place: Oxford
+  ISBN: 978-0-19-871544-3
+  issued:
+    - year: 2015
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford dictionary of literary terms
+  type: book
+
+- id: Sophocles1UofChicagoP3rdEd2013
+  author:
+    - literal: Sophocles
+  citation-key: Sophocles1UofChicagoP3rdEd2013
+  edition: 3rd
+  editor:
+    - family: Grene
+      given: David
+    - family: Lattimore
+      given: Richard
+    - family: Griffith
+      given: Mark
+    - family: Most
+      given: Glenn W.
+  event-place: Chicago
+  ISBN: 978-0-226-31150-0
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '224'
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: Google Books
+  title: 'Sophocles I: Antigone, Oedipus the King, Oedipus at Colonus'
+  title-short: Sophocles I
+  translator:
+    - family: Fitzgerald
+      given: Robert
+    - family: Grene
+      given: David
+    - family: Wyckoff
+      given: Elizabeth
+  type: book
+
+- id: MelvilleMelvilleShortNovels2002
+  author:
+    - family: Melville
+      given: Herman
+  citation-key: MelvilleMelvilleShortNovels2002
+  editor:
+    - family: McCall
+      given: Dan
+  event-place: New York
+  ISBN: 978-0-393-97641-0
+  issued:
+    - year: 2002
+  language: en
+  number-of-pages: ix+408
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: luc.primo.exlibrisgroup.com
+  title: 'Melville''s short novels: authoritative texts, contexts, criticism'
+  title-short: Melville's short novels
+  type: book
+...
