@@ -1,5 +1,21 @@
 ---
 references:
+- id: LeithSocialHistoryEnglish1997
+  author:
+    - family: Leith
+      given: Dick
+  citation-key: LeithSocialHistoryEnglish1997
+  edition: '2'
+  event-place: New York
+  ISBN: 0-415-09797-5
+  issued:
+    - year: 1997
+  number-of-pages: '301'
+  publisher: Routledge
+  publisher-place: New York
+  title: A social history of English
+  type: book
+
 - id: VaughanPiersPlowmanVersion2011
   call-number: PR2013 .V38X 2011 (LC)
   citation-key: VaughanPiersPlowmanVersion2011
@@ -107,6 +123,27 @@ references:
       given: James
   type: book
 
+- id: SauerEvolutionEnglishStudying2021
+  author:
+    - family: Sauer
+      given: Hans
+    - family: Kirner-Ludwig
+      given: Monika
+  citation-key: SauerEvolutionEnglishStudying2021
+  collection-number: '11'
+  collection-title: Stauffenburg Einführungen
+  event-place: Tübingen
+  ISBN: 978-3-86057-280-1
+  issued:
+    - year: 2021
+  language: en
+  note: 'OCLC: 1260202363'
+  publisher: Stauffenburg
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: 'Evolution of English: studying the past, understanding the present'
+  type: book
+
 - id: MurrayOxfordEnglishDictionary1989
   citation-key: MurrayOxfordEnglishDictionary1989
   contributor:
@@ -133,6 +170,54 @@ references:
   title-short: OED
   type: book
   URL: http://www.oed.com/
+
+- id: AshworthIntroductionArticulatoryPhonetics
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionArticulatoryPhonetics
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: 'Introduction to articulatory phonetics: consonants; vowels'
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
+
+- id: AshworthIntroductionInternationalPhonetic
+  accessed:
+    - year: 2023
+      month: 1
+      day: 8
+  citation-key: AshworthIntroductionInternationalPhonetic
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: Introduction to the International Phonetic Alphabet
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
+
+- id: CrystalCambridgeEncyclopediaEnglish2003
+  author:
+    - family: Crystal
+      given: David
+  citation-key: CrystalCambridgeEncyclopediaEnglish2003
+  edition: 2nd ed.
+  event-place: Cambridge
+  ISBN: 978-0-521-82348-7
+  issued:
+    - year: 2003
+  language: en
+  number-of-pages: vii+499
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: The Cambridge encyclopedia of the English language
+  type: book
 
 - id: RosenfeldChaucerEncyclopedia2023
   abstract: >-

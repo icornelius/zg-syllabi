@@ -85,6 +85,17 @@ assessment-0002-20220818165633.md
 policies-0007-20220818163137.md
 ```
 
+## Instructions for written work
+### General instructions
+``` {.include}
+assignments-0001-20220818170911.md
+```
+
+### How to cite the *OED* and *MED*
+``` {.include}
+misc-0003-20240818223707.md
+```
+
 ## Academic integrity
 ``` {.include}
 policies-0004-20220818161423.md
