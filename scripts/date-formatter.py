@@ -15,7 +15,7 @@ import os
 import csv
 import re
 
-data_dir = '../temp/'
+data_dir = '../schedules/'
 output_dir = data_dir
 required_keys = ['week', 'date', 'breaks', 'unit', 'assignment_0']
 

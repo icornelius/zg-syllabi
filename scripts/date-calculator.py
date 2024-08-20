@@ -8,8 +8,9 @@
 #
 # Output is formatted as `csv` and previewed in the terminal.  There is an
 # option to write the output to a file, by default `meeting-dates.csv` in the
-# directory `../temp/`, which is created if it does not exist. To change that
-# path, update the value of the `output_dir` and/or `output_filename` variables.
+# directory `../schedules/`, which is created if it does not exist. To change
+# that path, update the value of the `output_dir` and/or `output_filename`
+# variables.
 #
 # Edit the `csv` to supply content (units, assignments) and record breaks when
 # class does not meet. Then run `format-dates.py` to format the finished
@@ -20,7 +21,7 @@ from datetime import datetime, timedelta
 import os
 
 output_filename = 'meeting-dates.csv'
-output_dir = '../temp/'
+output_dir = '../schedules/'
 
 def get_valid_input(prompt, options):
     while True:

@@ -32,7 +32,7 @@ texts-0001-20230107092615.md
 # Schedule
 ``` {.include}
 schedule-0005-20240110143330.md
-../temp/schedule-uclr.md
+../schedules/uclr100-2024-fall.md
 ```
 
 ## Final exam {.unnumbered}

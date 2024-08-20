@@ -13,13 +13,21 @@ This repository hosts the published syllabi (as PDF) for some recent courses:
   [spring 2023](https://icornelius.github.io/zg-syllabi/files/uclr100-2023-spring.pdf)
 
 # Plain text components
-Plain text components are maintained in the directories `frames/` and `partials/`.
+Plain text components are maintained in the directories `frames`, `schedules`, and `partials`.
 
-Files in `frames/` provide document outlines, metadata, and code blocks for loading content.
+## `frames`
+Markdown files (one per course).
+These supply document outlines and code blocks for loading content.
 (See [Build], below.)
 
-Content is loaded from files in `partials/`.
-These are queryable with [ZettelGeist](https://zettelgeist.org/).
+## `schedules`
+Course schedules as `csv` and `markdown`.
+The `markdown` files are created from the corresponding `csv` by script.
+(See [scripts].)
+
+## `partials`
+This directory houses all syllabus content except course schedules.
+Files are queryable with [ZettelGeist](https://zettelgeist.org/).
 To do that, clone the repository.
 Then, assuming you have [installed ZettelGeist](https://github.com/ZettelGeist/zettelgeist/wiki/Installing-the-Tools), and activated the Python virtual environment, do the following:
 
@@ -56,8 +64,13 @@ Deployment is done with GitHub Actions (see `.github/workflows/action.yaml`).
 The reason for the two-step build is transparency:
 the intermediate Markdown file provides a single plain-text document with clear version history.
 
-# Misc
-- `scripts/date-calculator.py` generates skeleton schedules. See the comment at the head of the file.
-- `bibliographies/` contains bibliographical details for use by Pandoc's `citeproc`
-- `config/` contains some files that control formatting.
-  The Citation Style Language files control the formatting of bibliographical details.
+# Other repository contents
+## `scripts`
+Python scripts to generate skeleton schedules as `csv` and transform the `csv` into well-structured `markdown`.
+See comments at the head of the files.
+
+## `bibliographies`
+Bibliographical details for use by Pandoc's `citeproc`.
+
+## `config`
+Configuration files for document conversion and formatting, including formatting of bibliographical references.

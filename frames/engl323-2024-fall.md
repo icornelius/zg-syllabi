@@ -33,7 +33,7 @@ texts-0005-20240817164608.md
 # Schedule
 ``` {.include}
 schedule-0005-20240110143330.md
-../temp/schedule-middle-english.md
+../schedules/engl323-2024-fall.md
 ```
 
 ## Final exam {.unnumbered}
