@@ -80,7 +80,7 @@ If you use the e-book version, have a plan for note-taking and annotation: prima
 
 Other readings will be distributed in one of these forms:
 
-1.  PDF documents posted to the [resources folder](https://sakai.luc.edu/x/yUdgxF) on Sakai (marked 'Sakai Resources' in the course schedule)
+1.  PDF documents posted to the [resources folder](https://sakai.luc.edu/x/yUdgxF) on Sakai (marked 'Sakai Resources' in the [Course Schedule](#schedule))
 2.  Books on electronic course reserve (marked 'course reserve' in the course schedule)
 3.  On-line resources linked from the course schedule
 
@@ -102,10 +102,10 @@ Here are the most important:
 -   [Wiley's *Chaucer Encyclopedia*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119086130)
 
 These are available at no additional cost to you.
-Some have been purchased by Loyola University Libraries for your use (for these you will be prompted to authenticate with your UVID);
-others are served out on the open web by their creators.
+Some have been purchased by Loyola University Libraries for your use (for these you will be prompted to authenticate with your UVID).
+Others are served out on the open web by their creators.
 
-For access to Wiley's *Chaucer Encyclopedia* or the *Oxford English Dictionary*, Oxford Bibliographies or another publication in the Oxford Reference collections, select the option "Sign in through your institution".
+For access to Wiley's *Chaucer Encyclopedia* or the *Oxford English Dictionary*, Oxford Bibliographies, or another publication in the Oxford Reference collections, select the option "Sign in through your institution".
 
 # Schedule
 
@@ -190,42 +190,42 @@ See [Version Information](#version-information).
 
 ### Thu Oct 17 {#thu-oct-17 .unlisted .unnumbered}
 
--   *The House of Fame*, part 1
+-   *The House of Fame*, books 1 and 2
 
 ### Tue Oct 22 {#tue-oct-22 .unlisted .unnumbered}
 
--   *The House of Fame*, part 2
+-   *The House of Fame*, book 3
 
 ### Thu Oct 24 {#thu-oct-24 .unlisted .unnumbered}
 
--   *The House of Fame*, part 3
+-   *The Parliament of Fowls*, through line 371
 
 ### Tue Oct 29 {#tue-oct-29 .unlisted .unnumbered}
 
--   **First translation and commentary due**
--   *The Parliament of Fowls*, through line 371
+-   *The Parliament of Fowls*, to end
+
+## Unit 4: *Piers Plowman* (weeks 10-13) {#unit-4-piers-plowman-weeks-10-13 .unnumbered}
 
 ### Thu Oct 31 {#thu-oct-31 .unlisted .unnumbered}
 
--   *The Parliament of Fowls*, to end
-
-## Unit 4: *Piers Plowman* (weeks 11-13) {#unit-4-piers-plowman-weeks-11-13 .unnumbered}
+-   **First translation and commentary due**
+-   *Piers Plowman*, prologue
 
 ### Tue Nov 05 {#tue-nov-05 .unlisted .unnumbered}
 
--   *Piers Plowman*, prologue
+-   *Piers Plowman*, passus 1-4
 
 ### Thu Nov 07 {#thu-nov-07 .unlisted .unnumbered}
 
--   *Piers Plowman*, passus 1-4
+-   *Piers Plowman*, passus 5-6
 
 ### Tue Nov 12 {#tue-nov-12 .unlisted .unnumbered}
 
--   *Piers Plowman*, passus 5-7
+-   *Piers Plowman*, passus 7-8
 
 ### Thu Nov 14 {#thu-nov-14 .unlisted .unnumbered}
 
--   *Piers Plowman*, passus 8-11
+-   *Piers Plowman*, passus 9-11
 
 ### Tue Nov 19 {#tue-nov-19 .unlisted .unnumbered}
 
@@ -271,9 +271,9 @@ Plan your end-of-semester travel accordingly.
   class presentation                  10
   first note collection               10
   second note collection              10
-  first trans. and comm.              10
+  first trans. and comm.              15
   second trans. and comm.             15
-  midterm exam                        20
+  midterm exam                        15
   final exam                          20
   TOTAL                              100
 
@@ -324,7 +324,7 @@ A note collection has three parts, as follows:
         The commentary should be about twice the length of the quoted passage.
 
     (g) Three to five descriptive keywords. **For this portion only, you may consult a generative artificial intelligence application**.
-        [Copilot](https://copilot.microsoft.com/) is available to Loyola students fee of charge: select the option to 'sign in through your institution', then use your Loyola email address.
+        [Copilot](https://copilot.microsoft.com/) is available to Loyola students fee of charge: select the option 'sign in through your institution', then use your Loyola email address.
         If you ask the chatbot's help, give some thought to [prompt engineering](https://en.wikipedia.org/wiki/Prompt_engineering).
         You remain responsible for the keywords: if the chatbot gives you uninformative or incorrect keywords, do not use them.
         Good descriptive keywords pick out central and distinctive concepts.
@@ -337,18 +337,18 @@ A note collection has three parts, as follows:
     What questions do you have at the end of this process?
     This overview should be about 500 words.
 
-3.  A list of keywords in your collection, ordered by frequency.
+3.  A list of keywords in your collection.
     For each keyword, state the frequency of the keyword in your note collection (that is, the number of note-items to which the keyword is assigned).
     You may organize this as a table.
 
-Observe the [general instructions for written assignments](#instructions-for-written-work).
+Observe the [general instructions for written assignments](#policies-on-written-work).
 An electronic version should be uploaded to Sakai.
 A paper copy should be printed.
 Electronic and paper copies are due at the beginning of class.
 
 ### Rubric {#note-collections-rubric}
 
-Successful note-collections have the following characteristics:
+Successful note collections have the following characteristics:
 
 -   *Choice of quotes* shows thoughtful and inquisitive engagement with sources; quotes supply good material for other parts of the assignment
 -   *Formatting* is accurate and consistent (this includes formatting of bibliographical references); quotations are accurate, without typographic or other error
@@ -430,7 +430,7 @@ Here are suitable topics or starting-points for presentations in this class:
 \item \emph{grammatica}
 \item Guillaume de Machaut
 \item Hundred Years War
-\item Hunting
+\item hunting
 \item Ireland and medieval Irish literature
 \item John of Gaunt
 \item Julian of Norwich
@@ -512,7 +512,7 @@ Three high-quality sources are probably sufficient for this assignment.
 
 #### Slides {#slides .unnumbered}
 
-Good presentations are clearly structured and have an appropriate mix of concrete, relevant detail (including quotations) and explanatory commentary and interpretation.
+Good presentations are well organized and have an appropriate mix of concrete, relevant detail (including quotations) and explanatory commentary and interpretation.
 Put section titles, key points, factual detail, and quotations on slides; give explanation and interpretation in your own voice.
 
 Most students create slides with Google Slides, Canva, or Microsoft PowerPoint.
@@ -526,6 +526,9 @@ Aim for clarity and accessibility:
 Don't overwhelm us with lots of text in small type: if your topic for a given slide outgrows the dimensions of the slide, divide it among two or more slides.
 Images are welcome but do not distract us with irrelevant graphics: keep the focus on your topic.
 
+Introduce your topic and show its connection to our course.
+If you narrowed an unwieldy topic into one more manageable, 'zoom in' from the larger topic to your chosen subtopic.
+
 List your sources on the penultimate slide of your presentation (these may be split across two or more slides if needed).
 Citations should be formatted in MLA or Chicago style.
 
@@ -537,12 +540,10 @@ Configure your document to be *viewable* (not editable) by anyone with the link.
 #### Delivery {#delivery .unnumbered}
 
 Aim to speak for between five and ten minutes.
-Introduce your topic and show its connection to our course.
-If you narrowed an unwieldy topic into one more manageable, 'zoom in' from the larger topic to your chosen subtopic.
 
 Speaking from notes or note-cards is perfectly fine.
 Unless you are reading a quote from a primary or secondary source, don't read directly from your slides.
-But always read the quotations, or ask for a volunteer to read them.
+But always read the quotations, or ask a volunteer to read them.
 
 Every presentation is followed by a discussion period: here you take questions from your audience and facilitate a class discussion of the questions on your final slide.
 
@@ -561,19 +562,18 @@ Points are allocated as follows (10 points total):
 
   Component        Point value
   -------------- -------------
-  Topic                      2
-  Content                    3
-  Sources                    2
-  Slide design               1
-  Delivery                   1
+  topic                      2
+  content                    3
+  sources                    2
+  slide design               1
+  delivery                   1
   Q&A                        1
 
 A presentation that duplicates the topic of an earlier presentation in this course will receive additional point deductions.
 
 ## Translation and critical commentary
 
-Each student will produce two critical commentaries on a passage of Middle English poetry, portfolio of translations of the passage into Present Day English (PDE), and commentary on the translations.
-These are termed "translations and commentaries".
+Each student will produce two critical commentaries on a passage of Middle English poetry and its translation into Present Day English (PDE).
 
 ### General instructions {#general-instructions-trans-comm}
 
@@ -592,7 +592,7 @@ Each translation and critical commentary consists of the following parts:
 6.  Bibliographic details for all sources.
 
 Clearly label all parts.
-Print a copy, observing the [general instructions for written assignments](#instructions-for-written-work).
+Print a copy, observing the [general instructions for written assignments](#policies-on-written-work).
 Printed and electronic copies are due at the beginning of class on the dates indicated on the [Course Schedule](#schedule).
 
 ### Detailed instructions {#detailed-instructions-trans-comm}
@@ -620,8 +620,8 @@ This commentary should be about 300 words in length.
 
 #### The critical commentary on the original passage {#the-critical-commentary-on-the-original-passage .unnumbered}
 
-Critical commentary aims to show how the details of language and form contribute to the meaning works of literary verse or prose.
-Critical commentary should explain what is said in the passage under consideration:
+Critical commentary aims to show how the details of language and form contribute to the meaning of works of literary verse or prose.
+Critical commentary should establish what is said in the passage under consideration:
 
 -   Who is speaking?
 -   What is the scene?
@@ -631,7 +631,7 @@ Yet the focus should be on the *how* of saying:
 
 -   vocabulary and word choice
 -   metaphor, simile, and other figures of speech
--   rhyme and other sound patterns, if significant
+-   rhyme and other patterns of sound, if significant
 -   sentence structure, style, and tone
 
 Consider the following questions:
@@ -645,7 +645,7 @@ Write about the details that promise the best return on the attention you invest
 
 Be sure to read the editor's notes and marginal word-glosses on your passage.
 Refer at least twice to a historical dictionary of the English language (either the *Middle English Dictionary* or the *Oxford English Dictionary*).
-Your critical commentary should be approximately 300 words in length.
+Your critical commentary should be approximately 500 words in length.
 
 #### Citations and bibliography {#citations-and-bibliography .unnumbered}
 
@@ -656,24 +656,23 @@ For guidance in citing the *Oxford English Dictionary* and *Middle English Dicti
 
 ### Rubric {#rubric-trans-comm}
 
-Successful translations and critical commentaries have the following characteristics:
+Successful critical commentaries have the following characteristics:
 
 -   *Quotations* are accurate
 -   *Terminology* is appropriate to the task and handled effectively
 -   *Commentary* on the passages (translations and original Middle English) is accurate, perceptive, inquisitive, well organized, and supported by appropriate evidence (including reference to historical dictionaries)
 -   *Your prose* is clear and grammatically correct
--   *Citations and Bibliography* are complete, accurate, and correctly formatted
+-   *Citations and bibliography* are complete, accurate, and correctly formatted
 
 Points are allocated as follows (20 points total):
 
-  Component                    Point value
-  -------------------------- -------------
-  accuracy (fact and form)               3
-  grammar                                2
-  style                                  3
-  argument                               6
-  organization                           3
-  citations and bibl.                    3
+  Component                Point value
+  ---------------------- -------------
+  grammar and style                  5
+  argument                           6
+  organization                       3
+  citations and bibl.                3
+  other formal details               3
 
 Incorrect or missing bibliographic details may result in further point deductions.
 
@@ -713,9 +712,9 @@ Outside of office hours email is the best way to reach me.
 I aim to respond to email messages within 24 hours on weekdays and within 48 hours on weekends.
 I ask that you also respond promptly to any messages I may send.
 
-## Instructions for written work
+## Policies on written work
 
-### General instructions {#general-instructions}
+### General policies
 
 Students are invited to talk with me in office hours about any stage of the writing process and encouraged to discuss their writing with peer coaches at the [Writing Center](http://www.luc.edu/writing).
 
@@ -743,12 +742,12 @@ The *Oxford English Dictionary* and *Middle English Dictionary* should be cited 
 > (*OED Online*, "light, *adj.^2^ & n.^3^*")
 
 This is a parenthetical citation for an [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) in the *Oxford English Dictionary*.
-It would be placed within your text, immediately after the final mark of punctuation in the sentence in which you use the entry, for instance:
+It would be placed within your text, immediately before the final mark of punctuation in the sentence in which you use the entry, for instance:
 
 > The adjective *light* (antonym of *dark*) is first recorded in the Old English period (*OED Online*, "light, *adj.^2^ & n.^3^*").
 
 In this sentence the final mark of punctuation is a period.
-The parenthetical citation immediately precedes that.
+The parenthetical citation precedes that.
 The parenthetical citation has two main parts:
 
 1.  An abbreviated reference to the source-container for the cited entry: *OED Online*. This is italicized.
@@ -767,19 +766,18 @@ If you cite a specific sense or [meaning](https://www.oed.com/information/unders
 
 > In the Middle English period the adjective *light* developed the sense 'pale' (*OED Online*, "light, *adj.^2^ & n.^3^*," meaning 3.a).
 
-The first two parts of this parenthetical citation are identical with the one above.
-The third part, "meaning 3.a" references a specific meaning within the entry.
+The first two parts of this parenthetical citation are identical with the earlier one, above.
+The third part, "meaning 3.a", references a specific meaning within the entry.
 
 ## Academic integrity
 
 Loyola University Chicago takes seriously the issues of plagiarism and academic integrity.
 This course abides by the relevant policies of the university's [Undergraduate Studies Catalog](https://catalog.luc.edu/academic-standards-regulations/undergraduate/) (see under "Academic Integrity").
 
-If you are uncertain what constitutes plagiarism, consult the Undergraduate Studies Catalog at the link above.
+If you are uncertain what constitutes plagiarism, consult the Undergraduate Studies Catalog.
 If you are still uncertain, ask me.
 
-Use of generative artificial intelligence in assignments or exams is prohibited.
-Any exception to this policy will be stated in assignment instructions and will apply only to that assignment.
+Except where explicitly permitted in assignment instructions, use of generative artificial intelligence in assignments or exams is prohibited.
 
 ## Attendance
 
@@ -888,9 +886,9 @@ Students will be informed of any changes to the syllabus.
 
 Last updated `\today`{=tex}
 
-[View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/uclr100-2024-fall.md)
+[View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/build/engl323-2024-fall.md)
 
 # Bibliography
 
-This bibliography supplies details for readings listed on the course [Schedule](#schedule) and other books and resources referenced in the [assignments](#assessment).
+This bibliography supplies details for readings listed on the course [Schedule](#schedule) and most other books and resources referenced in the [assignments](#assessment).
 These details are available on [Zotero](https://www.zotero.org/irc7/collections/PFJUZZB5) in machine-readable formats.

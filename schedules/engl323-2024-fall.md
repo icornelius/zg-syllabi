@@ -73,42 +73,42 @@
 
 ## Thu Oct 17 {.unlisted .unnumbered}
 
-- *The House of Fame*, part 1
+- *The House of Fame*, books 1 and 2
 
 ## Tue Oct 22 {.unlisted .unnumbered}
 
-- *The House of Fame*, part 2
+- *The House of Fame*, book 3
 
 ## Thu Oct 24 {.unlisted .unnumbered}
 
-- *The House of Fame*, part 3
+- *The Parliament of Fowls*, through line 371
 
 ## Tue Oct 29 {.unlisted .unnumbered}
 
-- **First translation and commentary due**
-- *The Parliament of Fowls*, through line 371
+- *The Parliament of Fowls*, to end
+
+# Unit 4: *Piers Plowman* (weeks 10-13) {.unnumbered}
 
 ## Thu Oct 31 {.unlisted .unnumbered}
 
-- *The Parliament of Fowls*, to end
-
-# Unit 4: *Piers Plowman* (weeks 11-13) {.unnumbered}
+- **First translation and commentary due**
+- *Piers Plowman*, prologue
 
 ## Tue Nov 05 {.unlisted .unnumbered}
 
-- *Piers Plowman*, prologue
+- *Piers Plowman*, passus 1-4
 
 ## Thu Nov 07 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 1-4
+- *Piers Plowman*, passus 5-6
 
 ## Tue Nov 12 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 5-7
+- *Piers Plowman*, passus 7-8
 
 ## Thu Nov 14 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 8-11
+- *Piers Plowman*, passus 9-11
 
 ## Tue Nov 19 {.unlisted .unnumbered}
 

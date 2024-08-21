@@ -171,33 +171,18 @@ references:
   type: book
   URL: http://www.oed.com/
 
-- id: AshworthIntroductionArticulatoryPhonetics
+- id: AshworthSoundsWorldLanguages
   accessed:
-    - year: 2023
-      month: 1
-      day: 8
-  citation-key: AshworthIntroductionArticulatoryPhonetics
+    - year: 2024
+      month: 8
+      day: 21
+  citation-key: AshworthSoundsWorldLanguages
   collection-title: eNunciate!
   performer:
     - family: Ashworth
       given: Evan
   publisher: The University of British Columbia, Department of Linguistics
-  title: 'Introduction to articulatory phonetics: consonants; vowels'
-  type: motion_picture
-  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
-
-- id: AshworthIntroductionInternationalPhonetic
-  accessed:
-    - year: 2023
-      month: 1
-      day: 8
-  citation-key: AshworthIntroductionInternationalPhonetic
-  collection-title: eNunciate!
-  performer:
-    - family: Ashworth
-      given: Evan
-  publisher: The University of British Columbia, Department of Linguistics
-  title: Introduction to the International Phonetic Alphabet
+  title: Sounds of the World’s Languages
   type: motion_picture
   URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
 
