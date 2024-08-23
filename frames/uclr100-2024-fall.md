@@ -54,16 +54,30 @@ assignments-0034-20240104180544.md
 
 ## Class presentation
 ``` {.include}
-assignments-0036-20240104202440.md
+assignments-0026-20230108135227.md
 ```
+
+## Dictionary report
+The due date for this assignment is listed on the [Schedule].
+Details and instructions will be supplied in due course.
+
+## Poetry report
+The due date for this assignment is listed on the [Schedule].
+Details and instructions will be supplied in due course.
+
 <!--
 TODO: describe written assignments
 -->
 
+## Capstone project
+This is a group project, presented during the final exam period, as shown on the [Schedule].
+Details and instructions will be supplied in due course.
+
 ## Exams
-``` {.include}
-assignments-0029-20240101182234.md
-```
+There are two exams, as shown on the [Schedule].
+Details will be supplied in due course.
+
+The final exam period will be used for presentations of the [Capstone Project].
 
 ## Grade schema
 ``` {.include}
@@ -77,6 +91,17 @@ assessment-0002-20220818165633.md
 policies-0007-20220818163137.md
 ```
 
+## Policies on written work
+### General policies
+``` {.include}
+assignments-0001-20220818170911.md
+```
+
+### How to cite the *Oxford English Dictionary*
+``` {.include}
+misc-0003-20240818223707.md
+```
+
 ## Academic integrity
 ``` {.include}
 policies-0004-20220818161423.md
@@ -85,11 +110,6 @@ policies-0004-20220818161423.md
 ## Attendance
 ``` {.include}
 policies-0000-20220818144137.md
-```
-
-## Extra credit
-``` {.include}
-policies-0010-20221105180224.md
 ```
 
 ## Equity and compliance
@@ -136,10 +156,11 @@ Students will be informed of any changes to the syllabus.
 # Version information
 Last updated \today
 
-[View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/uclr100-2024-fall.md)
+[View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/build/uclr100-2024-fall.md)
 
 # Bibliography
-This bibliography supplies details for readings listed on the [Schedule].
+This bibliography supplies details for readings listed on the course [Schedule] and in the instructions for the [Class Presentation].
+These details are available on [Zotero](https://www.zotero.org/irc7/collections/JU95JMX6) in machine-readable formats.
 
 ---
 nocite: |
