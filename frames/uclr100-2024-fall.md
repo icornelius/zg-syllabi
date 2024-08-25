@@ -58,16 +58,14 @@ assignments-0026-20230108135227.md
 ```
 
 ## Dictionary report
-The due date for this assignment is listed on the [Schedule].
-Details and instructions will be supplied in due course.
+``` {.include}
+assignments-0038-20240824083354.md
+```
 
 ## Poetry report
-The due date for this assignment is listed on the [Schedule].
-Details and instructions will be supplied in due course.
-
-<!--
-TODO: describe written assignments
--->
+``` {.include}
+assignments-0039-20240824172104.md
+```
 
 ## Capstone project
 This is a group project, presented during the final exam period, as shown on the [Schedule].
@@ -75,9 +73,11 @@ Details and instructions will be supplied in due course.
 
 ## Exams
 There are two exams, as shown on the [Schedule].
-Details will be supplied in due course.
-
 The final exam period will be used for presentations of the [Capstone Project].
+
+``` {.include}
+assignments-0024-20230108134803.md
+```
 
 ## Grade schema
 ``` {.include}

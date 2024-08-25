@@ -490,17 +490,217 @@ A presentation that duplicates the topic of an earlier presentation in this cour
 
 ## Dictionary report
 
-The due date for this assignment is listed on the [Schedule](#schedule).
-Details and instructions will be supplied in due course.
+### General instructions {#general-instructions-dictionary-report}
+
+Create a report on a single instance of a word of your choice, selected from the text of either Herman Melville's "Bartleby, The Scrivener" or Toni Morrison's "Recitatif."
+Your principal source will be the *Oxford English Dictionary*.
+The whole report should be about 300 words in length.
+
+Observe the [general instructions for written assignments](#policies-on-written-work).
+Electronic and paper copies are due at the beginning of class on the date indicated on the [Course Schedule](#schedule).
+
+The next sections provide background information, detailed instructions, and a rubric.
+
+### Background information
+
+As a historical dictionary, the *Oxford English Dictionary* (*OED*) aims to describe not prescribe, and it aims to record the whole vocabulary of the English language.
+Editors of the *OED* explain their processes in an animated infographic, ["How words enter the OED"](https://www.oed.com/information/editorial-policy/how-words-enter-the-oed/how-words-enter-the-oed-infographic/), featuring the dictionary's new-ish entry for the acronym [*O.M.G.*](https://www.oed.com/dictionary/omg_int)
+As the infographic shows, dictionary editors illustrate usage with quotations drawn from all kinds of written sources.
+
+The [advanced search option](https://www.oed.com/information/using-the-oed/how-to-getting-started-guides/#advanced-search) allows users to search the *OED* for illustrative quotations drawn from a particular source or a particular author.
+Here are two examples:
+
+-   [Results of an advanced search of the *OED* for illustrative quotations drawn from Herman Melville's "Bartleby, The Scrivener"](https://www.oed.com/search/advanced/Quotations?quotDateFirstUse=all&page=1&sortOption=AZ&textTermText0=H.+Melville&textTermOpt0=QuotAuthor&textTermText1=Bartleby&textTermOpt1=QuotWork&textTermOp1=AND)
+-   [Results of an advanced search of the *OED* for illustrative quotations drawn from the works of Toni Morrison](https://www.oed.com/search/advanced/Quotations?quotAuthor=toni%2520morrison&textTermText0=T.%2520Morrison&textTermOpt0=QuotAuthor&quotDateFirstUse=all&page=1&sortOption=AZ)
+
+Clicking on any item in the search results will allow you to view the quotation within the [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) and [meaning](https://www.oed.com/information/understanding-entries/oed-terminology/#meaning) that it illustrates.
+(This functionality requires that you be logged in.
+If you are not logged in, you will be redirected to the "Factsheet" tab and be prompted to log in when you select any of the other tabs.
+When prompted, select the option "Sign in through your institution.")
+
+Study the results of the advanced searches, above, and the entries linked to them.
+For a refresher on the information collected within *OED* entries, view the video on [Entry display and navigation](https://www.oed.com/information/using-the-oed/how-to-getting-started-guides/#entry-display-and-navigation).
+
+Notice, under each block of quotations, a button labled "Cite".
+Clicking on "Cite" opens a pop-up with suggested citations.
+Next to the "Cite" button many entries have a link to the [Historical Thesaurus of the *OED*](https://www.oed.com/information/about-the-oed/historical-thesaurus-of-the-oed/).
+Clicking on "Historical Thesaurus" opens a list of words used with like meaning at various points in the history of the English language.
+For instance, opening the "Historical Thesaurus" module for ["scrivener, *n.*, meaning 1.a"](https://www.oed.com/dictionary/scrivener_n?tab=meaning_and_use&show-all-quotations=true#1016029231) displays a list of twenty other English words recorded with the meaning "professional writer" at some time in the past millennium.
+These words are sorted chronologically, according to the date of their first recorded use with the meaning "professional writer."
+The dates after each word indicate the period during which the word is recorded with this meaning.
+From this information, we can infer that in 1853, when Melville wrote Bartleby, he had several options for expressing the meaning "professional writer": not only *scrivener* (in use with the meaning "professional writer" since 1218), but also *scriever*, *scribe*, *scrivan*, *penman*, *scrivano*, *scriptor*, *Khoja*, *quill man*, *conicopoly*, *quill-driver*, and *sirkar*.
+
+Links allow us to explore each of these words within the *OED*, and gather information that might be relevant to Melville's usage.
+For instance, we could examine the frequency data for each word, to determine whether it was more or less frequent than *scrivener* in 1853.
+We could also study the definitions and quotations for each word, to determine whether their meanings fully overlap with *scrivener*, or differ from *scrivener* in either denotation or [connotation](https://www.oxfordreference.com/display/10.1093/acref/9780198715443.001.0001/acref-9780198715443-e-246).
+
+### Detailed instructions {#detailed-instructions-oed-report}
+
+Select either Melville's "Bartleby, The Scrivener" or Morrison's "Recitatif."
+Next, from the work you have selected ("Bartleby" or "Recitatif"), select any word not already illustrated by the *OED* with a quotation from the work you have selected.
+
+Entries in the *OED* are updated continuously.
+As of August 24, 2024, the *OED* records quotations from Toni Morrison's novels, but none from "Recitatif."
+So long as this remains true, you may select any word from "Recitatif."
+If you have selected "Bartleby," avoid the words that figure in the advanced search for quotations from that work.
+(See [Background Information](#background-information).)
+
+Once you have selected a word, supply the following:
+
+#### (1) A quotation {#a-quotation .unnumbered}
+
+Select and format an illustrative quotation.
+
+-   Select a quotation from the work ("Bartleby" or "Recitatif"), featuring the word you have chosen. The quotation should usually be a full sentence but may be shorter if the sentence is very long or longer if the sentence is very short: take the *OED*'s illustrative quotations as models.
+
+-   Distinguish your word with **bold** type.
+
+-   Indicate the source of the quotation. Do this by placing the author's last name, the short title of the work, and the page number in parentheses after the quotation. For instance: (Melville, "Bartleby," p. 3). The page-number reference should be to the edition from which we read in this course.
+
+-   Put the formatted quotation and the citation at the top of your report. Label it "Quotation."
+
+#### (2) A definition and dictionary citation {#a-definition-and-dictionary-citation .unnumbered}
+
+Identify the *OED* [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) and [meaning](https://www.oed.com/information/understanding-entries/oed-terminology/#meaning) that best fits the use of the word in the quotation you have selected.
+
+-   Perform a [quick search](https://www.oed.com/information/using-the-oed/how-to-getting-started-guides/#quick-search) of the *OED* and identify the [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) that corresponds to your word.
+
+-   Once you have found the relevant entry, read through the meanings. Identify the meaning that best fits the use of the word in your quotation. Copy the [definition](https://www.oed.com/information/understanding-entries/oed-terminology/#definition) and paste it into your report, under the quotation. Label this "Definition."
+
+-   Open the "Cite" window for the relevant meaning. Under "MLA9", select the option "Copy to clipboard." Paste this citation into your report. Label it "Dictionary citation."
+
+#### (3) Synonyms {#synonyms .unnumbered}
+
+-   If the meaning you identified in (2) has a link to the Historical Thesaurus of the *OED* click the link.
+
+-   Review the list of synonyms. Identify the ones that were in use with the relevant meaning when your author wrote. List these words in your report, labeled "Synonyms." If the *OED* gives no link to the Historical Thesaurus under the given meaning, you may try searching the Historical Thesaurus directly. (See the video introduction, linked under the [Background information](#background-information), above.)
+
+#### (4) Discussion {#discussion .unnumbered}
+
+Discuss the word and your author's use of it in the quotation you selected in (1). This section should be formatted as continuous expository prose (that is, as sentences and paragraphs) and labeled "Discussion."
+Before you write, study all parts of the entry you identified in (2). Examine linked and related entries as well.
+Report whatever seems to you most relevant, useful, or interesting.
+For instance, consider these questions:
+
+-   When your author wrote, was the word a recent addition to the English language, or did it already have a long history of use in this language?
+
+-   When your author wrote, was the meaning you identified in (2) a recent development, or well established?
+
+-   Does the definition given in (2) adequately capture the meaning of the word as used in the quotation you selected in (1)? If you think not, explain why and propose a more exact definition.
+
+-   When your author wrote, did the word have many meanings or few?
+
+-   When your author wrote, how frequent was the word in English?
+
+-   Where did the word come from? If it was borrowed from another language or languages, which one(s)?
+
+-   If you identified synonyms in (3), why might your author have selected this word, in preference to the others listed in the Historical Thesaurus? How would the sentence be changed, if your author had used one of those synonyms instead?
+
+-   How do particular features of the word contribute to the meaning of the passage in which you found it, and the story as a whole?
+
+### Rubric {#rubric-dictionary-report}
+
+Successful dictionary reports have the following characteristics:
+
+-   The *format* is correct, following all instructions
+-   *Information* is accurate: this includes the quotation and page-number reference; *OED* entry, meaning, and citation; list of synonyms; and any other information reported in the discussion
+-   The *discussion* is clear, perceptive, inquisitive, well organized, grammatically correct, and makes effective use of the dictionary
+
+Points are allocated as follows (10 points total):
+
+  Component                   Point value
+  ------------------------- -------------
+  formal details                        3
+  *OED* entry and meaning               2
+  synonyms                              1
+  discussion                            4
+
+A report with inaccurate, incomplete, or unverifiable references will receive additional point deductions.
 
 ## Poetry report
 
-The due date for this assignment is listed on the [Schedule](#schedule).
-Details and instructions will be supplied in due course.
+### General instructions {#general-instructions-poem-report}
 
-<!--
-TODO: describe written assignments
--->
+Select a short passage from John Milton's *Paradise Lost*, book one, then prompt a generative artificial intelligence application to paraphrase the passage into easy modern English prose.
+The prose paraphrase is an example of [lossy data compression](https://www.oed.com/dictionary/lossy_adj).
+Write a report on the losses.
+Your report should be about 300 words in length, supported by reference to the *Oxford English Dictionary* (*OED*) and literary terms and concepts introduced in this class.
+
+Observe the [general instructions for written assignments](#policies-on-written-work).
+Electronic and paper copies are due at the beginning of class on the date indicated on the [Course Schedule](#schedule).
+
+The next sections provide detailed instructions and a rubric.
+
+### Detailed instructions {#detailed-instructions-poem-report}
+
+#### The original passage {#the-original-passage .unnumbered}
+
+Your passage should be a coherent grammatical unit, three to five lines in length.
+You may begin or end mid-line, if doing so yields a coherent grammatical unit.
+Do not begin or end within a clause.
+
+Keyboard the passage from our textbook.
+Check the result, letter-by-letter, to correct typographic errors.
+Supply line numbers in parentheses at the end of the passage.
+
+#### The prose paraphrase {#the-prose-paraphrase .unnumbered}
+
+Prompt a generative artificial intelligence application to paraphrase the passage in easy modern English prose.
+[Copilot](https://copilot.microsoft.com/) is available to Loyola students free of charge: select the option 'sign in through your institution', then use your Loyola email address.
+
+Quote the bot's paraphrase and describe the prompt you used to generate it.
+Identify the generative artificial intelligence application and version number you used (Copilot, ChatGPT 4 or 4o, Gemini, etc.).
+
+#### The commentary {#the-commentary .unnumbered}
+
+Discuss specific differences between the prose paraphrase and Milton's verse.
+If the bot substituted an easy word for a hard one, research the hard word in the *OED* and consider why Milton might have used it.
+If the bot changed the order of words, describe Milton's word order and consider why he might have written that way.
+If the bot omitted or ignored parts of the passage, consider what they might contribute to Milton's verse.
+If you think the bot got something wrong, discuss the error.
+
+Your commentary should be supported by reference to at least two entries in the *OED*.
+Cite these entries as instructed in the section [How to cite the *Oxford English Dictionary*](#how-to-cite-the-oxford-english-dictionary).
+Also pay attention to footnotes and marginal glosses in our edition of *Paradise Lost*.
+Use these when they are helpful and cite them parenthetically as "note to line x", replacing *x* with the line number.
+
+#### Use and citation of AI {#use-and-citation-of-ai .unnumbered}
+
+Everyone should use an artificial intelligence application to generate the prose paraphrase.
+When you have done that, you have two options:
+
+1.  Close the generative artificial intelligence application and make no further use of this technology
+2.  Prompt the generative artificial intelligence application to analyze and comment on the paraphrase it has produced
+
+If you choose option (1) your commentary should begin with the statement "I have not used generative AI for this section."
+If you choose option (2) your commentary should begin with the statement "This section was written with the help of generative AI."
+**Commentaries that do not begin with one or the other of these statements will receive a zero.**
+Both options may receive full credit.
+
+If you consult an AI, you are responsible for judging the accuracy and value of the outputs generated, and you must cite the specific words and ideas that derive from the AI.
+For guidance on citing the output of generative artificial intelligence applications, see MLA's guide ["How do I cite generative AI in MLA style?"](https://style.mla.org/citing-generative-ai/).
+
+### Rubric {#rubric-poetry-report}
+
+Successful poetry reports have the following characteristics:
+
+-   The *quotation* from Milton's verse is accurate, of appropriate length, and grammatically coherent
+-   The *format* is correct, following all instructions
+-   *Commentary* is accurate, perceptive, inquisitive, well organized, and supported by appropriate evidence (including reference to the *OED*)
+-   *Your prose* is clear and grammatically correct
+-   *Citations* are complete, accurate, and correctly formatted
+
+Points are allocated as follows (10 points total):
+
+  Component                  Point value
+  ------------------------ -------------
+  quality of observation               3
+  use of the *OED*                     2
+  organization                         2
+  grammar and style                    1
+  formal details                       2
+
+Incorrect or missing citations will result in further point deductions.
 
 ## Capstone project
 
@@ -510,9 +710,42 @@ Details and instructions will be supplied in due course.
 ## Exams
 
 There are two exams, as shown on the [Schedule](#schedule).
-Details will be supplied in due course.
-
 The final exam period will be used for presentations of the [Capstone Project](#capstone-project).
+
+Exams are a mix of passage identification and multiple choice.
+
+### Instructions for passage identification
+
+For each passage, state the author of the passage and the title of the work from which the passage is excerpted.
+Then write a short interpretative commentary.
+Consider the following:
+
+-   What is the genre or form of the work?
+-   What is happening in the passage? What is the context of the passage within the work?
+    If there is a pronoun in the passage, identify its [antecedent](https://www.oxfordreference.com/display/10.1093/acref/9780199658237.001.0001/acref-9780199658237-e-78).
+-   How do specific details of language contribute to the meaning of the passage?
+    Quote and briefly discuss two or three details of sound, rhythm, meter, word choice, syntax, word order, figurative language, or another device of composition.
+-   What themes or issues are raised by the passage and its context?
+-   How does the passage contribute to the meaning of the work as a whole?
+
+Write about details that repay the investment of attention you give to them.
+
+### Rubric for passage identification
+
+Successful passage identification has the following characteristics:
+
+-   *Author*, *title*, *genre*, and *context* are identified correctly
+-   *Commentary* on the passage is accurate, precise, perceptive, and inquisitive
+-   *Writing* is clear and well organized
+
+Points are allocated as follows (5 points per passage):
+
+  Component                    Point value
+  -------------------------- -------------
+  author and title                       1
+  context and genre                      1
+  quality of commentary                  2
+  clarity and organization               1
 
 ## Grade schema
 
