@@ -1,5 +1,162 @@
 ---
 references:
+- id: AnzalduaHowTameWild2021
+  author:
+    - family: Anzaldúa
+      given: Gloria
+  citation-key: AnzalduaHowTameWild2021
+  container-title: 'Borderlands = La frontera: the new mestiza'
+  contributor:
+    - family: Keating
+      given: AnaLouise
+  edition: Critical edition
+  editor:
+    - family: Vivancos Pérez
+      given: Ricardo F.
+    - family: Cantú
+      given: Norma Elia
+  event-place: San Francisco
+  ISBN: 978-1-879960-95-4
+  issued:
+    - year: 2021
+  page: 119-131
+  publisher: Aunt Lute Books
+  publisher-place: San Francisco
+  source: luc.primo.exlibrisgroup.com
+  title: How to tame a wild tongue
+  type: chapter
+
+- id: AshworthSoundsWorldLanguages
+  accessed:
+    - year: 2024
+      month: 8
+      day: 21
+  citation-key: AshworthSoundsWorldLanguages
+  collection-title: eNunciate!
+  performer:
+    - family: Ashworth
+      given: Evan
+  publisher: The University of British Columbia, Department of Linguistics
+  title: Sounds of the World’s Languages
+  type: motion_picture
+  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
+
+- id: BaldickOxfordDictionaryLiterary2015
+  citation-key: BaldickOxfordDictionaryLiterary2015
+  edition: '4'
+  editor:
+    - family: Baldick
+      given: Chris
+  event-place: Oxford
+  ISBN: 978-0-19-871544-3
+  issued:
+    - year: 2015
+  language: en_US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford dictionary of literary terms
+  type: book
+
+- id: BrooksWeRealCoolundated
+  accessed:
+    - year: 2024
+      month: 8
+      day: 23
+  author:
+    - family: Brooks
+      given: Gwendolyn
+  citation-key: BrooksWeRealCoolundated
+  container-title: Poems & Poets
+  issued:
+    - literal: undated
+  original-date:
+    - year: 1959
+  publisher: The Poetry Foundation
+  title: We Real Cool
+  type: chapter
+  URL: https://www.poetryfoundation.org/poetrymagazine/poems/28112/we-real-cool
+
+- id: CoferLatinDeliArs1996
+  author:
+    - family: Cofer
+      given: Judith Ortiz
+  citation-key: CoferLatinDeliArs1996
+  container-title: >-
+    Voices of Latino Culture: Readings from Spain, Latin America, and the United
+    States
+  editor:
+    - family: Whitaker
+      given: Daniel S.
+  ISBN: 978-0-7872-2591-9
+  issued:
+    - year: 1996
+  language: en
+  original-date:
+    - year: 1993
+  page: 265-266
+  publisher: Kendall/Hunt Publishing Company
+  title: 'The Latin Deli: An Ars Poetica'
+  type: chapter
+
+- id: DunbarEreSleepComesundated
+  accessed:
+    - year: 2024
+      month: 8
+      day: 23
+  author:
+    - family: Dunbar
+      given: Paul Laurence
+  citation-key: DunbarEreSleepComesundated
+  container-title: Poems
+  issued:
+    - literal: undated
+  language: en
+  original-date:
+    - year: 1895
+  publisher: American Academy of Poets
+  title: Ere Sleep Comes Down to Soothe the Weary Eyes
+  type: chapter
+  URL: https://poets.org/poem/ere-sleep-comes-down-soothe-weary-eyes
+
+- id: DunbarWeWearMaskundated
+  accessed:
+    - year: 2024
+      month: 8
+      day: 23
+  author:
+    - family: Dunbar
+      given: Paul Laurence
+  citation-key: DunbarWeWearMaskundated
+  container-title: Poems & Poets
+  issued:
+    - literal: undated
+  original-date:
+    - year: 1895
+  publisher: The Poetry Foundation
+  title: We Wear the Mask
+  type: chapter
+  URL: https://www.poetryfoundation.org/poems/44203/we-wear-the-mask
+
+- id: HayesGoldenShovelundated
+  accessed:
+    - year: 2024
+      month: 8
+      day: 23
+  author:
+    - family: Hayes
+      given: Terrance
+  citation-key: HayesGoldenShovelundated
+  container-title: Poems & Poets
+  issued:
+    - literal: undated
+  original-date:
+    - year: 1981
+    - year: 1991
+  publisher: The Poetry Foundation
+  title: The Golden Shovel
+  type: chapter
+  URL: https://www.poetryfoundation.org/poems/55678/the-golden-shovel
+
 - id: KempeBookMargeryKempe2001
   author:
     - family: Kempe
@@ -22,6 +179,74 @@ references:
     - family: Staley
       given: Lynn
   type: book
+
+- id: MelvilleBartlebyScrivenerStory2002
+  author:
+    - family: Melville
+      given: Herman
+  citation-key: MelvilleBartlebyScrivenerStory2002
+  container-title: 'Melville''s short novels: authoritative texts, contexts, criticism'
+  editor:
+    - family: McCall
+      given: Dan
+  event-place: New York
+  ISBN: 978-0-393-97641-0
+  issued:
+    - year: 2002
+  language: en
+  original-date:
+    - year: 1853
+  page: 3-34
+  publisher: W. W. Norton & Company
+  publisher-place: New York
+  source: luc.primo.exlibrisgroup.com
+  title: 'Bartleby, the Scrivener: A Story of Wall-street'
+  type: chapter
+
+- id: MiltonParadiseLost2005
+  author:
+    - family: Milton
+      given: John
+  citation-key: MiltonParadiseLost2005
+  editor:
+    - family: Kastan
+      given: David Scott
+    - family: Hughes
+      given: Merritt Y.
+  event-place: Indianapolis, IN
+  ISBN: 978-0-87220-734-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: lxxix+427
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  source: luc.primo.exlibrisgroup.com
+  title: Paradise lost
+  type: book
+
+- id: MorrisonRecitatif1983
+  author:
+    - family: Morrison
+      given: Toni
+  citation-key: MorrisonRecitatif1983
+  container-title: 'Confirmation: an anthology of African American women'
+  editor:
+    - family: Baraka
+      given: Amiri
+    - family: Baraka
+      given: Amina
+  event-place: New York, NY
+  ISBN: 978-0-688-01580-0
+  issued:
+    - year: 1983
+  language: en
+  page: 243-261
+  publisher: William Morrow and Company
+  publisher-place: New York, NY
+  source: luc.primo.exlibrisgroup.com
+  title: Recitatif
+  type: chapter
 
 - id: MurrayOxfordEnglishDictionary1989
   citation-key: MurrayOxfordEnglishDictionary1989
@@ -74,15 +299,6 @@ references:
   type: book
 
 - id: SmithThisLanguageRiver2017
-  abstract: >-
-    This Language, A River is an introduction to the history of English that
-    recognizes multiple varieties of the language in both current and historical
-    contexts. Developed over years of undergraduate teaching, the book helps
-    students both to grasp traditional histories of English and to extend and
-    complicate those histories.  Exercises throughout provide opportunities for
-    puzzling out concepts, committing terms and data to memory, and applying
-    ideas. A comprehensive glossary and up-to-date bibliographies help to guide
-    further study.
   author:
     - family: Smith
       given: K. Aaron
@@ -100,75 +316,6 @@ references:
   source: Google Books
   title: 'This language, a river: a history of English'
   title-short: This Language, A River
-  type: book
-
-- id: YezziWeWearMask
-  accessed:
-    - year: 2023
-      month: 1
-      day: 7
-  author:
-    - family: Yezzi
-      given: David
-  citation-key: YezziWeWearMask
-  language: en-GB
-  publisher: The Poetry Archive
-  title: '"We wear the mask," by Paul Laurence Dunbar'
-  title-short: We wear the mask
-  type: song
-  URL: https://poetryarchive.org/poem/we-wear-mask/
-
-- id: MiltonParadiseLost2005
-  author:
-    - family: Milton
-      given: John
-  citation-key: MiltonParadiseLost2005
-  editor:
-    - family: Kastan
-      given: David Scott
-    - family: Hughes
-      given: Merritt Y.
-  event-place: Indianapolis, IN
-  ISBN: 978-0-87220-734-9
-  issued:
-    - year: 2005
-  language: en
-  number-of-pages: lxxix+427
-  publisher: Hackett
-  publisher-place: Indianapolis, IN
-  source: luc.primo.exlibrisgroup.com
-  title: Paradise lost
-  type: book
-
-- id: AshworthSoundsWorldLanguages
-  accessed:
-    - year: 2024
-      month: 8
-      day: 21
-  citation-key: AshworthSoundsWorldLanguages
-  collection-title: eNunciate!
-  performer:
-    - family: Ashworth
-      given: Evan
-  publisher: The University of British Columbia, Department of Linguistics
-  title: Sounds of the World’s Languages
-  type: motion_picture
-  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
-
-- id: BaldickOxfordDictionaryLiterary2015
-  citation-key: BaldickOxfordDictionaryLiterary2015
-  edition: '4'
-  editor:
-    - family: Baldick
-      given: Chris
-  event-place: Oxford
-  ISBN: 978-0-19-871544-3
-  issued:
-    - year: 2015
-  language: en_US
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  title: The Oxford dictionary of literary terms
   type: book
 
 - id: Sophocles1UofChicagoP3rdEd2013
@@ -205,187 +352,19 @@ references:
       given: Elizabeth
   type: book
 
-- id: DunbarEreSleepComesundated
+- id: YezziWeWearMask
   accessed:
-    - year: 2024
-      month: 8
-      day: 23
+    - year: 2023
+      month: 1
+      day: 7
   author:
-    - family: Dunbar
-      given: Paul Laurence
-  citation-key: DunbarEreSleepComesundated
-  container-title: Poems
-  issued:
-    - literal: undated
-  language: en
-  original-date:
-    - year: 1895
-  publisher: American Academy of Poets
-  title: Ere Sleep Comes Down to Soothe the Weary Eyes
-  type: chapter
-  URL: https://poets.org/poem/ere-sleep-comes-down-soothe-weary-eyes
-
-- id: DunbarWeWearMaskundated
-  accessed:
-    - year: 2024
-      month: 8
-      day: 23
-  author:
-    - family: Dunbar
-      given: Paul Laurence
-  citation-key: DunbarWeWearMaskundated
-  container-title: Poems & Poets
-  issued:
-    - literal: undated
-  original-date:
-    - year: 1895
-  publisher: The Poetry Foundation
-  title: We Wear the Mask
-  type: chapter
-  URL: https://www.poetryfoundation.org/poems/44203/we-wear-the-mask
-
-- id: BrooksWeRealCoolundated
-  accessed:
-    - year: 2024
-      month: 8
-      day: 23
-  author:
-    - family: Brooks
-      given: Gwendolyn
-  citation-key: BrooksWeRealCoolundated
-  container-title: Poems & Poets
-  issued:
-    - literal: undated
-  original-date:
-    - year: 1959
-  publisher: The Poetry Foundation
-  title: We Real Cool
-  type: chapter
-  URL: https://www.poetryfoundation.org/poetrymagazine/poems/28112/we-real-cool
-
-- id: HayesGoldenShovelundated
-  accessed:
-    - year: 2024
-      month: 8
-      day: 23
-  author:
-    - family: Hayes
-      given: Terrance
-  citation-key: HayesGoldenShovelundated
-  container-title: Poems & Poets
-  issued:
-    - literal: undated
-  original-date:
-    - year: 1981
-    - year: 1991
-  publisher: The Poetry Foundation
-  title: The Golden Shovel
-  type: chapter
-  URL: https://www.poetryfoundation.org/poems/55678/the-golden-shovel
-
-- id: CoferLatinDeliArs1996
-  author:
-    - family: Cofer
-      given: Judith Ortiz
-  citation-key: CoferLatinDeliArs1996
-  container-title: >-
-    Voices of Latino Culture: Readings from Spain, Latin America, and the United
-    States
-  editor:
-    - family: Whitaker
-      given: Daniel S.
-  ISBN: 978-0-7872-2591-9
-  issued:
-    - year: 1996
-  language: en
-  original-date:
-    - year: 1993
-  page: 265-266
-  publisher: Kendall/Hunt Publishing Company
-  title: 'The Latin Deli: An Ars Poetica'
-  type: chapter
-
-- id: MorrisonRecitatif1983
-  author:
-    - family: Morrison
-      given: Toni
-  citation-key: MorrisonRecitatif1983
-  container-title: 'Confirmation: an anthology of African American women'
-  editor:
-    - family: Baraka
-      given: Amiri
-    - family: Baraka
-      given: Amina
-  event-place: New York, NY
-  ISBN: 978-0-688-01580-0
-  issued:
-    - year: 1983
-  language: en
-  page: 243-261
-  publisher: William Morrow and Company
-  publisher-place: New York, NY
-  source: luc.primo.exlibrisgroup.com
-  title: Recitatif
-  type: chapter
-
-- id: MelvilleBartlebyScrivenerStory2002
-  author:
-    - family: Melville
-      given: Herman
-  citation-key: MelvilleBartlebyScrivenerStory2002
-  container-title: 'Melville''s short novels: authoritative texts, contexts, criticism'
-  editor:
-    - family: McCall
-      given: Dan
-  event-place: New York
-  ISBN: 978-0-393-97641-0
-  issued:
-    - year: 2002
-  language: en
-  original-date:
-    - year: 1853
-  page: 3-34
-  publisher: W. W. Norton & Company
-  publisher-place: New York
-  source: luc.primo.exlibrisgroup.com
-  title: 'Bartleby, the Scrivener: A Story of Wall-street'
-  type: chapter
-
-- id: AnzalduaHowTameWild2021
-  abstract: >-
-    "This critical edition of Borderlands/La Frontera, Gloria Anzaldúa's
-    foundational work for Chicanx/Latinx studies, gender and sexuality studies,
-    and border studies, includes a preface by Norma Elia Cantú, a critical
-    introduction by Ricardo F. Vivancos-Pérez, the complete text of the original
-    editon of Borderlands, including extensive critical notes, and a
-    comprehensive bibliography of scholarship on Borderlands and history of
-    reprints. In addition, it contains never-before printed facsimiles of draft
-    versions of the both the prose and poetry sections of Borderlands from The
-    Gloria Evangelina Anzaldúa Papers from the Nettie Lee Benson Latin American
-    Collection at UT Austin and an Afterword about the Anzaldúa Papers from
-    AnaLouise Keating"-- Provided by publisher.
-  author:
-    - family: Anzaldúa
-      given: Gloria
-  citation-key: AnzalduaHowTameWild2021
-  container-title: 'Borderlands = La frontera: the new mestiza'
-  contributor:
-    - family: Keating
-      given: AnaLouise
-  edition: Critical edition
-  editor:
-    - family: Vivancos Pérez
-      given: Ricardo F.
-    - family: Cantú
-      given: Norma Elia
-  event-place: San Francisco
-  ISBN: 978-1-879960-95-4
-  issued:
-    - year: 2021
-  page: 119-131
-  publisher: Aunt Lute Books
-  publisher-place: San Francisco
-  source: luc.primo.exlibrisgroup.com
-  title: How to tame a wild tongue
-  type: chapter
+    - family: Yezzi
+      given: David
+  citation-key: YezziWeWearMask
+  language: en-GB
+  publisher: The Poetry Archive
+  title: '"We wear the mask," by Paul Laurence Dunbar'
+  title-short: We wear the mask
+  type: song
+  URL: https://poetryarchive.org/poem/we-wear-mask/
 ...
