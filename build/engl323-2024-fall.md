@@ -769,6 +769,16 @@ If you cite a specific sense or [meaning](https://www.oed.com/information/unders
 The first two parts of this parenthetical citation are identical with the earlier one, above.
 The third part, "meaning 3.a", references a specific meaning within the entry.
 
+### Late work
+
+If illness or another event in your life prevents you from completing a written assignment on time, alert me promptly by email.
+Do not wait for me to contact you.
+Unexcused late work will be marked down 10% during the first 24 hours after the due date and an additional 10% each business day thereafter.
+Work still outstanding two weeks (ten business days) after the due date will receive a zero.
+`<!--
+Unexcused late work cannot be revised for a higher grade.
+-->`{=html}
+
 ## Academic integrity
 
 Loyola University Chicago takes seriously the issues of plagiarism and academic integrity.
