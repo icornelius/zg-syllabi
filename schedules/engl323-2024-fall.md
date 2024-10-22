@@ -73,46 +73,46 @@
 
 ## Thu Oct 17 {.unlisted .unnumbered}
 
-- *The House of Fame*, books 1 and 2
+- *The Book of the Duchess*, continued
 
 ## Tue Oct 22 {.unlisted .unnumbered}
 
-- *The House of Fame*, book 3
+- *The House of Fame*, books 1 and 2
 
 ## Thu Oct 24 {.unlisted .unnumbered}
 
-- *The Parliament of Fowls*, through line 371
+- *The House of Fame*, book 3
 
 ## Tue Oct 29 {.unlisted .unnumbered}
 
-- *The Parliament of Fowls*, to end
-
-# Unit 4: *Piers Plowman* (weeks 10-13) {.unnumbered}
+- *The Parliament of Fowls*, through line 371
 
 ## Thu Oct 31 {.unlisted .unnumbered}
 
 - **First translation and commentary due**
-- *Piers Plowman*, prologue
+- *The Parliament of Fowls*, to end
+
+# Unit 4: *Piers Plowman* (weeks 11-13) {.unnumbered}
 
 ## Tue Nov 05 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 1-4
+- *Piers Plowman*, prologue
 
 ## Thu Nov 07 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 5-6
+- *Piers Plowman*, passus 1-4
 
 ## Tue Nov 12 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 7-8
+- *Piers Plowman*, passus 5-6
 
 ## Thu Nov 14 {.unlisted .unnumbered}
 
-- *Piers Plowman*, passus 9-11
+- *Piers Plowman*, passus 7-8
 
 ## Tue Nov 19 {.unlisted .unnumbered}
 
-- *Piers Plowman*, cont’d
+- *Piers Plowman*, passus 9-11
 
 # Unit 5: *Sir Gawain and the Green Knight* (weeks 13-15) {.unnumbered}
 
