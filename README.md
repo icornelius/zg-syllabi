@@ -1,17 +1,17 @@
 This repository hosts the published syllabi (as PDF) for some recent courses:
 
 - "Exploring Poetry" (ENGL 271)
-  [spring 2024](https://icornelius.github.io/zg-syllabi/files/engl271-2024-spring.pdf)
+  [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl271-2024-spring.pdf)
 - "History of the English Language" (ENGL 300)
-  [spring 2023](https://icornelius.github.io/zg-syllabi/files/engl300-2023-spring.pdf)
+  [spring 2023](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl300-2023-spring.pdf)
 - "Introduction to Old English" (ENGL 321/441)
-  [spring 2024](https://icornelius.github.io/zg-syllabi/files/engl441-2024-spring.pdf)
+  [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl441-2024-spring.pdf)
 - "Studies in Medieval Literature" (ENGL 323)
-  [fall 2024](https://github.com/icornelius/zg-syllabi/releases/latest/download/engl323-2024-fall.pdf)
+  [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/engl323-2024-fall.pdf)
 - "English Poetry from Manuscript to Print" (ENGL 390)
-  [fall 2022](https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall.pdf)
+  [fall 2022](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl390-2022-fall.pdf)
 - "Interpreting Literature" (UCLR 100)
-  [fall 2024](https://github.com/icornelius/zg-syllabi/releases/latest/download/uclr100-2024-fall.pdf)
+  [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/uclr100-2024-fall.pdf)
 
 # Plain text components
 Plain text components are maintained in the directories `frames`, `schedules`, and `partials`.
