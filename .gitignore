@@ -1,7 +1,16 @@
+# PDF files in the `build' dir
 build/*.pdf
+
+# Markdown output of date-formatter.py
+schedules/*.md
+
+# temporary files
 temp*
 
-# ignore zettelgeist utility files
+# zettelgeist utility files
 index.db
 tags.txt*
 mentions.txt*
+
+# LibreOffice lock files
+.~lock.*#
