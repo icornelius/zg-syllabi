@@ -16,3 +16,6 @@ popd
 
 # Make Markdown files in build/ read-only
 for f in build/*md ; do chmod 444 $f ; done
+
+# Build the PDF
+bash build-pdf.sh

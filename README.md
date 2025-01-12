@@ -55,15 +55,15 @@ Syllabi are built with [Pandoc](https://pandoc.org/) and LaTeX.
 This is done in two steps.
 
 First, atomized components are gathered into a single Markdown file, using the lua filter [`include-files`](https://github.com/pandoc/lua-filters/tree/master/include-files).
-This operation is done with `build-markdown.sh`, which should be run locally.
 The resulting Markdown file is read-only: editing should be done in the atomized source components.
-
 Second, the read-only Markdown file is converted to PDF.
-This is done with `build-pdf.sh`, which may be run locally for testing purposes.
-Deployment is done with GitHub Actions (see `.github/workflows/action.yaml`).
-
 The reason for the two-step build is transparency:
 the intermediate Markdown file provides a single plain-text document with clear version history.
+
+The script `build-all.sh` builds the intermediate Markdown file and PDF file.
+The PDF file is for local testing only.
+The Markdown file must be committed to the repository and pushed to origin prior to deployment.
+Deployment is done with GitHub Actions (see `.github/workflows/action.yaml`).
 
 # Other repository contents
 ## `scripts`
