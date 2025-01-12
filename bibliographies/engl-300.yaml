@@ -1,54 +1,43 @@
 ---
 references:
-- id: AshworthIntroductionArticulatoryPhonetics
-  accessed:
-    - year: 2023
-      month: 1
-      day: 8
-  citation-key: AshworthIntroductionArticulatoryPhonetics
-  collection-title: eNunciate!
-  performer:
-    - family: Ashworth
-      given: Evan
-  publisher: The University of British Columbia, Department of Linguistics
-  title: 'Introduction to articulatory phonetics: consonants; vowels'
-  type: motion_picture
-  URL: https://enunciate.arts.ubc.ca/linguistics/introductory-videos/
-
-- id: AshworthIntroductionInternationalPhonetic
-  accessed:
-    - year: 2023
-      month: 1
-      day: 8
-  citation-key: AshworthIntroductionInternationalPhonetic
-  collection-title: eNunciate!
-  performer:
-    - family: Ashworth
-      given: Evan
-  publisher: The University of British Columbia, Department of Linguistics
-  title: Introduction to the International Phonetic Alphabet
-  type: motion_picture
-  URL: https://enunciate.arts.ubc.ca/linguistics/world-sounds/
-
-- id: BaileyChicago190019502012
+- id: AlgeoOriginsDevelopmentEnglish2013
   author:
-    - family: Bailey
-      given: Richard W.
-  citation-key: BaileyChicago190019502012
-  container-title: 'Speaking American: a history of English in the United States'
-  event-place: Oxford
-  ISBN: 978-1-283-42815-6
+    - family: Algeo
+      given: John
+    - family: Butcher
+      given: Carmen A.
+  citation-key: AlgeoOriginsDevelopmentEnglish2013
+  edition: '7'
+  event-place: Boston, MA
+  ISBN: 978-1-133-30727-3
   issued:
-    - year: 2012
+    - year: 2013
   language: en
-  page: 139-161
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: luc.primo.exlibrisgroup.com
-  title: Chicago, 1900-1950
-  type: chapter
-  URL: >-
-    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/detail.action?docID=829387
+  number-of-pages: '384'
+  publisher: Cengage Learning
+  publisher-place: Boston, MA
+  source: Google Books
+  title: The origins and development of the English language
+  type: book
+
+- id: AlgeoProblemsOriginsDevelopment2004
+  author:
+    - family: Algeo
+      given: John
+    - family: Butcher
+      given: Carmen Acevedo
+  citation-key: AlgeoProblemsOriginsDevelopment2004
+  edition: 5 Workbook
+  ISBN: 0-15-507053-3
+  issued:
+    - year: 2004
+      month: 6
+      day: 15
+  number-of-pages: '264'
+  publisher: Wadsworth Publishing Company
+  source: Amazon.com
+  title: Problems in the origins and development of the English language
+  type: book
 
 - id: BaileyEnglishLanguages2012
   author:
@@ -72,36 +61,6 @@ references:
   title: English among the languages
   type: chapter
 
-- id: BakerOldEnglishAerobics
-  accessed:
-    - year: 2023
-      month: 1
-      day: 12
-  author:
-    - family: Baker
-      given: Peter S.
-  citation-key: BakerOldEnglishAerobics
-  language: en
-  title: 'Old English aerobics: anthology'
-  type: webpage
-  URL: http://www.oldenglishaerobics.net/anthology.html
-
-- id: BaughHistoryEnglishLanguage2013
-  author:
-    - family: Baugh
-      given: Albert C.
-    - family: Cable
-      given: Thomas
-  citation-key: BaughHistoryEnglishLanguage2013
-  edition: '6'
-  event-place: London; New York
-  issued:
-    - year: 2013
-  publisher: Routledge
-  publisher-place: London; New York
-  title: A history of the English language
-  type: book
-
 - id: BlakeCaxtonOwnProse1973
   citation-key: BlakeCaxtonOwnProse1973
   editor:
@@ -118,69 +77,7 @@ references:
   title: Caxton's own prose
   type: book
 
-- id: BlankBabelRenaissanceEnglish2012
-  author:
-    - family: Blank
-      given: Paula
-  call-number: PE1075 .O97 2012
-  citation-key: BlankBabelRenaissanceEnglish2012
-  container-title: The Oxford history of English
-  edition: updated ed.
-  editor:
-    - family: Mugglestone
-      given: Lynda
-  event-place: Oxford
-  ISBN: 978-0-19-966016-2
-  issued:
-    - year: 2012
-  language: en
-  page: 262-297
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: The babel of Renaissance English
-  type: chapter
-
-- id: BlockleyEssentialLinguistics2008
-  abstract: >-
-    A Companion to the History of the English Language addresses the linguistic,
-    cultural, social, and literary approaches to language study. The first text
-    to offer a complete survey of the field, this volume provides the most
-    up-to-date insights of leading international scholars.An accessible
-    reference to the history of the English language Comprises more than sixty
-    essays written by leading international scholars Aids literature students in
-    incorporating language study into their work Includes an historical survey
-    of the English language, from its Germanic and Indo- Euro
-  author:
-    - family: Blockley
-      given: Mary
-  citation-key: BlockleyEssentialLinguistics2008
-  collection-number: '54'
-  collection-title: Blackwell companions to literature and culture
-  container-title: A companion to the history of the English language
-  editor:
-    - family: Momma
-      given: Haruko
-    - family: Matto
-      given: Michael
-  event-place: Chichester, UK
-  ISBN: 978-1-78268-696-5
-  issued:
-    - year: 2008
-  language: en
-  page: 18-24
-  publisher: Wiley-Blackwell
-  publisher-place: Chichester, UK
-  source: luc.primo.exlibrisgroup.com
-  title: Essential linguistics
-  type: chapter
-
 - id: BurnleyHistoryEnglishLanguage2000
-  abstract: >-
-    For this new edition Professor Burnley has expanded the outline of
-    linguistic features at each of the main chronological divisions and included
-    more selections and illustrations. A new section has also been included to
-    illustrate the language of advertising from the 18th century to the present.
   author:
     - family: Burnley
       given: David
@@ -200,134 +97,70 @@ references:
   title-short: The history of the English language
   type: book
 
-- id: BybeeLanguageChange2015
-  abstract: >-
-    How and why do languages change? This new introduction offers a guide to the
-    types of change at all levels of linguistic structure, as well as the
-    mechanisms behind each type. Based on data from a variety of methods and a
-    huge array of language families, it examines general patterns of change,
-    bringing together recent findings on sound change, analogical change,
-    grammaticalization, the creation and change of constructions, as well as
-    lexical change. Emphasizing crosslinguistic patterns and going well beyond
-    traditional methods in historical linguistics, this book sees change as
-    grounded in cognitive processes and usage factors that are rarely mentioned
-    in other textbooks. Complete with questions for discussion, suggested
-    readings and a useful glossary of terms, this book helps students to gain a
-    general understanding of language as an ever-changing system.
+- id: CarneyMyth5English1998
   author:
-    - family: Bybee
-      given: Joan
-  citation-key: BybeeLanguageChange2015
-  event-place: Cambridge
-  ISBN: 978-1-107-02016-0
-  issued:
-    - year: 2015
-  language: en
-  number-of-pages: '311'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: Google Books
-  title: Language change
-  type: book
-
-- id: CorrieMiddleEnglishDialects2012
-  author:
-    - family: Corrie
-      given: Marilyn
-  call-number: PE1075 .O97 2012
-  citation-key: CorrieMiddleEnglishDialects2012
-  container-title: The Oxford history of English
-  edition: updated ed.
+    - family: Carney
+      given: Edward
+  citation-key: CarneyMyth5English1998
+  container-title: Language myths
   editor:
-    - family: Mugglestone
-      given: Lynda
-  event-place: Oxford
-  ISBN: 978-0-19-966016-2
+    - family: Bauer
+      given: Laurie
+    - family: Trudgill
+      given: Peter
+  event-place: London
+  ISBN: 0-14-026023-4
   issued:
-    - year: 2012
-  page: 106-146
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: 'Middle English: dialects and diversity'
+    - year: 1998
+  language: en
+  page: 32-40
+  publisher: Penguin
+  publisher-place: London
+  source: Amazon.com
+  title: 'Myth 5: English spelling is kattastroffik'
   type: chapter
 
-- id: CrystalOxfordDictionaryOriginal2016
-  abstract: >-
-    This dictionary is the first comprehensive description of Shakespearean
-    original pronunciation (OP), enabling practitioners to deal with any queries
-    about the pronunciation of individual words.
+- id: CrystalCambridgeEncyclopediaEnglish2003
   author:
     - family: Crystal
       given: David
-  citation-key: CrystalOxfordDictionaryOriginal2016
-  event-place: Oxford
-  ISBN: 978-0-19-183508-7
+  citation-key: CrystalCambridgeEncyclopediaEnglish2003
+  edition: 2nd ed.
+  event-place: Cambridge
+  ISBN: 978-0-521-82348-7
   issued:
-    - year: 2016
+    - year: 2003
   language: en
-  publisher: Oxford University Press
-  publisher-place: Oxford
+  number-of-pages: vii+499
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
   source: luc.primo.exlibrisgroup.com
-  title: The Oxford dictionary of original Shakespearean pronunciation
+  title: The Cambridge encyclopedia of the English language
   type: book
-  URL: >-
-    https://www-oxfordreference-com.flagship.luc.edu/view/10.1093/acref/9780199668427.001.0001/acref-9780199668427
 
-- id: DAREAudioSamples
-  abstract: >-
-    1965–70 Fieldwork Recordings now available online at the UW Digital
-    Collections Center
-  accessed:
-    - year: 2023
-      month: 1
-      day: 16
-  citation-key: DAREAudioSamples
-  container-title: Dictionary of American Regional English
-  language: en-US
-  title: Audio Samples
-  type: webpage
-  URL: https://dare.wisc.edu/audio/
-
-- id: DuffellNewHistoryEnglish2008
+- id: HartmannDictionariesTodayWhat2008
   author:
-    - family: Duffell
-      given: Martin J.
-  call-number: PE1505 .D84 2008
-  citation-key: DuffellNewHistoryEnglish2008
-  collection-number: '5'
-  collection-title: Studies in Linguistics
-  event-place: London
-  ISBN: 978-1-905981-91-5 1-905981-91-0
+    - family: Hartmann
+      given: Reinhard R. K.
+  citation-key: HartmannDictionariesTodayWhat2008
+  collection-number: '54'
+  collection-title: Blackwell companions to literature and culture
+  container-title: A companion to the history of the English language
+  editor:
+    - family: Momma
+      given: Haruko
+    - family: Matto
+      given: Michael
+  event-place: Chichester, UK
+  ISBN: 978-1-78268-696-5
   issued:
     - year: 2008
-  number-of-pages: '292'
-  publisher: Modern Humanities Research Association and Maney Publishing
-  publisher-place: London
-  source: orbis.library.yale.edu Library Catalog
-  title: A new history of English metre
-  type: book
-
-- id: HoadPreliminariesEnglish2012
-  author:
-    - family: Hoad
-      given: Terry
-  call-number: PE1075 .O97 2012
-  citation-key: HoadPreliminariesEnglish2012
-  container-title: The Oxford history of English
-  edition: Updated ed
-  editor:
-    - family: Mugglestone
-      given: Lynda
-  event-place: Oxford
-  ISBN: 978-0-19-966016-2
-  issued:
-    - year: 2012
-  page: 9-38
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: 'Preliminaries: before English'
+  language: en
+  page: 93-102
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester, UK
+  source: luc.primo.exlibrisgroup.com
+  title: 'Dictionaries today: what can we do with them?'
   type: chapter
 
 - id: HorobinIntroductionMiddleEnglish2002
@@ -340,7 +173,7 @@ references:
   citation-key: HorobinIntroductionMiddleEnglish2002
   collection-title: Edinburgh Textbooks on the English Language
   event-place: New York
-  ISBN: 0-19-521949-X
+  ISBN: 978-0-19-521950-0
   issued:
     - year: 2002
   number-of-pages: '182'
@@ -349,160 +182,49 @@ references:
   source: www.franklin.library.upenn.edu Library Catalog
   title: An introduction to Middle English
   type: book
-  URL: >-
-    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/detail.action?docID=5011612
 
-- id: JespersenLanguageItsNature1964
-  author:
-    - family: Jespersen
-      given: Otto
-  citation-key: JespersenLanguageItsNature1964
-  event-place: New York
-  issued:
-    - year: 1964
-  language: en
-  number-of-pages: '448'
-  publisher: Norton
-  publisher-place: New York
-  source: luc.primo.exlibrisgroup.com
-  title: 'Language: its nature, development and origin'
-  type: book
-
-- id: JohnsonDictionaryEnglishLanguage1755
-  author:
-    - family: Johnson
-      given: Samuel
-  citation-key: JohnsonDictionaryEnglishLanguage1755
-  event-place: London
-  issued:
-    - year: 1755
-  language: en
-  publisher: >-
-    Printed by W. Strahan, for J. and P. Knapton; T. and T. Longman; C. Hitch
-    and L. Hawes; A. Millar; and Rand J. Dodsley
-  publisher-place: London
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    A dictionary of the English language: in which the words are deduced from
-    their originals, and illustrated in their different significations by
-    examples from the best writers.  To which are prefixed, a history of the
-    language, and an English grammar
-  title-short: A dictionary of the English language
-  type: book
-
-- id: KachruWorldEnglishesWorld2008
-  abstract: >-
-    A Companion to the History of the English Language addresses the linguistic,
-    cultural, social, and literary approaches to language study. The first text
-    to offer a complete survey of the field, this volume provides the most
-    up-to-date insights of leading international scholars.An accessible
-    reference to the history of the English language Comprises more than sixty
-    essays written by leading international scholars Aids literature students in
-    incorporating language study into their work Includes an historical survey
-    of the English language, from its Germanic and Indo- Euro
-  author:
-    - family: Kachru
-      given: Braj B.
-  citation-key: KachruWorldEnglishesWorld2008
-  collection-number: '54'
-  collection-title: Blackwell companions to literature and culture
-  container-title: A companion to the history of the English language
+- id: KurathMiddleEnglishDictionary1952
+  call-number: PE505 .M53x
+  citation-key: KurathMiddleEnglishDictionary1952
+  edition: online ed.
   editor:
-    - family: Momma
-      given: Haruko
-    - family: Matto
-      given: Michael
-  event-place: Chichester, UK
-  ISBN: 978-1-78268-696-5
+    - family: Kurath
+      given: Hans
+    - family: Kuhn
+      given: Sherman M.
+    - family: Lewis
+      given: Robert E.
+  event-place: Ann Arbor
   issued:
-    - year: 2008
-  language: en
-  page: 567-580
-  publisher: Wiley-Blackwell
-  publisher-place: Chichester, UK
-  source: luc.primo.exlibrisgroup.com
-  title: World Englishes in world contexts
-  type: chapter
-
-- id: LawsonSeeingSpeechArticulatory2018
-  accessed:
-    - year: 2023
-      month: 1
-      day: 14
-  author:
-    - family: Lawson
-      given: E.
-    - family: Stuart-Smith
-      given: J.
-    - family: Scobbie
-      given: J. M.
-    - family: Nakai
-      given: S.
-  citation-key: LawsonSeeingSpeechArticulatory2018
-  issued:
-    - year: 2018
-  language: en
-  publisher: University of Glasgow
-  title: 'Seeing speech: an articulatory web resource for the study of phonetics'
-  title-short: Seeing speech
+    - year: 1952
+    - year: 2001
+  publisher: University of Michigan
+  publisher-place: Ann Arbor
+  title: Middle English Dictionary
   type: book
-  URL: https://www.seeingspeech.ac.uk/
+  URL: http://quod.lib.umich.edu/m/med/
 
-- id: McArthurEnglishWorldwideTwentieth2012
-  author:
+- id: McArthurOxfordCompanionEnglish2018
+  citation-key: McArthurOxfordCompanionEnglish2018
+  edition: '2'
+  editor:
     - family: McArthur
       given: Tom
-  call-number: PE1075 .O97 2012
-  citation-key: McArthurEnglishWorldwideTwentieth2012
-  container-title: The Oxford history of English
-  edition: updated ed.
-  editor:
-    - family: Mugglestone
-      given: Lynda
+    - family: Lam-McArthur
+      given: Jacqueline
+    - family: Fontaine
+      given: Lise
   event-place: Oxford
-  ISBN: 978-0-19-966016-2
+  ISBN: 978-0-19-966128-2
   issued:
-    - year: 2012
-  page: 446-487
+    - year: 2018
+      month: 5
+      day: 24
+  language: en_US
   publisher: Oxford University Press
   publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: English world-wide in the twentieth century
-  type: chapter
-
-- id: McKeownShakespeareLiteraryLanguage2008
-  abstract: >-
-    A Companion to the History of the English Language addresses the linguistic,
-    cultural, social, and literary approaches to language study. The first text
-    to offer a complete survey of the field, this volume provides the most
-    up-to-date insights of leading international scholars.An accessible
-    reference to the history of the English language Comprises more than sixty
-    essays written by leading international scholars Aids literature students in
-    incorporating language study into their work Includes an historical survey
-    of the English language, from its Germanic and Indo- Euro
-  author:
-    - family: McKeown
-      given: Adam N.
-  citation-key: McKeownShakespeareLiteraryLanguage2008
-  collection-number: '54'
-  collection-title: Blackwell companions to literature and culture
-  container-title: A companion to the history of the English language
-  editor:
-    - family: Momma
-      given: Haruko
-    - family: Matto
-      given: Michael
-  event-place: Chichester, UK
-  ISBN: 978-1-78268-696-5
-  issued:
-    - year: 2008
-  language: en
-  page: 455-463
-  publisher: Wiley-Blackwell
-  publisher-place: Chichester, UK
-  source: luc.primo.exlibrisgroup.com
-  title: Shakespeare's literary language
-  type: chapter
+  title: The Oxford companion to the English language
+  type: book
 
 - id: McMahonRestructuringRenaissanceEnglish2012
   author:
@@ -527,15 +249,6 @@ references:
   type: chapter
 
 - id: MommaCompanionHistoryEnglish2008
-  abstract: >-
-    A Companion to the History of the English Language addresses the linguistic,
-    cultural, social, and literary approaches to language study. The first text
-    to offer a complete survey of the field, this volume provides the most
-    up-to-date insights of leading international scholars.An accessible
-    reference to the history of the English language Comprises more than sixty
-    essays written by leading international scholars Aids literature students in
-    incorporating language study into their work Includes an historical survey
-    of the English language, from its Germanic and Indo- Euro
   citation-key: MommaCompanionHistoryEnglish2008
   collection-number: '54'
   collection-title: Blackwell companions to literature and culture
@@ -555,88 +268,33 @@ references:
   source: luc.primo.exlibrisgroup.com
   title: A companion to the history of the English language
   type: book
-  URL: >-
-    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/detail.action?docID=470304
 
-- id: MugglestoneOxfordHistoryEnglish2012
-  call-number: PE1075 .O97 2012
-  citation-key: MugglestoneOxfordHistoryEnglish2012
-  edition: updated ed.
-  editor:
-    - family: Mugglestone
-      given: Lynda
+- id: MurrayOxfordEnglishDictionary1989
+  citation-key: MurrayOxfordEnglishDictionary1989
+  contributor:
+    - family: Murray
+      given: J. A. H.
+    - family: Bradley
+      given: H.
+    - family: Craigie
+      given: W. A.
+    - family: Onions
+      given: C. T.
+    - family: Simpson
+      given: J. A.
+    - family: Weiner
+      given: E. S. C.
+  edition: 2nd and 3rd eds., online
   event-place: Oxford
-  ISBN: 978-0-19-966016-2
   issued:
-    - year: 2012
-  number-of-pages: '600'
+    - year: 1989
+    - year: 2024
   publisher: Oxford University Press
   publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: The Oxford history of English
+  title: The Oxford English Dictionary
+  title-short: OED
   type: book
-  URL: >-
-    https://ebookcentral-proquest-com.flagship.luc.edu/lib/luc/detail.action?docID=4701091
-
-- id: MurrayEnglishExercisesAdapted1819
-  author:
-    - family: Murray
-      given: Lindley
-  citation-key: MurrayEnglishExercisesAdapted1819
-  event-place: New York
-  issued:
-    - year: 1819
-  language: en
-  publisher: Collins and Co.
-  publisher-place: New York
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    English exercises, adapted to Murray's English grammar: consisting of
-    exercises in parsing, instances of false orthography, violations of the
-    rules of syntax, defects in punctuation, and violations of the rules
-    respecting perspicuous and accurate writing : designed for the benefit of
-    private learners, as well as for the use of schools
-  title-short: English exercises, adapted to Murray's English grammar
-  type: book
-
-- id: MurrayEnglishGrammarAdapted1811
-  author:
-    - family: Murray
-      given: Lindley
-  citation-key: MurrayEnglishGrammarAdapted1811
-  edition: 19th ed.
-  event-place: New York
-  issued:
-    - year: 1811
-  language: en
-  publisher-place: New York
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    English grammar: adapted to the different classes of learners ; with an
-    appendix, containing rules and observations, for assisting the more advanced
-    students to write with perspicuity and accuracy
-  title-short: English grammar
-  type: book
-
-- id: MurrayEnglishGrammarComprehending1808
-  author:
-    - family: Murray
-      given: Lindley
-  citation-key: MurrayEnglishGrammarComprehending1808
-  edition: New ed.
-  event-place: York
-  issued:
-    - year: 1808
-  language: en
-  publisher: Printed by T. Wilson for Longman, Hurst, Rees, and Ormes
-  publisher-place: York
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    An English grammar: comprehending the principles and rules of the language,
-    illustrated by appropriate exercises, and a key to the exercises
-  title-short: An English grammar
-  type: book
-  volume: '2'
+  URL: http://www.oed.com/
 
 - id: NevalainenMappingChangeTudor2012
   author:
@@ -661,250 +319,28 @@ references:
   title: Mapping change in Tudor English
   type: chapter
 
-- id: OEDTerminology
-  accessed:
-    - year: 2023
-      month: 1
-      day: 9
-  citation-key: OEDTerminology
-  container-title: Oxford English Dictionary
+- id: SauerEvolutionEnglishStudying2021
+  author:
+    - family: Sauer
+      given: Hans
+    - family: Kirner-Ludwig
+      given: Monika
+  citation-key: SauerEvolutionEnglishStudying2021
+  collection-number: '11'
+  collection-title: Stauffenburg Einführungen
+  event-place: Tübingen
+  ISBN: 978-3-86057-280-1
+  issued:
+    - year: 2021
   language: en
-  title: OED terminology
-  type: webpage
-  URL: https://public.oed.com/how-to-use-the-oed/glossary/
-
-- id: ONeilEnglishOrthography1980
-  author:
-    - family: O'Neil
-      given: Wayne
-  citation-key: ONeilEnglishOrthography1980
-  container-title: Standards and dialects in English
-  editor:
-    - family: Shopen
-      given: Timothy
-    - family: Williams
-      given: Joseph M.
-  event-place: Cambridge, MA
-  ISBN: 978-0-87626-817-9
-  issued:
-    - year: 1980
-  language: en
-  page: 63-83
-  publisher: Winthrop Publishers
-  publisher-place: Cambridge, MA
-  source: Google Books
-  title: English orthography
-  type: chapter
-
-- id: PorterWebsterInternationalDictionary1893
-  author:
-    - family: Porter
-      given: Noah
-  citation-key: PorterWebsterInternationalDictionary1893
-  event-place: Springfield, MA
-  issued:
-    - year: 1893
-  language: en
-  number-of-pages: '2011'
-  publisher: G. & C. Merriam & Co.
-  publisher-place: Springfield, MA
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    Webster's international dictionary of the English language: being the
-    authentic edition of Webster's unabridged dictionary comprising the issues
-    of 1864, 1879, and 1884
-  title-short: Webster's international dictionary of the English language
-  type: book
-
-- id: RobinsonOldEnglishIts1992
-  author:
-    - family: Robinson
-      given: Orrin W.
-  call-number: PE124 .R63 1992
-  citation-key: RobinsonOldEnglishIts1992
-  event-place: Stanford, CA
-  ISBN: 978-0-8047-1454-9
-  issued:
-    - year: 1992
-  note: 'OCLC: ocn686048406'
-  number-of-pages: '290'
-  publisher: Stanford University Press
-  publisher-place: Stanford, CA
-  source: orbis.library.yale.edu Library Catalog
-  title: >-
-    Old English and its closest relatives: a survey of the earliest Germanic
-    languages
-  title-short: Old English and its closest relatives
-  type: book
-
-- id: SmithMiddleEarlyModern2012
-  author:
-    - family: Smith
-      given: Jeremy J.
-  call-number: PE1075 .O97 2012
-  citation-key: SmithMiddleEarlyModern2012
-  container-title: The Oxford history of English
-  edition: updated ed.
-  editor:
-    - family: Mugglestone
-      given: Lynda
-  event-place: Oxford
-  ISBN: 978-0-19-966016-2
-  issued:
-    - year: 2012
-  page: 147-179
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: From Middle to Early Modern English
-  type: chapter
-
-- id: SmithThisLanguageRiver2017
-  abstract: >-
-    This Language, A River is an introduction to the history of English that
-    recognizes multiple varieties of the language in both current and historical
-    contexts. Developed over years of undergraduate teaching, the book helps
-    students both to grasp traditional histories of English and to extend and
-    complicate those histories.  Exercises throughout provide opportunities for
-    puzzling out concepts, committing terms and data to memory, and applying
-    ideas. A comprehensive glossary and up-to-date bibliographies help to guide
-    further study.
-  author:
-    - family: Smith
-      given: K. Aaron
-    - family: Kim
-      given: Susan M.
-  citation-key: SmithThisLanguageRiver2017
-  event-place: Peterborough, Ontario
-  ISBN: 978-1-55481-362-9
-  issued:
-    - year: 2017
-  language: en
-  number-of-pages: '354'
-  publisher: Broadview Press
-  publisher-place: Peterborough, Ontario
-  source: Google Books
-  title: 'This language, a river: a history of English'
-  title-short: This Language, A River
-  type: book
-
-- id: ThompsonAIHomework2022
-  abstract: >-
-    The first obvious casualty of large language models is homework: the real
-    training for everyone, though, and the best way to leverage AI, will be in
-    verifying and editing information.
-  accessed:
-    - year: 2023
-      month: 1
-      day: 6
-  author:
-    - family: Thompson
-      given: Ben
-  citation-key: ThompsonAIHomework2022
-  container-title: Stratechery
-  issued:
-    - year: 2022
-      month: 12
-      day: 5
-  language: en-US
-  title: AI Homework
-  type: post-weblog
-  URL: https://stratechery.com/2022/ai-homework/
-
-- id: ThompsonColorVowelChart1999
-  accessed:
-    - year: 2023
-      month: 1
-      day: 13
-  author:
-    - family: Thompson
-      given: Shirley
-    - family: Taylor
-      given: Karen
-    - literal: United States Department of State
-  citation-key: ThompsonColorVowelChart1999
-  container-title: American English
-  issued:
-    - literal: 1999, 2020
-  language: en
-  title: The color vowel chart
-  type: webpage
-  URL: https://americanenglish.state.gov/resources/color-vowel-chart
-
-- id: TownendContactsConflictsLatin2012
-  author:
-    - family: Townend
-      given: Matthew
-  call-number: PE1075 .O97 2012
-  citation-key: TownendContactsConflictsLatin2012
-  container-title: The Oxford history of English
-  edition: updated ed.
-  editor:
-    - family: Mugglestone
-      given: Lynda
-  event-place: Oxford
-  ISBN: 978-0-19-966016-2
-  issued:
-    - year: 2012
-  page: 75-105
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: orbis.library.yale.edu Library Catalog
-  title: 'Contacts and conflicts: Latin, Norse, and French'
-  type: chapter
-
-- id: WebsterDissertationsEnglishLanguage1789
-  accessed:
-    - year: 2023
-      month: 1
-      day: 15
-  author:
-    - family: Webster
-      given: Noah
-  citation-key: WebsterDissertationsEnglishLanguage1789
-  contributor:
-    - family: Thomas
-      given: Isaiah
-  event-place: Boston
-  issued:
-    - year: 1789
-  number-of-pages: '410'
-  publisher: Isaiah Thomas and Co.
-  publisher-place: Boston
-  source: HathiTrust
-  title: >-
-    Dissertations on the English language; with notes, historical and critical.
-    To which is added, by way of appendix An essay on a reformed mode of
-    spelling, with Dr. Franklin's arguments on that subject.
-  type: book
-  URL: https://catalog.hathitrust.org/Record/001182949
-
-- id: WebsterGrammaticalInstituteEnglish1798
-  author:
-    - family: Webster
-      given: Noah
-  call-number: PE1109 .W4 1798
-  citation-key: WebsterGrammaticalInstituteEnglish1798
-  event-place: New York
-  issued:
-    - year: 1798
-  language: en
-  publisher: >-
-    Printed by Robert Wilson, for Evert Duyckinck, & Co., booksellers and
-    stationers
-  publisher-place: New York
-  source: luc.primo.exlibrisgroup.com
-  title: >-
-    A grammatical institute of the English language: comprising an easy,
-    concise, and systematic method of education : designed for the use of
-    English schools in America : in three parts. Part second, Containing a plain
-    and comprehensive grammar, grounded on the true principles and idioms of the
-    language
-  title-short: A grammatical institute of the English language
+  note: 'OCLC: 1260202363'
+  publisher: Stauffenburg
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: 'Evolution of English: studying the past, understanding the present'
   type: book
 
 - id: WernerStudyingEarlyPrinted2019
-  abstract: "A comprehensive resource to understanding the hand-press printing of early books Studying Early Printed Books, 1450 - 1800 offers a guide to the fascinating process of how books were printed in the first centuries of the press and shows how the mechanics of making books shapes how we read and understand them. The author offers an insightful overview of how books were made in the hand-press period and then includes an in-depth review of the specific aspects of the printing process. She addresses questions such as: How was paper made? What were different book formats? How did the press work? In addition, the text is filled with illustrative examples that demonstrate how understanding the early processes can be helpful to today’s researchers. Studying Early Printed Books shows the connections between the material form of a book (what it looks like and how it was made), how a book conveys its meaning and how it is used by readers. The author helps readers navigate books by explaining how to tell which parts of a book are the result of early printing practices and which are a result of later changes. The text also offers guidance on: how to approach a book; how to read a catalog record; the difference between using digital facsimiles and books in-hand. This important guide:  Reveals how books were made with the advent of the printing press and how they are understood today Offers information on how to use digital reproductions of early printed books as well as how to work in a rare books library Contains a useful glossary and a detailed list of recommended readings Includes a companion website for further research\_  Written for students of book history, materiality of text and history of information, Studying Early Printed Books explores the many aspects of the early printing process of books and explains how their form is understood today."
   author:
     - family: Werner
       given: Sarah
@@ -922,24 +358,4 @@ references:
   title: 'Studying early printed books, 1450-1800: a practical guide'
   title-short: Studying early printed books
   type: book
-
-- id: WikipediaHistoryEnglish2023
-  accessed:
-    - year: 2023
-      month: 1
-      day: 13
-  citation-key: WikipediaHistoryEnglish2023
-  container-title: Wikipedia
-  issued:
-    - year: 2023
-      month: 1
-      day: 10
-  language: en
-  license: Creative Commons Attribution-ShareAlike License
-  note: 'Page Version ID: 1132749158'
-  source: Wikipedia
-  title: History of English
-  type: entry-encyclopedia
-  URL: >-
-    https://en.wikipedia.org/w/index.php?title=History_of_English&oldid=1132749158
 ...

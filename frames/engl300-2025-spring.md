@@ -25,7 +25,7 @@ course_desc-0002-20220306084855.md
 
 # Texts
 ``` {.include}
-texts-0005-20240817164608.md
+texts-0002-20230111135113.md
 ```
 
 # Schedule
@@ -35,8 +35,10 @@ schedule-0005-20240110143330.md
 ```
 
 ## Final exam {.unnumbered}
+Saturday, May 3, 4:15 PM
+<!--NOTE: update each semester-->
+
 ``` {.include}
-schedule-0007-20240816175103.md
 policies-0016-20240816180023.md
 ```
 
@@ -52,20 +54,13 @@ assignments-0034-20240104180544.md
 ```
 
 ## Class presentation
-tbd
-<!--
 ``` {.include}
-assignments-0037-20240817210112.md
+assignments-0040-20250112191402.md
 ```
--->
 
-## Dictionary reports
-tbd
-
-## Translation and critical commentary
-``` {.include}
-assignments-0011-20200120155517.md
-```
+## Written assignments
+Written assignments (reports and commentaries) are due on the dates listed on the course schedule.
+Instructions will be supplied in due course.
 
 ## Exams
 ``` {.include}
@@ -85,7 +80,7 @@ policies-0007-20220818163137.md
 ```
 
 ## Written work
-### General policies
+### General policies {#policies-on-written-work}
 ``` {.include}
 assignments-0001-20220818170911.md
 ```
@@ -157,10 +152,14 @@ Last updated \today
 [View file history on GitHub](https://github.com/icornelius/zg-syllabi/commits/main/build/engl300-2025-spring.md)
 
 # Bibliography
-This bibliography supplies details for readings listed on the course [Schedule] and most other books and resources referenced in the [assignments](#assessment).
+This bibliography supplies details for readings listed on the [Course Schedule](#schedule), formatted in MLA style.
 These details are available on [Zotero](https://www.zotero.org/irc7/collections/ENKRYTW6) in machine-readable formats.
 
 ---
 nocite: |
-  @*
+  @BlakeCaxtonOwnProse1973
+  @BurnleyHistoryEnglishLanguage2000
+  @KurathMiddleEnglishDictionary1952
+  @MommaCompanionHistoryEnglish2008
+  @MurrayOxfordEnglishDictionary1989
 ---
