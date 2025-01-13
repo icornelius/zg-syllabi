@@ -1,4 +1,8 @@
-This repository hosts the published syllabi (as PDF) for some recent courses:
+# Published syllabi
+
+For current syllabi see the [latest tagged release](https://github.com/icornelius/zg-syllabi/releases/latest).
+
+Final versions of some past syllabi may be downloaded at the following links:
 
 - "Exploring Poetry" (ENGL 271)
   [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl271-2024-spring.pdf)
@@ -12,6 +16,11 @@ This repository hosts the published syllabi (as PDF) for some recent courses:
   [fall 2022](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl390-2022-fall.pdf)
 - "Interpreting Literature" (UCLR 100)
   [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/uclr100-2024-fall.pdf)
+
+# Versioning
+
+Beginning with `v2025.01.0`, tagged releases have the following semantics: YEAR.MONTH.VERSION.
+The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
 
 # Plain text components
 Plain text components are maintained in the directories `frames`, `schedules`, and `partials`.
