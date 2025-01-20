@@ -138,6 +138,24 @@ references:
   title: The Cambridge encyclopedia of the English language
   type: book
 
+- id: CrystalDictionaryLinguisticsPhonetics2009
+  author:
+    - family: Crystal
+      given: David
+  citation-key: CrystalDictionaryLinguisticsPhonetics2009
+  collection-title: The language library
+  edition: '6'
+  event-place: Hoboken, NJ
+  ISBN: 978-1-4051-5297-6
+  issued:
+    - year: 2009
+  language: en
+  publisher: Wiley-Blackwell
+  publisher-place: Hoboken, NJ
+  source: luc.primo.exlibrisgroup.com
+  title: A dictionary of linguistics and phonetics
+  type: book
+
 - id: HartmannDictionariesTodayWhat2008
   author:
     - family: Hartmann
@@ -269,6 +287,24 @@ references:
   title: A companion to the history of the English language
   type: book
 
+- id: MugglestoneOxfordHistoryEnglish2012
+  call-number: PE1075 .O97 2012
+  citation-key: MugglestoneOxfordHistoryEnglish2012
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  event-place: Oxford
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  number-of-pages: '600'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: The Oxford history of English
+  type: book
+
 - id: MurrayOxfordEnglishDictionary1989
   citation-key: MurrayOxfordEnglishDictionary1989
   contributor:
@@ -288,7 +324,7 @@ references:
   event-place: Oxford
   issued:
     - year: 1989
-    - year: 2024
+    - year: 2025
   publisher: Oxford University Press
   publisher-place: Oxford
   title: The Oxford English Dictionary
