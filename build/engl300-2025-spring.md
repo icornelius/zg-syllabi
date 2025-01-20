@@ -416,6 +416,119 @@ A presentation that duplicates the topic of an earlier presentation in this cour
 Written assignments (reports and commentaries) are due on the dates listed on the course schedule.
 Instructions will be supplied in due course.
 
+### First Report
+
+#### General instructions {#general-instructions-dictionary-report}
+
+Create a report on a single instance of a word of your choice, selected from a news article published on January 2nd, 2025.
+Your principal source will be the *Oxford English Dictionary*.
+
+Observe the [general instructions for written assignments](#policies-on-written-work).
+Electronic and paper copies are due at the beginning of class on the date indicated on the [Course Schedule](#schedule).
+
+The next sections provide detailed instructions and a rubric.
+
+#### Detailed instructions {#detailed-instructions-oed-report}
+
+##### Perform a Search {#perform-a-search .unnumbered}
+
+Perform a search of [Access World News](https://libguides.luc.edu/access-world-news), a full-text database of newspapers, magazines, web-only content from U.S. and international news sources.
+Following the steps below, select a keyword in context:
+
+-   Load the front page of Access World News by following the link above; log in with your Loyola creditials if prompted.
+
+-   Select the option "Date Search" (below the search box). On the next page, enter "January 2, 2025" in the field for "date or date range."
+
+-   Build the rest of your query, then execute a search.
+
+-   On the next page, scroll to the bottom of the left-hand column. Under "Language", limit the search results to English.
+
+-   Explore the search results.
+    Select one news story, then select one English word within the news story.
+    This is your "keyword".
+
+##### Format an Illustrative Quotation {#format-an-illustrative-quotation .unnumbered}
+
+Create a formatted quotation containing your keyword in context.
+
+-   Quote the passage containing your keyword. The quotation should usually be a full sentence but may be shorter if the sentence is very long or longer if the sentence is very short: take the *OED*'s illustrative quotations as models.
+
+-   Distinguish the keyword with **bold** type.
+
+-   Put the formatted quotation at the top of your report. Label it "Quotation."
+
+-   Retrieve a citation. From the menu ribbon at the top of the page, select the option "Cite", then choose from the options given.
+    You may *export* the citation in a machine-readable format or *copy* a citation in one of the standard human-readable formats. Make your selection and save this for use in your "Works Cited".
+
+##### Identify an *OED* Definition {#identify-an-oed-definition .unnumbered}
+
+Identify the *OED* [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) and [sense](https://www.oed.com/information/understanding-entries/oed-terminology/#meaning) that best fits the use of the keyword in the quotation you have selected.
+
+-   Perform a [quick search](https://www.oed.com/information/using-the-oed/how-to-getting-started-guides/#quick-search) of the *OED* and identify the [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) that corresponds to your keyword.
+
+-   Once you have found the relevant entry, read through the senses. Identify the sense that best fits the use of the word in your quotation. Copy the [definition](https://www.oed.com/information/understanding-entries/oed-terminology/#definition) and paste it into your report, under the quotation. Label this "Definition."
+
+-   Open the "Cite" window for the relevant sense. Under "MLA9", select the option "Copy to clipboard." Paste this into the "Works Cited" section of your report.
+
+##### Prompt an LLM {#prompt-an-llm .unnumbered}
+
+Prompt a Large Language Model (LLM) to use your keyword.
+You may use any publicly available LLM.
+[Copilot](https://copilot.microsoft.com/) is available to Loyola students free of charge: select the option 'sign in through your institution', then use your Loyola email address.
+
+Begin with the passage that serves as your illustrative quotation.
+Feed the quotation (not including the keyword) to the LLM and ask the LLM to complete the sentence.
+For example, if my quotation was "With groundwork underway, we are pioneering AI solutions that promote inclusivity and digital advancement" and my keyword was "underway", I might type the following command to the LLM:
+
+> Please complete the following sentence, replacing the "\[?\]" with an appropriate word: "With groundwork \[?\], we are pioneering AI solutions that promote inclusivity and digital advancement."
+
+Record the LLM's response.
+Label this "LLM Guesswork."
+
+Create a "Works Cited" entry for the LLM's response.
+For guidance on citing the output of LLMs, see MLA's guide ["How do I cite generative AI in MLA style?"](https://style.mla.org/citing-generative-ai/).
+
+##### Discuss your Findings {#discuss-your-findings .unnumbered}
+
+Discuss the keyword, the context in which you found it, the *OED* entry for this word, and the LLM's guesswork.
+This section should be about 300 words in length, formatted as continuous expository prose (that is, as sentences and paragraphs) and labeled "Discussion."
+Before you write, study all parts of the [entry](https://www.oed.com/information/understanding-entries/oed-terminology/#entry) for your word. Examine linked and related entries as well.
+Report whatever seems to you most relevant, useful, or interesting.
+Consider these questions:
+
+-   Is the word a recent addition to the English language, or does it have a long history of use in this language?
+
+-   Is the meaning you identified a recent development, or well established?
+
+-   Does the definition given by the *OED* adequately capture the meaning of the word as used in the quotation you selected? If you think not, explain why and propose a more exact definition.
+
+-   In present-day usage, does the word have many meanings or few?
+
+-   How frequent is the word in present-day English? What historical trends are visible in the frequency data collected by the *OED*?
+
+-   Where did the word come from? If it was borrowed from another language or languages, which one(s)?
+
+-   Did the LLM guess your word correctly? Why might the word have been easy (or hard) to guess?
+
+#### Rubric {#rubric-dictionary-report}
+
+Successful dictionary reports have the following characteristics:
+
+-   The *format* is correct, following all instructions
+-   *Information* is accurate: this includes the quotation and citations; *OED* entry, sense, and citation; and any other information reported in the discussion
+-   The *discussion* is clear, perceptive, inquisitive, well organized, grammatically correct, and makes effective use of the *OED*
+
+Points are allocated as follows (10 points total):
+
+  Component                 Point value
+  ----------------------- -------------
+  formal details                      2
+  *OED* entry and sense               2
+  LLM prompt                          1
+  discussion                          5
+
+A report with inaccurate, incomplete, or unverifiable references will receive additional point deductions.
+
 ## Exams
 
 There is a midterm exam and final exam, as shown on the schedule.

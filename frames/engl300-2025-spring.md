@@ -62,6 +62,11 @@ assignments-0040-20250112191402.md
 Written assignments (reports and commentaries) are due on the dates listed on the course schedule.
 Instructions will be supplied in due course.
 
+### First Report
+``` {.include}
+assignments-0041-20250120170739.md
+```
+
 ## Exams
 ``` {.include}
 assignments-0029-20240101182234.md
