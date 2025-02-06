@@ -67,6 +67,11 @@ Instructions will be supplied in due course.
 assignments-0041-20250120170739.md
 ```
 
+### Second Report
+``` {.include}
+assignments-0042-20250206082115.md
+```
+
 ## Exams
 ``` {.include}
 assignments-0029-20240101182234.md

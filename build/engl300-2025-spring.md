@@ -529,6 +529,110 @@ Points are allocated as follows (10 points total):
 
 A report with inaccurate, incomplete, or unverifiable references will receive additional point deductions.
 
+### Second Report
+
+#### General instructions {#general-instructions-dict-entry}
+
+This assignment has four parts:
+
+1.  Write a dictionary entry in the style of the *Oxford English Dictionary* (*OED*) for a word used in Present-Day English and as yet unrecorded in the *OED*.
+2.  Prompt a generative AI application: test its awareness of your word.
+3.  Write an overview and reflection.
+4.  Document all sources in MLA style.
+
+Observe the [general instructions for written assignments](#policies-on-written-work).
+Electronic and paper copies are due at the beginning of class on the date indicated on the [Course Schedule](#schedule).
+
+The next sections provide detailed instructions and a rubric.
+
+#### Detailed instructions {#detailed-instructions-dict-entry}
+
+##### Write a dictionary entry {#write-a-dictionary-entry .unnumbered}
+
+Write a dictionary entry in the style of the *Oxford English Dictionary* (*OED*) for a word used in Present-Day English and as yet unrecorded in the *OED*.
+You may select any Present-Day English word not already recorded in the *OED*.
+Identify your word by reflecting on the varieties of English which you use and/or encounter in present-day written sources.
+Draw up a list of words that seem to you innovative, then check to see whether the *OED* records them.
+You may find it useful to browse recent issues of the scholarly journal [*American Speech*](https://read.dukeupress.edu/american-speech/issue) (see the regular feature "Among the New Words"),
+or [urbandictionary.com](https://www.urbandictionary.com/),
+or prompt a large language model (LLM).
+(For advice on LLMs see instructions for the [First Report](#prompt-an-llm).
+
+Select a *word*, not an idiom or meaning.
+Once you have identified a word unrecorded by the *OED*, begin collecting illustrations of usage.
+Your dictionary entry should be supported by five or more illustrative quotations drawn from a variety of public and verifiable sources.
+If you found your word in "Among the New Words" or urbandictionary.com, use that source as one of your five illustrative quotations.
+For other illustrative quotations, search library databases (for instance, [Access World News](https://libguides.luc.edu/access-world-news), used in the First Report) and the open web.
+Web forums and social media may supply especially rich mines of usage.
+Cite all sources in [MLA style](https://style.mla.org/works-cited/citations-by-format/).
+If you cannot find at least five instances of your word, distributed across a range of dates and sources, choose a better attested word.
+
+Once you have gathered illustrative quotations, craft a dictionary entry for your word in the style of the *OED*.
+Your dictionary entry should include the following parts:
+
+1.  Entry title. The [headword](https://www.oed.com/information/understanding-entries/oed-terminology/?tl=true#headword) and part of speech.
+2.  Etymology. Is your word borrowed from a language other than English or formed within English by derivation?
+    Identify the source(s).
+    If your word was formed within English, identify the mechanism of word-formation.
+    Use appropriate terms and concepts from @AlgeoOriginsDevelopmentEnglish2013, chap. 11.
+3.  Meaning and use. Write one or more definitions for your word and supply illustrative quotations for each definition.
+    Supply usage notes if appropriate: is your word restricted to a particular variety of English or domain of use?
+    Organize definitions and illustrative quotations chronologically.
+4.  Pronunciation. Supply a typical pronunciation for your word. This should be written in the *OED*'s variant of the International Phonetic Alphabet.
+5.  Forms. Record variant spellings of your word, if any.
+    If your word is a noun or verb with irregular inflectional morphology, record the plural of the noun and the past tense and past participle of the verb.
+
+##### Dialogue with an LLM {#dialogue-with-an-llm .unnumbered}
+
+Test an LLM's awareness of your word.
+If you consulted an LLM in the previous part, use a different LLM for this part.
+First try to get the LLM to use the word without using it yourself.
+Be creative.
+Then ask the LLM to define the word and generate examples of usage.
+Summarize your interaction with the LLM in a brief report (about 200 words).
+Cite the LLM as instructed in MLA's guide ["How do I cite generative AI in MLA style?"](https://style.mla.org/citing-generative-ai/).
+
+##### Overview and reflection {#overview-and-reflection .unnumbered}
+
+Write an overview and reflection on your research process and its results.
+What methods did you use to select your word?
+Which sources and search-procedures were most useful and why?
+What difficulties did you encounter in construction of the dictionary entry?
+In the course of this research, what additional observations did you make, which could not readily be accommodated within the format of the dictionary entry?
+Compare the LLM-generated definition(s) and examples with the examples you collected and the definition you wrote.
+What questions do you have at the end of this process?
+This overview should be about 500 words.
+
+##### Works Cited {#works-cited .unnumbered}
+
+Supply accurate, MLA-style citations for all sources.
+
+#### Rubric {#rubric-dict-entry}
+
+A successful response to this assignment as the following characteristics:
+
+-   The *dictionary entry* is complete, precise, accurate, correctly formatted and adequately supported by evidence.
+-   The *dialogue with an LLM* is summarized clearly and credibly.
+-   The *overview and reflection* is perceptive, precise, inquisitive, and well organized.
+-   *Your prose* is clear and grammatically correct.
+-   *Citations and bibliography* are complete, accurate, and correctly formatted.
+
+Points are allocated as follows (30 points total):
+
+  Component                      Point value
+  ---------------------------- -------------
+  entry title                              2
+  etymology                                3
+  quotations and definitions               5
+  pronunciation and forms                  3
+  LLM dialogue                             2
+  overview                                10
+  works cited                              5
+
+Incorrect or missing bibliographic details will result in further point deductions.
+Assignments with falsified sources receive zero credit and may be reported as plagiarism.
+The policy on [Academic Integrity](#academic-integrity) applies.
+
 ## Exams
 
 There is a midterm exam and final exam, as shown on the schedule.
