@@ -200,7 +200,6 @@ See [Version Information](#version-information).
 ### Tue Mar 11 {#tue-mar-11 .unlisted .unnumbered}
 
 -   @AlgeoOriginsDevelopmentEnglish2013, chap. 5 ("Old English"), pp. 84-100
--   Alfred's Preface to the *Pastoral Care* [Sakai Resources](https://sakai.luc.edu/x/nofgSU)
 
 ### Thu Mar 13 {#thu-mar-13 .unlisted .unnumbered}
 
@@ -212,7 +211,7 @@ See [Version Information](#version-information).
 
 ### Thu Mar 20 {#thu-mar-20 .unlisted .unnumbered}
 
--   TBD
+-   Alfred's Preface to the *Pastoral Care* [Sakai Resources](https://sakai.luc.edu/x/nofgSU)
 
 ## Unit 4: Middle English (weeks 11-12) {#unit-4-middle-english-weeks-11-12 .unnumbered}
 
