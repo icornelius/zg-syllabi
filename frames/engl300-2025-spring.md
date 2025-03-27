@@ -72,6 +72,11 @@ assignments-0041-20250120170739.md
 assignments-0042-20250206082115.md
 ```
 
+### Commentaries
+``` {.include}
+assignments-0043-20250327124635.md
+```
+
 ## Exams
 ``` {.include}
 assignments-0029-20240101182234.md
