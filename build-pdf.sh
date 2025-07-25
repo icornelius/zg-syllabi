@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COURSE_1=engl300-2025-spring
+COURSE_1=engl320-2025-fall
 #COURSE_2=engl323-2024-fall
 
 echo 'Creating pdf for' $COURSE_1 '...'
