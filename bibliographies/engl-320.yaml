@@ -1,0 +1,39 @@
+---
+references:
+- id: BlackBroadviewAnthologyBritish2023
+  citation-key: BlackBroadviewAnthologyBritish2023
+  edition: '3'
+  editor:
+    - family: Black
+      given: Joseph
+    - family: Conolly
+      given: Leonard
+    - family: Flint
+      given: Kate
+    - family: Grundy
+      given: Isobel
+    - family: LePan
+      given: Don
+    - family: Liuzza
+      given: Roy
+    - family: McGann
+      given: Jerome J.
+    - family: Prescott
+      given: Anne Lake
+    - family: Qualls
+      given: Barry V.
+    - family: Waters
+      given: Claire
+  ISBN: 978-1-77048-892-2
+  issued:
+    - year: 2023
+      month: 3
+      day: 16
+  language: en
+  number-of-pages: '971'
+  publisher: Broadview Press
+  source: Google Books
+  title: 'The Broadview anthology of British literature, volume 1: the medieval period'
+  title-short: British literature volume 1
+  type: book
+...
