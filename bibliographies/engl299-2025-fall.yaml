@@ -1,0 +1,369 @@
+---
+references:
+- id: BoothCraftResearch2024
+  author:
+    - family: Booth
+      given: Wayne C.
+    - family: Williams
+      given: Joseph M.
+    - family: Colomb
+      given: Gregory G.
+    - family: FitzGerald
+      given: William T.
+    - family: Bizup
+      given: Joseph
+  citation-key: BoothCraftResearch2024
+  collection-title: Chicago Guides to Writing, Editing, and Publishing
+  edition: '5'
+  event-place: Chicago
+  ISBN: 978-0-226-82666-0
+  issued:
+    - year: 2024
+  language: en
+  publisher: The University of Chicago Press
+  publisher-place: Chicago
+  source: luc.primo.exlibrisgroup.com
+  title: The craft of research
+  title-short: Craft of Research
+  type: book
+
+- id: BorgesLibraryBabel2007
+  author:
+    - family: Borges
+      given: Jorge Luis
+  citation-key: BorgesLibraryBabel2007
+  container-title: 'Labyrinths: selected stories & other writings'
+  editor:
+    - family: Yates
+      given: Donald A.
+    - family: Irby
+      given: James E.
+  event-place: New York, NY
+  ISBN: 978-0-8112-1699-9
+  issued:
+    - year: 2007
+  language: en
+  original-date:
+    - year: 1962
+  page: 51-58
+  publisher: New Directions
+  publisher-place: New York, NY
+  title: The library of Babel
+  translator:
+    - family: Irby
+      given: James E.
+  type: chapter
+
+- id: BorgesPierreMenardAuthor2007
+  author:
+    - family: Borges
+      given: Jorge Luis
+  citation-key: BorgesPierreMenardAuthor2007
+  container-title: 'Labyrinths: selected stories & other writings'
+  editor:
+    - family: Yates
+      given: Donald A.
+    - family: Irby
+      given: James E.
+  event-place: New York, NY
+  ISBN: 978-0-8112-1699-9
+  issued:
+    - year: 2007
+  language: en
+  original-date:
+    - year: 1962
+  page: 36-44
+  publisher: New Directions
+  publisher-place: New York, NY
+  title: Pierre Menard, author of the *Quixote*
+  title-short: Pierre Menard
+  translator:
+    - family: Irby
+      given: James E.
+  type: chapter
+
+- id: BradburnHowUseZotero2021
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Bradburn
+      given: Steven
+  citation-key: BradburnHowUseZotero2021
+  issued:
+    - year: 2021
+      month: 10
+      day: 13
+  source: YouTube
+  title: How to use Zotero (A complete beginner's guide)
+  title-short: How to use Zotero
+  type: speech
+  URL: https://www.youtube.com/watch?v=JG7Uq_JFDzE
+
+- id: ChicagoManualStyle2024
+  citation-key: ChicagoManualStyle2024
+  edition: '18'
+  event-place: Chicago
+  issued:
+    - year: 2024
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: The Chicago manual of style
+  type: book
+  URL: www.chicagomanualofstyle.org
+
+- id: CifuentesGoodbodyUsingPandocAcademic2017
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Cifuentes-Goodbody
+      given: Nicholas
+  citation-key: CifuentesGoodbodyUsingPandocAcademic2017
+  issued:
+    - year: 2017
+      month: 4
+      day: 13
+  source: YouTube
+  title: 'Using pandoc: academic writing in plain text'
+  title-short: Using pandoc
+  type: speech
+  URL: https://www.youtube.com/watch?v=N31E_NZYQQY
+
+- id: CifuentesGoodbodyWhatsBibFile2017
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Cifuentes-Goodbody
+      given: Nicholas
+  citation-key: CifuentesGoodbodyWhatsBibFile2017
+  issued:
+    - year: 2017
+      month: 4
+      day: 1
+  source: YouTube
+  title: What's a bib file? Academic writing in plain text
+  title-short: What's a bib file?
+  type: speech
+  URL: https://www.youtube.com/watch?v=JF9bvYmcdmY
+
+- id: CoderCoderGitGitHubGitHub2022
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - literal: Coder Coder
+  citation-key: CoderCoderGitGitHubGitHub2022
+  issued:
+    - year: 2022
+      month: 2
+      day: 1
+  title: Git, GitHub, & GitHub Desktop for beginners
+  title-short: GitHub Desktop for beginners
+  type: speech
+  URL: https://www.youtube.com/watch?v=8Dd7KRpKeaE
+
+- id: HsuEndEssay2025
+  author:
+    - family: Hsu
+      given: Hua
+  citation-key: HsuEndEssay2025
+  container-title: New Yorker
+  ISSN: 0028-792X
+  issue: '19'
+  issued:
+    - year: 2025
+      month: 7
+      day: 7
+  language: en
+  page: 21-27
+  publisher: Conde Nast Publications
+  title: The end of the essay
+  type: article-journal
+  volume: '101'
+
+- id: KerrBriefIntroductionGit2024
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Kerr
+      given: Kedasha
+  citation-key: KerrBriefIntroductionGit2024
+  event-place: GitHub
+  issued:
+    - year: 2024
+      month: 5
+      day: 26
+  publisher-place: GitHub
+  source: YouTube
+  title: A brief introduction to git for beginners
+  title-short: A brief introduction to git
+  type: speech
+  URL: https://www.youtube.com/watch?v=r8jQ9hVA2qs
+
+- id: MetzAIGettingMore2025
+  accessed:
+    - year: 2025
+      month: 8
+      day: 11
+  author:
+    - family: Metz
+      given: Cade
+    - family: Weise
+      given: Karen
+  citation-key: MetzAIGettingMore2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 5
+      day: 5
+  language: en-US
+  section: Technology
+  source: NYTimes.com
+  title: A.I. is getting more powerful, but its hallucinations are getting worse
+  title-short: A.I. is getting more powerful
+  type: article-newspaper
+  URL: >-
+    https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html
+
+- id: Mollick15TimesUse2025
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Mollick
+      given: Ethan
+  citation-key: Mollick15TimesUse2025
+  container-title: One Useful Thing
+  issued:
+    - year: 2025
+      month: 6
+      day: 23
+  language: en
+  title: 15 times to use AI, and 5 not to
+  type: post-weblog
+  URL: https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to
+
+- id: OftenHelpfulSometimes2025
+  citation-key: OftenHelpfulSometimes2025
+  container-title: The Economist
+  issued:
+    - year: 2025
+      month: 2
+      day: 15
+  language: en
+  page: '63'
+  section: Free exchange
+  title: Often helpful, sometimes bad, always dangerous
+  type: article-newspaper
+
+- id: PlatoGorgias1997
+  author:
+    - literal: Plato
+  citation-key: PlatoGorgias1997
+  container-title: 'Plato: complete works'
+  editor:
+    - family: Cooper
+      given: John M.
+    - family: Hutchinson
+      given: D. S.
+  event-place: Indianapolis, IN
+  ISBN: 0-87220-349-2
+  issued:
+    - year: 1997
+  page: 791-869
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  title: Gorgias
+  translator:
+    - family: Zeyl
+      given: Donald J.
+  type: chapter
+
+- id: PlatoPhaedrus1997
+  author:
+    - literal: Plato
+  citation-key: PlatoPhaedrus1997
+  container-title: 'Plato: complete works'
+  editor:
+    - family: Cooper
+      given: John M.
+    - family: Hutchinson
+      given: D. S.
+  event-place: Indianapolis, IN
+  ISBN: 0-87220-349-2
+  issued:
+    - year: 1997
+  page: 506-556
+  publisher: Hackett
+  publisher-place: Indianapolis, IN
+  title: Phaedrus
+  translator:
+    - family: Nehamas
+      given: Alexander
+    - family: Woodruff
+      given: Paul
+  type: chapter
+
+- id: RamakrishnanMITSloansRama2023
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Ramakrishnan
+      given: Rama
+  citation-key: RamakrishnanMITSloansRama2023
+  event-place: MIT Sloan, Teaching & Learning Technologies
+  genre: YouTube
+  issued:
+    - year: 2023
+      month: 9
+      day: 1
+  publisher-place: MIT Sloan, Teaching & Learning Technologies
+  title: MIT Sloan's Rama Ramakrishnan Shares Primer on ChatGPT
+  title-short: Primer on ChatGPT
+  type: speech
+  URL: https://www.youtube.com/watch?v=4fThhooNvA0
+
+- id: WaltersFabricationErrorsBibliographic2023
+  accessed:
+    - year: 2025
+      month: 8
+      day: 11
+  author:
+    - family: Walters
+      given: William H.
+    - family: Wilder
+      given: Esther Isabelle
+  citation-key: WaltersFabricationErrorsBibliographic2023
+  container-title: Scientific Reports
+  container-title-short: Sci Rep
+  DOI: 10.1038/s41598-023-41032-5
+  ISSN: 2045-2322
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 9
+      day: 7
+  language: en
+  license: 2023 The Author(s)
+  page: 1-8
+  publisher: Nature Publishing Group
+  source: www.nature.com
+  title: Fabrication and errors in the bibliographic citations generated by ChatGPT
+  title-short: Fabrication and errors
+  type: article-journal
+  URL: https://www.nature.com/articles/s41598-023-41032-5
+  volume: '13'
+...
