@@ -1,12 +1,19 @@
-# This Python script reads a specified `csv` file and transforms its content
-# into a Markdown-formatted document. The `csv` file should be created with the
-# Python script `date-calculator.py` or match the structure of files produced
-# by that script.
+# This Python script reads a specified CSV file and transforms its content into
+# a Markdown-formatted document. The CSV file should be created with the Python
+# script `date-calculator.py` or match the structure of files produced by that
+# script.
 #
 # For a list of required column labels, see the variable `required_keys`.
 # Additional columns are permitted; their values will be rendered only if the
 # column label begins with 'assignment' (e.g., 'assignment_1', 'assignment_2',
 # 'assignment_n').
+#
+# Usage:
+#
+# python3 date-formatter.py [FILEPATH]
+#
+# If FILEPATH is not specified on the command line the script will print a list
+# of CSV files in `data_dir` and prompt the user to select one as input.
 #
 # To change the default directories for reading or writing, edit the values of
 # `data_dir` or `output_dir`, respectively.
@@ -14,6 +21,7 @@
 import os
 import csv
 import re
+import sys
 
 data_dir = '../schedules/'
 output_dir = data_dir
@@ -121,45 +129,28 @@ def format_schedule(data, assignments):
                 md_partials.append(string)
     return md_partials
 
-def preview_formatted_schedule(partials):
-    print('Here is a preview of the `markdown`-formatted schedule:')
-    if len(partials) > 10:
-        for n in range(5):
-            print(partials[n])
-        for n in range(3):
-            print('...')
-        for n in range(-5, 0):
-            print(partials[n])
-    else:
-        for n in range(len(partials)):
-            print(partials[n])
-
 def write_to_file(partials, source_file):
     basename = re.sub('.csv', '', source_file)
     output_filename = basename + '.md'
     output_path = os.path.join(output_dir, output_filename)
-    prompt = f'\nWrite this schedule to `{output_path}`? (y/N): '
-    options = ['y', 'n', '']
-    decision = get_valid_input(prompt, options)
-
-    if decision == 'y':
-        if not os.path.exists(output_dir):
-            os.mkdir(output_dir)
-            print(f'Created a new directory `{output_dir}`.')
-        with open(output_path, 'w') as file:
-            for line in range(len(partials)):
-                file.write(partials[line] + '\n')
-        print(f'Wrote {str(len(partials))} lines to {output_path}.')
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
+        print(f'Created a new directory `{output_dir}`.')
+    with open(output_path, 'w') as file:
+        for line in range(len(partials)):
+            file.write(partials[line] + '\n')
+    print(f'\tWrote {str(len(partials))} lines to /schedules/{output_filename}')
 
 def main():
-    source_file = get_filename(data_dir)
+    if len(sys.argv) > 1:
+        source_file = sys.argv[1]
+    else:
+        source_file = get_filename(data_dir)
     source_path = os.path.join(data_dir, source_file)
     data = load_csv_to_list_of_dicts(source_path)
     validate_csv_labels(data)
     assignments = get_assignment_labels(data)
     formatted_schedule_parts = format_schedule(data, assignments)
-    preview_formatted_schedule(formatted_schedule_parts)
     write_to_file(formatted_schedule_parts, source_file)
-    print('Goodbye.')
 
 main()
