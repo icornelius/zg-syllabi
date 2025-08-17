@@ -1,8 +1,5 @@
-# PDF files in the `build' dir
-build/*.pdf
-
-# Markdown output of date-formatter.py
-schedules/*.md
+# files in the `build' dir
+build/*
 
 # temporary files
 temp*

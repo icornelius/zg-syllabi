@@ -23,20 +23,27 @@ Beginning with `v2025.01.0`, tagged releases have the following semantics: YEAR.
 The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
 
 # Plain text components
-Plain text components are maintained in the directories `frames`, `schedules`, and `partials`.
+
+Plain text components are maintained in the directories `frames`, `schedules`, `bibliographies`, and `partials`.
 
 ## `frames`
+
 Markdown files (one per course).
 These supply document outlines and code blocks for loading content.
-(See [Build], below.)
 
 ## `schedules`
-Course schedules as `csv` and `markdown`.
-The `markdown` files are created from the corresponding `csv` by script.
-(See [scripts].)
+
+Course schedules as CSV and Markdown.
+The Markdown files are created by script from the corresponding CSV and should not be edited manually.
+See [scripts](#scripts).
+
+## `bibliographies`
+
+Bibliographical details for use by Pandoc's `citeproc`.
 
 ## `partials`
-This directory houses all syllabus content except course schedules.
+
+This directory houses all syllabus content except course schedules and bibliographic details.
 Files are queryable with [ZettelGeist](https://zettelgeist.org/).
 To do that, clone the repository.
 Then, assuming you have [installed ZettelGeist](https://github.com/ZettelGeist/zettelgeist/wiki/Installing-the-Tools), and activated the Python virtual environment, do the following:
@@ -57,30 +64,27 @@ To view the document payloads, add the option `--show-document` to the above com
 Filenames are included among the metadata printed by `--show-all`.
 
 For more on queries, see the ZettelGeist [manual](https://github.com/ZettelGeist/zettelgeist/wiki/Manual#zfind).
-(ZettelGeist queries have some known bugs, described in [this issue](https://github.com/ZettelGeist/zettelgeist/issues/38)).
+(ZettelGeist queries have some [known issues](https://github.com/ZettelGeist/zettelgeist/issues/38)).
 
-# Builds
-Syllabi are built with [Pandoc](https://pandoc.org/) and LaTeX.
-This is done in two steps.
+# Production tools
 
-First, atomized components are gathered into a single Markdown file, using the lua filter [`include-files`](https://github.com/pandoc/lua-filters/tree/master/include-files).
-The resulting Markdown file is read-only: editing should be done in the atomized source components.
-Second, the read-only Markdown file is converted to PDF.
-The reason for the two-step build is transparency:
-the intermediate Markdown file provides a single plain-text document with clear version history.
+Production tools are maintained in the directories `scripts` and `config`.
 
-The script `build-all.sh` builds the intermediate Markdown file and PDF file.
-The PDF file is for local testing only.
-The Markdown file must be committed to the repository and pushed to origin prior to deployment.
-Deployment is done with GitHub Actions (see `.github/workflows/action.yaml`).
-
-# Other repository contents
 ## `scripts`
-Python scripts to generate skeleton schedules as `csv` and transform the `csv` into well-structured `markdown`.
+
+The directory `scripts` contains Python scripts to generate skeleton course schedules as CSV and transform the CSV into well-structured Markdown.
 See comments at the head of the files.
 
-## `bibliographies`
-Bibliographical details for use by Pandoc's `citeproc`.
-
 ## `config`
-Configuration files for document conversion and formatting, including formatting of bibliographical references.
+
+The directory `config` contains files used by `pandoc` to control the conversion and formatting of documents, including the formatting of bibliographical references.
+
+# Builds and deployment
+
+For local builds, and prior to each release, run the shell script `build-all.sh`.
+This script calls a Python script (`scripts/date-formatter.py`) to create Markdown files in `schedules` and calls another shell script (`build-pdf.sh`) to create PDFs in `build`.
+The Markdown files created in `schedules` must be committed to the repository and pushed to origin prior to deployment.
+(This may be obviated in a future release.)
+The PDF files created in `build` are for local testing.
+(They are ignored by `git`.)
+Deployment is done with GitHub Actions: see `.github/workflows/action.yaml`.
