@@ -164,6 +164,7 @@ references:
     - year: 2022
       month: 2
       day: 1
+  source: YouTube
   title: Git, GitHub, & GitHub Desktop for beginners
   title-short: GitHub Desktop for beginners
   type: speech
@@ -185,7 +186,7 @@ references:
   page: 21-27
   publisher: Conde Nast Publications
   title: The end of the essay
-  type: article-journal
+  type: article-magazine
   volume: '101'
 
 - id: KerrBriefIntroductionGit2024
@@ -325,12 +326,12 @@ references:
       given: Rama
   citation-key: RamakrishnanMITSloansRama2023
   event-place: MIT Sloan, Teaching & Learning Technologies
-  genre: YouTube
   issued:
     - year: 2023
       month: 9
       day: 1
   publisher-place: MIT Sloan, Teaching & Learning Technologies
+  source: YouTube
   title: MIT Sloan's Rama Ramakrishnan Shares Primer on ChatGPT
   title-short: Primer on ChatGPT
   type: speech
@@ -366,4 +367,27 @@ references:
   type: article-journal
   URL: https://www.nature.com/articles/s41598-023-41032-5
   volume: '13'
+
+- id: WeatherbyChatGPTBrokeTuring2023
+  accessed:
+    - year: 2025
+      month: 8
+      day: 18
+  archive: archive.today
+  author:
+    - family: Weatherby
+      given: Leif
+  citation-key: WeatherbyChatGPTBrokeTuring2023
+  container-title: The Boston Globe
+  event-place: Boston, MA
+  issued:
+    - year: 2023
+      month: 11
+      day: 13
+  language: en-US
+  publisher-place: Boston, MA
+  section: Ideas
+  title: ChatGPT broke the Turing test
+  type: article-newspaper
+  URL: https://archive.is/LA8Fv
 ...

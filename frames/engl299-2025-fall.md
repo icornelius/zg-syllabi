@@ -26,6 +26,10 @@ partials/course_id-0004-20230107090154.md
 # Course description and learning outcomes
 ``` {.include}
 partials/course_desc-0010-20250318222122.md
+```
+
+Outcomes:
+``` {.include}
 partials/outcome-0004-20250725154550.md
 ```
 
@@ -61,12 +65,17 @@ partials/policies-0016-20240816180023.md
 # Assessment
 ## Summary of grade components
 ``` {.include}
-partials/assessment-0011-20250726183830.md
+partials/assessment-0012-20250818180259.md
 ```
 
 ## Participation
 ``` {.include}
 partials/assignments-0034-20240104180544.md
+```
+
+## Written work
+``` {.include}
+partials/assignments-0043-20250818182102.md
 ```
 
 ## Grade schema
@@ -81,25 +90,20 @@ partials/assessment-0002-20220818165633.md
 partials/policies-0007-20220818163137.md
 ```
 
-## Policies on written work
-### General policies
+## Attendance
 ``` {.include}
-partials/assignments-0001-20220818170911.md
-```
-
-### Late work
-``` {.include}
-partials/policies-0011-20230107104207.md
+partials/policies-0000-20220818144137.md
 ```
 
 ## Academic integrity
 ``` {.include}
 partials/policies-0004-20220818161423.md
+partials/policies-0019-20250818104538.md
 ```
 
-## Attendance
+## Late work
 ``` {.include}
-partials/policies-0000-20220818144137.md
+partials/policies-0011-20230107104207.md
 ```
 
 ## Equity and compliance
@@ -149,7 +153,7 @@ Last updated \today
 [View file history on GitHub][gh-releases]
 
 # Bibliography
-This bibliography supplies details for readings listed on the course [Schedule] and most other books and resources referenced in the [assignments](#assessment).
+This bibliography supplies details for readings listed on the course [Schedule].
 These details are available on [Zotero][zotero-library] in machine-readable formats.
 
 ---
