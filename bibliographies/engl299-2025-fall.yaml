@@ -177,17 +177,14 @@ references:
   citation-key: HsuEndEssay2025
   container-title: New Yorker
   ISSN: 0028-792X
-  issue: '19'
   issued:
     - year: 2025
       month: 7
       day: 7
   language: en
   page: 21-27
-  publisher: Conde Nast Publications
   title: The end of the essay
   type: article-magazine
-  volume: '101'
 
 - id: KerrBriefIntroductionGit2024
   accessed:
