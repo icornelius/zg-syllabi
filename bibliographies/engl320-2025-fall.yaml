@@ -1,5 +1,45 @@
 ---
 references:
+- id: BeadleCambridgeCompanionMedieval2008
+  call-number: PN2587 .C36 2008
+  citation-key: BeadleCambridgeCompanionMedieval2008
+  collection-title: Cambridge Companions to Literature
+  DOI: 10.1017/CCOL9780521864008
+  edition: '2'
+  editor:
+    - family: Beadle
+      given: Richard
+    - family: Fletcher
+      given: Alan J.
+  event-place: Cambridge
+  ISBN: 978-1-139-81765-3
+  issued:
+    - year: 2008
+  language: en
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: The Cambridge companion to medieval English theatre
+  title-short: Medieval English theatre
+  type: book
+
+- id: BjorkOxfordDictionaryMiddle2010
+  citation-key: BjorkOxfordDictionaryMiddle2010
+  DOI: 10.1093/acref/9780198662624.001.0001
+  editor:
+    - family: Bjork
+      given: Robert E.
+  event-place: Oxford
+  ISBN: 978-0-19-866262-4
+  issued:
+    - year: 2010
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford dictionary of the Middle Ages
+  title-short: Dictionary of the Middle Ages
+  type: book
+
 - id: BlackBroadviewAnthologyBritish2023
   citation-key: BlackBroadviewAnthologyBritish2023
   edition: '3'
@@ -36,4 +76,242 @@ references:
   title: 'The Broadview anthology of British literature, volume 1: the medieval period'
   title-short: British literature volume 1
   type: book
+
+- id: ChicagoManualStyle2024
+  citation-key: ChicagoManualStyle2024
+  edition: '18'
+  event-place: Chicago
+  issued:
+    - year: 2024
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: The Chicago manual of style
+  type: book
+  URL: www.chicagomanualofstyle.org
+
+- id: CrasnowLightMedievalHebrew2013
+  citation-key: CrasnowLightMedievalHebrew2013
+  contributor:
+    - family: Pim
+      given: Keiron
+  editor:
+    - family: Crasnow
+      given: Ellman
+    - family: Elsworth
+      given: Bente
+  event-place: Norwich
+  ISBN: 978-0-9563285-1-9
+  issued:
+    - year: 2013
+  language: en
+  note: 'OCLC: 855891028'
+  publisher: East Publishing
+  publisher-place: Norwich
+  source: Open WorldCat
+  title: 'Into the light: the medieval Hebrew poetry of Meir of Norwich'
+  title-short: Into the light
+  type: book
+
+- id: DinshawCambridgeCompanionMedieval2003
+  citation-key: DinshawCambridgeCompanionMedieval2003
+  collection-title: Cambridge Companions to Literature
+  DOI: 10.1017/CCOL052179188X
+  editor:
+    - family: Dinshaw
+      given: Carolyn
+    - family: Wallace
+      given: David
+  event-place: Cambridge
+  ISBN: 978-1-139-81642-7
+  issued:
+    - year: 2003
+  language: en
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: The Cambridge companion to medieval women's writing
+  title-short: Medieval women's writing
+  type: book
+
+- id: GallowayCambridgeCompanionMedieval2011
+  accessed:
+    - year: 2014
+      month: 1
+      day: 5
+  citation-key: GallowayCambridgeCompanionMedieval2011
+  collection-title: Cambridge Companions to Culture
+  DOI: 10.1017/CCOL9780521856898
+  editor:
+    - family: Galloway
+      given: Andrew
+  event-place: Cambridge
+  ISBN: 978-0-511-97564-6
+  issued:
+    - year: 2011
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: orbis.library.yale.edu Library Catalog
+  title: The Cambridge Companion to medieval English culture
+  title-short: Medieval English culture
+  type: book
+
+- id: GoddenCambridgeCompanionOld2013
+  call-number: PR173 .C36 2013
+  citation-key: GoddenCambridgeCompanionOld2013
+  collection-title: Cambridge Companions to Literature
+  DOI: 10.1017/CCO9781139042987
+  edition: '2'
+  editor:
+    - family: Godden
+      given: Malcolm
+    - family: Lapidge
+      given: Michael
+  event-place: Cambridge
+  ISBN: 978-0-521-19332-0
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '355'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: orbis.library.yale.edu Library Catalog
+  title: The Cambridge companion to Old English literature
+  title-short: Old English literature
+  type: book
+
+- id: KurathMiddleEnglishDictionary1952
+  call-number: PE505 .M53x
+  citation-key: KurathMiddleEnglishDictionary1952
+  contributor:
+    - family: Kurath
+      given: Hans
+    - family: Kuhn
+      given: Sherman M.
+    - family: Lewis
+      given: Robert E.
+  edition: online ed.
+  event-place: Ann Arbor
+  issued:
+    - year: 1952
+    - year: 2001
+  publisher: University of Michigan
+  publisher-place: Ann Arbor
+  title: The Middle English Dictionary
+  type: book
+  URL: http://quod.lib.umich.edu/m/med/
+
+- id: LapidgeWileyBlackwellEncyclopediaAngloSaxon2014
+  call-number: DA152 .B58X 2014 (LC)
+  citation-key: LapidgeWileyBlackwellEncyclopediaAngloSaxon2014
+  DOI: 10.1002/9781118316061
+  edition: '2'
+  editor:
+    - family: Lapidge
+      given: Michael
+    - family: Blair
+      given: John
+    - family: Keynes
+      given: Simon
+    - family: Scragg
+      given: Donald G.
+  event-place: Chichester, West Sussex
+  ISBN: 978-0-470-65632-7
+  issued:
+    - year: 2014
+  language: en
+  number-of-pages: '583'
+  publisher: Wiley Blackwell
+  publisher-place: Chichester, West Sussex
+  source: orbis.library.yale.edu Library Catalog
+  title: The Wiley-Blackwell encyclopedia of Anglo-Saxon England
+  title-short: Encyclopedia of Anglo-Saxon England
+  type: book
+
+- id: Mollick15TimesUse2025
+  accessed:
+    - year: 2025
+      month: 8
+      day: 16
+  author:
+    - family: Mollick
+      given: Ethan
+  citation-key: Mollick15TimesUse2025
+  container-title: One Useful Thing
+  issued:
+    - year: 2025
+      month: 6
+      day: 23
+  language: en
+  title: 15 times to use AI, and 5 not to
+  title-short: 15 times
+  type: post-weblog
+  URL: https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to
+
+- id: MurrayOxfordEnglishDictionary1989
+  citation-key: MurrayOxfordEnglishDictionary1989
+  contributor:
+    - family: Murray
+      given: J. A. H.
+    - family: Bradley
+      given: H.
+    - family: Craigie
+      given: W. A.
+    - family: Onions
+      given: C. T.
+    - family: Simpson
+      given: J. A.
+    - family: Weiner
+      given: E. S. C.
+  edition: 2nd and 3rd eds., online
+  event-place: Oxford
+  issued:
+    - year: 1989
+    - year: 2025
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford English Dictionary
+  title-short: OED
+  type: book
+  URL: http://www.oed.com/
+
+- id: OftenHelpfulSometimes2025
+  citation-key: OftenHelpfulSometimes2025
+  container-title: The Economist
+  issued:
+    - year: 2025
+      month: 2
+      day: 15
+  language: en
+  page: '63'
+  section: Free exchange
+  title: Often helpful, sometimes bad, always dangerous
+  title-short: Often helpful
+  type: article-newspaper
+
+- id: RosenfeldChaucerEncyclopedia2023
+  citation-key: RosenfeldChaucerEncyclopedia2023
+  DOI: 10.1002/9781119086130
+  editor:
+    - family: Rosenfeld
+      given: Jessica
+    - family: Gillespie
+      given: Vincent
+    - family: Newhauser
+      given: Richard
+    - family: Walter
+      given: Katie L.
+  ISBN: 978-1-119-08799-1
+  issued:
+    - year: 2023
+      month: 6
+      day: 12
+  language: en
+  number-of-pages: '2224'
+  number-of-volumes: '4'
+  publisher: Wiley
+  title: The Chaucer Encyclopedia
+  title-short: Chaucer Encyclopedia
+  type: book
+  URL: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119086130
 ...

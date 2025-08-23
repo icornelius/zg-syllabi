@@ -1,11 +1,7 @@
 ---
 title: Medieval British Survey
 date: Fall 2025
-bibliography: bibliographies/engl-320.yaml
-header-includes: |
-  \usepackage{hanging}
-  \usepackage{multicol}
-  \setlength{\columnsep}{1cm}
+bibliography: bibliographies/engl320-2025-fall.yaml
 ---
 
 [zotero-library]: https://www.zotero.org/irc7/collections/ANEIPCFP
@@ -31,12 +27,27 @@ partials/course_desc-0009-20250318170751.md
 partials/outcome-0005-20250725154743.md
 ```
 
-# Texts
+# Materials
+
+## Required books
 ``` {.include}
 partials/texts-0006-20250725155705.md
 ```
 
+## On-line resources
+``` {.include}
+partials/texts-0009-20250822123037.md
+```
+
+### A note on AI chatbots
+``` {.include}
+partials/texts-0010-20250822124506.md
+```
+
 # Schedule
+
+All readings are from the *Broadview Anthology*. Page references are to that book. See the section [Required Books].
+
 ``` {.include}
 partials/schedule-0005-20240110143330.md
 schedules/engl320-2025-fall.md
@@ -48,7 +59,7 @@ partials/schedule-0009-20250725161726.md
 partials/policies-0016-20240816180023.md
 ```
 
-# Assessment
+# Grading and assignments
 ## Summary of grade components
 ``` {.include}
 partials/assessment-0011-20250726183830.md
@@ -59,24 +70,49 @@ partials/assessment-0011-20250726183830.md
 partials/assignments-0034-20240104180544.md
 ```
 
-## Note collections
+## Class presentation
+### General instructions {#general-presentation}
+``` {.include}
+partials/assignments-0044-20250822174923.md
+```
+
+### Detailed instructions {#detailed-presentation}
+``` {.include}
+partials/assignments-0051-20250823100942.md
+partials/assignments-0045-20250822180022.md
+```
+
+### Grading criteria {#criteria-presentation}
+``` {.include}
+partials/assignments-0046-20250822181535.md
+```
+
+## Note collection
+
+### General instructions {#general-note-collection}
+``` {.include}
+partials/assignments-0049-20250823072403.md
+partials/assignments-0050-20250823080904.md
+```
+
+### Detailed instructions {#detailed-note-collection}
 ``` {.include}
 partials/assignments-0032-20240101202151.md
 ```
 
-## Class presentation
+### Grading criteria {#criteria-note-collection}
 ``` {.include}
-partials/assignments-0037-20240817210112.md
-```
-
-## Translation and critical commentary
-``` {.include}
-partials/assignments-0011-20200120155517.md
+partials/assignments-0048-20250822194938.md
 ```
 
 ## Exams
+
+There are two midterm exams and a final exam, as shown on the [Schedule].
+The final exam must be taken on the date set by the university.
+Exams are passage identification.
+
 ``` {.include}
-partials/assignments-0029-20240101182234.md
+partials/assignments-0024-20230108134803.md
 ```
 
 ## Grade schema
@@ -91,15 +127,21 @@ partials/assessment-0002-20220818165633.md
 partials/policies-0007-20220818163137.md
 ```
 
-## Policies on written work
-### General policies
+## Written work {#policies-on-written-work}
+
+### Document format
 ``` {.include}
 partials/assignments-0001-20220818170911.md
 ```
 
-### How to cite the *OED* and *MED*
+### Citing sources
 ``` {.include}
-partials/misc-0003-20240818223707.md
+partials/assignments-0053-20250823154825.md
+```
+
+### Getting help
+``` {.include}
+partials/assignments-0052-20250823153946.md
 ```
 
 ### Late work
@@ -110,6 +152,7 @@ partials/policies-0011-20230107104207.md
 ## Academic integrity
 ``` {.include}
 partials/policies-0004-20220818161423.md
+partials/policies-0018-20250818104518.md
 ```
 
 ## Attendance
@@ -164,7 +207,7 @@ Last updated \today
 [View file history on GitHub][gh-releases]
 
 # Bibliography
-This bibliography supplies details for readings listed on the course [Schedule] and most other books and resources referenced in the [assignments](#assessment).
+
 These details are available on [Zotero][zotero-library] in machine-readable formats.
 
 ---
