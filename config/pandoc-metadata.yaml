@@ -2,6 +2,7 @@
 geometry: margin=1in
 fontsize: 12pt
 colorlinks: True
+csl: config/chicago-in-text-shortened-author-title.csl
 link-citations: True
 linkcolor: blue
 toc: True

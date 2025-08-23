@@ -2,7 +2,6 @@
 title: Topics in Advanced Writing
 subtitle: 'Artificial Intelligence and Plain Text: Writing Tools in an Expanded Field'
 date: Fall 2025
-csl: config/chicago-shortened-notes-bibliography-subsequent-title-in-text.csl
 bibliography: bibliographies/engl299-2025-fall.yaml
 ---
 
