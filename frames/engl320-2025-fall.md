@@ -44,7 +44,7 @@ policies-0016-20240816180023.md
 # Assessment
 ## Summary of grade components
 ``` {.include}
-assessment-0008-20240813170600.md
+assessment-0011-20250726183830.md
 ```
 
 ## Participation
