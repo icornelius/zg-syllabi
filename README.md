@@ -7,7 +7,8 @@ Final versions of some past syllabi may be downloaded at the following links:
 - "Exploring Poetry" (ENGL 271)
   [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl271-2024-spring.pdf)
 - "History of the English Language" (ENGL 300)
-  [spring 2023](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl300-2023-spring.pdf)
+  [spring 2023](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl300-2023-spring.pdf),
+  [spring 2025](https://github.com/icornelius/zg-syllabi/releases/download/v2025.01.4/engl300-2025-spring.pdf)
 - "Introduction to Old English" (ENGL 321/441)
   [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl441-2024-spring.pdf)
 - "Studies in Medieval Literature" (ENGL 323)
