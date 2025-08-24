@@ -59,7 +59,7 @@
 
 ## Wed Sep 17 {.unlisted .unnumbered}
 
-- Watch @CifuentesGoodbodyWhatsBibFile2017 and -@CifuentesGoodbodyUsingPandocAcademic2017
+- Watch @CifuentesGoodbodyWhatsBibFile2017 and @CifuentesGoodbodyUsingPandocAcademic2017
 - Read [“Getting started with pandoc”](https://pandoc.org/getting-started.html) and install pandoc on your machine
 - Explore AlternativeTo’s list of [Free Text Editors with support for Markdown](https://alternativeto.net/category/productivity/text-editor/?feature=markdown-support&license=free)
 
