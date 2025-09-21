@@ -53,16 +53,16 @@
 
 ## Fri Sep 19 {.unlisted .unnumbered}
 
-- *Judith* (pp. 117--26)
+- *Beowulf*, continued
 
 ## Mon Sep 22 {.unlisted .unnumbered}
 
-- Alfred’s “Preface” to the Old English version of Gregory’s *Pastoral Care* (pp. 155--57)
-- Wulfstan, “The Sermon of Wulf to the English” (pp. 159--62)
+- *Judith* (pp. 117--26)
 
 ## Wed Sep 24 {.unlisted .unnumbered}
 
-- Review
+- Alfred’s “Preface” to the Old English version of Gregory’s *Pastoral Care* (pp. 155--57)
+- Wulfstan, “The Sermon of Wulf to the English” (pp. 159--62)
 
 ## Fri Sep 26 {.unlisted .unnumbered}
 
