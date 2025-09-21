@@ -111,8 +111,14 @@ There are two midterm exams and a final exam, as shown on the [Schedule].
 The final exam must be taken on the date set by the university.
 Exams are passage identification.
 
+### Instructions for passage identification
 ``` {.include}
 partials/assignments-0024-20230108134803.md
+```
+
+### Grading criteria {#criteria-passage-id}
+``` {.include}
+partials/assignments-0054-20250921112542.md
 ```
 
 ## Grade schema
