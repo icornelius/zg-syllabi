@@ -5,6 +5,7 @@ colorlinks: True
 csl: config/chicago-in-text-shortened-author-title.csl
 link-citations: True
 linkcolor: blue
+toccolor: black
 toc: True
 include-auto: True
 author: Ian Cornelius
