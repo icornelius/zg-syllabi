@@ -1,12 +1,12 @@
 ---
-title: Topics in Advanced Writing
-subtitle: 'Artificial Intelligence and Plain Text: Writing Tools in an Expanded Field'
-date: Fall 2025
+title: COMP 250/ENGL 296
+subtitle: "Research Writing: Open Source Tools and Techniques"
+date: Fall 2026
 bibliography: bibliographies/engl299-2025-fall.yaml
+author:
 ---
 
 [zotero-library]: https://www.zotero.org/groups/6099821/luc_engl_299_fall_2025
-[gh-releases]: https://github.com/icornelius/zg-syllabi/releases
 
 \newpage
 
@@ -17,20 +17,19 @@ bibliography: bibliographies/engl299-2025-fall.yaml
 partials/course_id-0010-20250413114604.md
 ```
 
-## How to contact me
-``` {.include}
-partials/course_id-0004-20230107090154.md
-```
-
-# Course description and learning outcomes
+## Course description
 ``` {.include}
 partials/course_desc-0010-20250318222122.md
 ```
 
-Outcomes:
-``` {.include}
-partials/outcome-0004-20250725154550.md
-```
+## Prerequisites
+
+- UCWR 110 (Writing Responsibly) or equivalent
+- COMP 141 (Introduction to Computing Tools and Techniques) or instructor permission
+
+## Learning outcomes
+- Students will acquire working knowledge of text-based and open-source software tools to support academic research and writing
+- Students will create researched arguments that are clear, well-organized, accurate and verifiable
 
 # Required Materials
 
@@ -52,12 +51,11 @@ partials/policies-0017-20250817182816.md
 # Schedule
 ``` {.include}
 partials/schedule-0005-20240110143330.md
-schedules/engl299-2025-fall.md
+schedules/comp250-engl296.md
 ```
 
 ## Final exam {.unnumbered}
 ``` {.include}
-partials/schedule-0010-20250817074721.md
 partials/policies-0016-20240816180023.md
 ```
 
@@ -72,9 +70,14 @@ partials/assessment-0012-20250818180259.md
 partials/assignments-0034-20240104180544.md
 ```
 
-## Written work
+## Overview of written work
 ``` {.include}
 partials/assignments-0043-20250818182102.md
+```
+
+## Note collections
+``` {.include}
+partials/frame-0003-20250921095127.md
 ```
 
 ## Grade schema
@@ -146,10 +149,12 @@ partials/policies-0006-20220818162916.md
 By remaining in this course, students agree to accept this syllabus and abide by its policies.
 Students will be informed of any changes to the syllabus.
 
+<!--
 # Version information
 Last updated \today
 
-[View file history on GitHub][gh-releases]
+File history for published syllabi is available on GitHub in the repository [`icornelius/zg-syllabi`](https://github.com/icornelius/zg-syllabi).
+-->
 
 # Bibliography
 This bibliography supplies details for readings listed on the course [Schedule].

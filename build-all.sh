@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COURSES=("engl320-2025-fall" "engl299-2025-fall")
+COURSES=("comp250-engl296")
 
 # Convert CSV schedules to Markdown
 pushd schedules

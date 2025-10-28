@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COURSES=("engl320-2025-fall" "engl299-2025-fall")
+COURSES=("comp250-engl296")
 
 for COURSE in ${COURSES[@]} ; do
         echo "Creating /build/$COURSE.pdf..."
