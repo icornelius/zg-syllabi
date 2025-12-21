@@ -2,20 +2,24 @@
 
 For current syllabi see the [latest tagged release](https://github.com/icornelius/zg-syllabi/releases/latest).
 
-Final versions of some past syllabi may be downloaded at the following links:
+Some past syllabi may be downloaded at the following links:
 
-- "Exploring Poetry" (ENGL 271)
+- "Exploring Poetry"
   [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl271-2024-spring.pdf)
-- "History of the English Language" (ENGL 300)
+- "Research Writing: Open Source Tools and Techniques"
+  [fall 2025](https://github.com/icornelius/zg-syllabi/releases/download/v2025.08.1/engl299-2025-fall.pdf)
+- "History of the English Language"
   [spring 2023](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl300-2023-spring.pdf),
   [spring 2025](https://github.com/icornelius/zg-syllabi/releases/download/v2025.01.4/engl300-2025-spring.pdf)
-- "Introduction to Old English" (ENGL 321/441)
+- "Medieval British Literature"
+  [fall 2025](https://github.com/icornelius/zg-syllabi/releases/download/v2025.08.1/engl320-2025-fall.pdf)
+- "Introduction to Old English"
   [spring 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.engl321.0.3/engl441-2024-spring.pdf)
-- "Studies in Medieval Literature" (ENGL 323)
+- "Introduction to Middle English"
   [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/engl323-2024-fall.pdf)
-- "English Poetry from Manuscript to Print" (ENGL 390)
+- "English Poetry from Manuscript to Print"
   [fall 2022](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl390-2022-fall.pdf)
-- "Interpreting Literature" (UCLR 100)
+- "Interpreting Literature"
   [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/uclr100-2024-fall.pdf)
 
 # Versioning
