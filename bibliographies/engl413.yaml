@@ -101,8 +101,8 @@ references:
   publisher-place: New York
   source: luc.primo.exlibrisgroup.com
   title: >-
-    Orality and literacy in Borges: two manuscripts of "Del culto de los libros"
-    [On the cult of books]
+    Orality and literacy in Borges: two manuscripts of <span class="nocase">"Del
+    culto de los libros"</span> \[On the cult of books]
   title-short: Two manuscripts of "Del culto de los libros"
   type: chapter
 
@@ -138,6 +138,31 @@ references:
   type: chapter
   URL: >-
     https://www.cambridge.org/core/books/cambridge-companion-to-medieval-british-manuscripts/describing-and-cataloguing-medieval-english-manuscripts-a-checklist/3E763928ABA3648AEC30D2EBDA02CC5D
+
+- id: BoothCraftResearch2024
+  author:
+    - family: Booth
+      given: Wayne C.
+    - family: Williams
+      given: Joseph M.
+    - family: Colomb
+      given: Gregory G.
+    - family: FitzGerald
+      given: William T.
+    - family: Bizup
+      given: Joseph
+  citation-key: BoothCraftResearch2024
+  collection-title: Chicago Guides to Writing, Editing, and Publishing
+  edition: '5'
+  event-place: Chicago
+  ISBN: 978-0-226-82666-0
+  issued:
+    - year: 2024
+  language: en
+  publisher: The University of Chicago Press
+  publisher-place: Chicago
+  title: The craft of research
+  type: book
 
 - id: BorgesLabyrinthsSelectedStories1964
   author:
