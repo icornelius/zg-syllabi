@@ -1,6 +1,6 @@
 ---
 title: Textual Criticism
-date: Spring 2026
+subtitle: Spring 2026 syllabus version 1
 bibliography: bibliographies/engl413.yaml
 ---
 
