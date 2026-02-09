@@ -132,6 +132,12 @@ partials/policies-0005-20220818161952.md
 By remaining in this course, students agree to accept this syllabus and abide by its policies.
 Students will be informed of any changes to the syllabus.
 
+# License and rights
+
+This syllabus is marked [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Students are reminded that many course readings are protected by copyright and should not be shared outside this course without written permission of the copyright holder.
+
 # Version information
 Last compiled \today.
 
