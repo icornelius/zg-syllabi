@@ -469,6 +469,40 @@ references:
   title: What do we want from an index of Middle English verse?
   type: speech
 
+- id: CoulmasWritingWrittenLanguage2003
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Coulmas
+      given: Florian
+    - family: Chafe
+      given: Wallace
+    - family: Jaffré
+      given: Jean-Pierre
+    - family: Mithun
+      given: Marianne
+    - family: Linell
+      given: Per
+    - family: Tzeng
+      given: Ovid J. L.
+  citation-key: CoulmasWritingWrittenLanguage2003
+  container-title: International Encyclopedia of Linguistics
+  editor:
+    - family: Frawley
+      given: William J.
+  ISBN: 978-0-19-513977-8
+  issued:
+    - year: 2003
+  language: en
+  publisher: Oxford University Press
+  source: www.oxfordreference.com
+  title: Writing and written language
+  type: chapter
+  URL: >-
+    https://www.oxfordreference.com/display/10.1093/acref/9780195139778.001.0001/acref-9780195139778-e-1206
+
 - id: CraigRationaleTransinclusiveBibliography2023
   accessed:
     - year: 2025
@@ -669,7 +703,7 @@ references:
       day: 23
   author:
     - family: Frawley
-      given: William
+      given: William J.
     - family: Bauman
       given: Richard
     - family: Polanyi
@@ -1218,6 +1252,8 @@ references:
       given: J. A.
     - family: Weiner
       given: E. S. C.
+    - family: Proffitt
+      given: Michael
   edition: 2nd and 3rd eds., online
   event-place: Oxford
   issued:
@@ -1573,6 +1609,26 @@ references:
   title: The folio of 1647
   type: chapter
   volume: '1'
+
+- id: UnicodeCoreSpecVersion170
+  accessed:
+    - year: 2026
+      month: 2
+      day: 4
+  author:
+    - literal: The Unicode Consortium
+  citation-key: UnicodeCoreSpecVersion170
+  container-title: The Unicode Standard
+  ISBN: 978-1-936213-35-1
+  issued:
+    - year: 2025
+      month: 9
+      day: 9
+  language: en
+  publisher-place: San Francisco
+  title: Core specification, version 17.0
+  type: webpage
+  URL: https://www.unicode.org/versions/Unicode17.0.0/core-spec/
 
 - id: VanderMeulenSystemManuscriptTranscription1999
   accessed:
