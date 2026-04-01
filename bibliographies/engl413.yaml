@@ -517,6 +517,28 @@ references:
   URL: https://www.jstor.org/stable/48770188
   volume: '16'
 
+- id: DarntonWhatHistoryBooks1982
+  accessed:
+    - year: 2021
+      month: 12
+      day: 23
+  author:
+    - family: Darnton
+      given: Robert
+  citation-key: DarntonWhatHistoryBooks1982
+  container-title: Daedalus
+  ISSN: 0011-5266
+  issue: '3'
+  issued:
+    - year: 1982
+  page: 65–83
+  publisher: The MIT Press
+  source: JSTOR
+  title: What Is the history of books?
+  type: article-journal
+  URL: http://www.jstor.org/stable/20024803
+  volume: '111'
+
 - id: EggertBookEtextWorksite2009
   author:
     - family: Eggert
@@ -1159,6 +1181,25 @@ references:
   title-short: A new republic of letters
   type: book
 
+- id: McKenzieBibliographySociologyTexts1999
+  author:
+    - family: McKenzie
+      given: D. F.
+  citation-key: McKenzieBibliographySociologyTexts1999
+  ISBN: 978-1-107-11650-4
+  issued:
+    - year: 1999
+  language: en
+  original-date:
+    date-parts:
+      - - '1986'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: Bibliography and the sociology of texts
+  type: book
+  URL: https://ebookcentral.proquest.com/lib/luc/detail.action?docID=201933
+
 - id: McKerrowProlegomenaOxfordShakespeare1939
   accessed:
     - year: 2026
@@ -1231,10 +1272,6 @@ references:
   URL: http://www.oed.com/
 
 - id: NevilleNihilBiblicumMe2014
-  accessed:
-    - year: 2023
-      month: 7
-      day: 24
   author:
     - family: Neville
       given: Sarah
@@ -1252,11 +1289,10 @@ references:
   publisher: Brill
   source: brill.com
   title: >-
-    *Nihil biblicum a me alienum puto*: W. W. Greg, bibliography, and the
-    sociology of texts
-  title-short: '*Nihil biblicum*'
+    <span class="nocase">*Nihil biblicum a me alienum puto*</span>: W. W. Greg,
+    bibliography, and the sociology of texts
+  title-short: <span class="nocase">*Nihil biblicum a me alienum puto*</span>
   type: article-journal
-  URL: https://brill.com/display/book/edcoll/9789401212113/B9789401212113-s006.xml
   volume: '11'
 
 - id: ParkesEnglishCursiveBook1969
@@ -1758,7 +1794,7 @@ references:
   publisher: Amherst College Press
   source: directory.doabooks.org
   title: 'Writing in time: Emily Dickinson''s master hours'
-  title-short: Writing in time
+  title-short: Emily Dickinson's master hours
   type: book
   URL: https://directory.doabooks.org/handle/20.500.12854/90756
 
