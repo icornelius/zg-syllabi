@@ -21,7 +21,7 @@ jobs:
       - name: Install Pandoc
         uses: r-lib/actions/setup-pandoc@v2
         with:
-          pandoc version: 'latest'
+          pandoc-version: 'latest'
 
       - name: Install XeLaTeX
         run: sudo apt-get update && sudo apt-get install -y texlive-xetex
