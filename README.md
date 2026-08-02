@@ -21,6 +21,8 @@ Some past syllabi may be downloaded at the following links:
   [fall 2024](https://github.com/icornelius/zg-syllabi/releases/download/v.2024f.3/engl323-2024-fall.pdf)
 - "English Poetry from Manuscript to Print" (Senior Seminar)
   [fall 2022](https://github.com/icornelius/zg-syllabi/releases/download/uclr100-v.2023.0.3/engl390-2022-fall.pdf)
+- "Textual Criticism" (Graduate)
+  [spring 2026](https://github.com/icornelius/zg-syllabi/releases/download/v2026.01.2-1/cornelius-engl413-2026-01.pdf)
 
 # Versioning
 
