@@ -1,8 +1,8 @@
 #!/bin/bash
 
-COURSES=("engl413")
+COURSES=("engl406" "engl322")
 NAME="cornelius"
-SEMESTER="2026-01"
+SEMESTER="2026-08"
 
 for COURSE in ${COURSES[@]} ; do
         echo "Creating /build/$NAME-$COURSE-$SEMESTER.pdf..."
