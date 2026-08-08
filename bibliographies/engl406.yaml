@@ -1,0 +1,812 @@
+---
+references:
+- id: AlgeoProblemsOriginsDevelopment2004
+  author:
+    - family: Algeo
+      given: John
+    - family: Butcher
+      given: Carmen Acevedo
+  citation-key: AlgeoProblemsOriginsDevelopment2004
+  edition: '5'
+  ISBN: 0-15-507053-3
+  issued:
+    - year: 2004
+      month: 6
+      day: 15
+  number-of-pages: '264'
+  publisher: Wadsworth
+  source: Amazon.com
+  title: Problems in the origins and development of the English language
+  title-short: Problems
+  type: book
+
+- id: AnthonyIndoEuropeanHomelandLinguistic2015
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  author:
+    - family: Anthony
+      given: David W.
+    - family: Ringe
+      given: Don
+  citation-key: AnthonyIndoEuropeanHomelandLinguistic2015
+  container-title: Annual Review of Linguistics
+  DOI: 10.1146/annurev-linguist-030514-124812
+  ISSN: 2333-9691
+  issue: '1'
+  issued:
+    - year: 2015
+  page: 199–219
+  source: Annual Reviews
+  title: The Indo-European homeland from linguistic and archaeological perspectives
+  title-short: Indo-European homeland
+  type: article-journal
+  URL: https://doi.org/10.1146/annurev-linguist-030514-124812
+  volume: '1'
+
+- id: AnzalduaHowTameWild2021
+  author:
+    - family: Anzaldúa
+      given: Gloria
+  citation-key: AnzalduaHowTameWild2021
+  container-title: 'Borderlands = La frontera: the new mestiza'
+  contributor:
+    - family: Keating
+      given: AnaLouise
+  edition: Critical edition
+  editor:
+    - family: Vivancos Pérez
+      given: Ricardo F.
+    - family: Cantú
+      given: Norma Elia
+  ISBN: 978-1-879960-95-4
+  issued:
+    - year: 2021
+  page: 119–131
+  publisher: Aunt Lute Books
+  publisher-place: San Francisco
+  source: luc.primo.exlibrisgroup.com
+  title: How to tame a wild tongue
+  type: chapter
+
+- id: BakerOldEnglishAerobics
+  accessed:
+    - year: 2026
+      month: 8
+      day: 3
+  author:
+    - family: Baker
+      given: Peter S.
+  citation-key: BakerOldEnglishAerobics
+  container-title: The Old English aerobics
+  language: en
+  title: Anthology
+  title-short: Anthology
+  type: webpage
+  URL: http://www.oldenglishaerobics.net/anthology.html
+
+- id: BarberEnglishLanguageHistorical2025
+  author:
+    - family: Barber
+      given: Charles
+    - family: Beal
+      given: Joan C.
+    - family: Shaw
+      given: Philip A.
+  citation-key: BarberEnglishLanguageHistorical2025
+  edition: '3'
+  ISBN: 978-1-009-22862-6
+  issued:
+    - year: 2025
+      month: 10
+      day: 31
+  language: en
+  number-of-pages: '270'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Google Books
+  title: 'The English language: a historical introduction'
+  title-short: The English language
+  type: book
+
+- id: BaughHistoryEnglishLanguage2013
+  author:
+    - family: Baugh
+      given: Albert C.
+    - family: Cable
+      given: Thomas
+  citation-key: BaughHistoryEnglishLanguage2013
+  edition: '6'
+  issued:
+    - year: 2013
+  publisher: Routledge
+  publisher-place: London and New York
+  title: A history of the English language
+  type: book
+
+- id: BlakeCaxtonOwnProse1973
+  citation-key: BlakeCaxtonOwnProse1973
+  editor:
+    - family: Blake
+      given: N. F.
+  issued:
+    - year: 1973
+  language: en
+  note: 'OCLC: 873941558'
+  publisher: Deutsch
+  publisher-place: London
+  source: Open WorldCat
+  title: Caxton's own prose
+  type: book
+
+- id: BoothCraftResearch2024
+  author:
+    - family: Booth
+      given: Wayne C.
+    - family: Williams
+      given: Joseph M.
+    - family: Colomb
+      given: Gregory G.
+    - family: FitzGerald
+      given: William T.
+    - family: Bizup
+      given: Joseph
+  citation-key: BoothCraftResearch2024
+  collection-title: Chicago Guides to Writing, Editing, and Publishing
+  edition: '5'
+  ISBN: 978-0-226-82666-0
+  issued:
+    - year: 2024
+  language: en
+  publisher: The University of Chicago Press
+  publisher-place: Chicago
+  title: The craft of research
+  type: book
+
+- id: BrooksSocialPoliticalBackground2013
+  author:
+    - family: Brooks
+      given: Nicholas
+  call-number: PR173 .C36 2013
+  citation-key: BrooksSocialPoliticalBackground2013
+  container-title: The Cambridge companion to Old English literature
+  edition: '2'
+  editor:
+    - family: Godden
+      given: Malcolm
+    - family: Lapidge
+      given: Michael
+  ISBN: 978-0-521-19332-0
+  issued:
+    - year: 2013
+  page: 1–18
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: orbis.library.yale.edu Library Catalog
+  title: The social and political background
+  type: chapter
+
+- id: BurnleyHistoryEnglishLanguage2000
+  author:
+    - family: Burnley
+      given: David
+  call-number: PE1075.5 .B87 2000
+  citation-key: BurnleyHistoryEnglishLanguage2000
+  edition: '2'
+  ISBN: 978-1-317-88339-5
+  issued:
+    - year: 2000
+  language: en
+  number-of-pages: '494'
+  publisher: Routledge
+  publisher-place: New York
+  source: Google Books
+  title: 'The history of the English language: a source book'
+  title-short: Source book
+  type: book
+
+- id: CableCompanionBaughCables2012
+  author:
+    - family: Cable
+      given: Thomas
+  citation-key: CableCompanionBaughCables2012
+  edition: '4'
+  ISBN: 978-0-205-23075-4
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '168'
+  publisher: Pearson
+  source: Google Books
+  title: A Companion to Baugh and Cable's a History of the English Language
+  title-short: Companion
+  type: book
+
+- id: CarneyMyth5English1998
+  author:
+    - family: Carney
+      given: Edward
+  citation-key: CarneyMyth5English1998
+  container-title: Language myths
+  editor:
+    - family: Bauer
+      given: Laurie
+    - family: Trudgill
+      given: Peter
+  ISBN: 0-14-026023-4
+  issued:
+    - year: 1998
+  language: en
+  page: 32–40
+  publisher: Penguin
+  publisher-place: London
+  source: Amazon.com
+  title: 'Myth 5: English spelling is kattastroffik'
+  title-short: English spelling is kattastroffik
+  type: chapter
+
+- id: ChicagoManualStyle2024
+  citation-key: ChicagoManualStyle2024
+  edition: '18'
+  issued:
+    - year: 2024
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: The Chicago manual of style
+  type: book
+  URL: www.chicagomanualofstyle.org
+
+- id: CrystalCambridgeEncyclopediaEnglish2003
+  author:
+    - family: Crystal
+      given: David
+  citation-key: CrystalCambridgeEncyclopediaEnglish2003
+  edition: '2'
+  ISBN: 978-0-521-82348-7
+  issued:
+    - year: 2003
+  language: en
+  number-of-pages: vii+499
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: The Cambridge encyclopedia of the English language
+  title-short: Encyclopedia of the English language
+  type: book
+
+- id: CrystalDictionaryLinguisticsPhonetics2009
+  author:
+    - family: Crystal
+      given: David
+  citation-key: CrystalDictionaryLinguisticsPhonetics2009
+  collection-title: The language library
+  edition: '6'
+  ISBN: 978-1-4051-5297-6
+  issued:
+    - year: 2009
+  language: en
+  publisher: Wiley-Blackwell
+  publisher-place: Hoboken, NJ
+  source: luc.primo.exlibrisgroup.com
+  title: A dictionary of linguistics and phonetics
+  type: book
+
+- id: CrystalOxfordDictionaryOriginal2016
+  author:
+    - family: Crystal
+      given: David
+  citation-key: CrystalOxfordDictionaryOriginal2016
+  DOI: 10.1093/acref/9780199668427.001.0001
+  ISBN: 978-0-19-183508-7
+  issued:
+    - year: 2016
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: luc.primo.exlibrisgroup.com
+  title: The Oxford dictionary of original Shakespearean pronunciation
+  title-short: Dictionary of original Shakespearean pronunciation
+  type: book
+
+- id: CrystalStoriesEnglish2004
+  author:
+    - family: Crystal
+      given: David
+  call-number: PE1074.7 .C79 2004
+  citation-key: CrystalStoriesEnglish2004
+  ISBN: 1-58567-601-2
+  issued:
+    - year: 2004
+  number-of-pages: '584'
+  publisher: Overlook Press
+  publisher-place: Woodstock
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: The stories of English
+  type: book
+
+- id: CuestaLanguageDevelopmentOld2025
+  accessed:
+    - year: 2026
+      month: 8
+      day: 6
+  author:
+    - family: Fernández Cuesta
+      given: Julia
+  citation-key: CuestaLanguageDevelopmentOld2025
+  collection-title: The New Cambridge History of the English Language
+  container-title: >-
+    The New Cambridge History of the English Language: Context, Contact and
+    Development
+  DOI: 10.1017/9781009205702.006
+  editor:
+    - family: Wright
+      given: Laura
+    - family: Hickey
+      given: Raymond
+  ISBN: 978-1-009-20570-2
+  issued:
+    - year: 2025
+  page: 78–98
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: Language development in the Old English period
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/new-cambridge-history-of-the-english-language/language-development-in-the-old-english-period/87CB19F5D5E7ED1EB13792886F015556
+  volume: '1'
+
+- id: FrawleyInternationalEncyclopediaLinguistics2003
+  citation-key: FrawleyInternationalEncyclopediaLinguistics2003
+  edition: '2'
+  editor:
+    - family: Frawley
+      given: William
+  ISBN: 978-0-19-530745-0
+  issued:
+    - year: 2003
+  language: en
+  publisher: Oxford University Press
+  publisher-place: New York, NY
+  source: loyola-primo.com
+  title: International encyclopedia of linguistics
+  type: book
+
+- id: HartmannDictionariesTodayWhat2008
+  author:
+    - family: Hartmann
+      given: Reinhard R. K.
+  citation-key: HartmannDictionariesTodayWhat2008
+  collection-number: '54'
+  collection-title: Blackwell companions to literature and culture
+  container-title: A companion to the history of the English language
+  editor:
+    - family: Momma
+      given: Haruko
+    - family: Matto
+      given: Michael
+  ISBN: 978-1-78268-696-5
+  issued:
+    - year: 2008
+  language: en
+  page: 93–102
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester, UK
+  source: luc.primo.exlibrisgroup.com
+  title: 'Dictionaries today: what can we do with them?'
+  title-short: Dictionaries today
+  type: chapter
+
+- id: KemenadeHandbookHistoryEnglish2006
+  citation-key: KemenadeHandbookHistoryEnglish2006
+  collection-title: Blackwell handbooks in linguistics
+  editor:
+    - family: Kemenade
+      given: Ans
+      dropping-particle: van
+    - family: Los
+      given: Bettelou
+  ISBN: '063123344X (hardcover : alk. paper)'
+  issued:
+    - year: 2006
+  publisher: Blackwell
+  publisher-place: Malden, MA; Oxford
+  title: The handbook of the history of English
+  type: book
+
+- id: KurathMiddleEnglishDictionary1952
+  call-number: PE505 .M53x
+  citation-key: KurathMiddleEnglishDictionary1952
+  contributor:
+    - family: Kurath
+      given: Hans
+    - family: Kuhn
+      given: Sherman M.
+    - family: Lewis
+      given: Robert E.
+  edition: online ed.
+  issued:
+    - year: 1952
+    - year: 2001
+  publisher: University of Michigan
+  publisher-place: Ann Arbor
+  title: The Middle English Dictionary
+  type: book
+  URL: http://quod.lib.umich.edu/m/med/
+
+- id: KytoCambridgeHandbookEnglish2016
+  citation-key: KytoCambridgeHandbookEnglish2016
+  editor:
+    - family: Kytö
+      given: Merja
+    - family: Pahta
+      given: Päivi
+  ISBN: 978-1-316-47291-0
+  issued:
+    - year: 2016
+  language: en
+  number-of-pages: '1092'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Google Books
+  title: The Cambridge handbook of English historical linguistics
+  type: book
+
+- id: KytoHistoricalCorporaEnglish2025
+  accessed:
+    - year: 2026
+      month: 8
+      day: 3
+  author:
+    - family: Kytö
+      given: Merja
+    - family: Smitterberg
+      given: Erik
+  citation-key: KytoHistoricalCorporaEnglish2025
+  collection-number: '2'
+  collection-title: The New Cambridge History of the English Language
+  container-title: >-
+    The New Cambridge History of the English Language: Documentation, Sources of
+    Data and Modelling
+  DOI: 10.1017/9781009205443.011
+  editor:
+    - family: Smitterberg
+      given: Erik
+    - family: Kytö
+      given: Merja
+  ISBN: 978-1-009-20545-0
+  issued:
+    - year: 2025
+  page: 200–224
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: Historical corpora of English
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/new-cambridge-history-of-the-english-language/historical-corpora-of-english/B54E195712D4089EEB20FC694AA08F74
+
+- id: LawsonSeeingSpeechArticulatory2018
+  accessed:
+    - year: 2026
+      month: 8
+      day: 8
+  author:
+    - family: Lawson
+      given: E.
+    - family: Stuart-Smith
+      given: J.
+    - family: Scobbie
+      given: J. M.
+    - family: Nakai
+      given: S.
+  citation-key: LawsonSeeingSpeechArticulatory2018
+  issued:
+    - year: 2018
+  language: en
+  publisher: University of Glasgow
+  title: 'Seeing speech: an articulatory web resource for the study of phonetics'
+  title-short: Seeing speech
+  type: dataset
+  URL: https://www.seeingspeech.ac.uk/
+
+- id: McArthurOxfordCompanionEnglish2018
+  citation-key: McArthurOxfordCompanionEnglish2018
+  DOI: 10.1093/acref/9780199661282.001.0001
+  edition: '2'
+  editor:
+    - family: McArthur
+      given: Tom
+    - family: Lam-McArthur
+      given: Jacqueline
+    - family: Fontaine
+      given: Lise
+  ISBN: 978-0-19-966128-2
+  issued:
+    - year: 2018
+      month: 5
+      day: 24
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford companion to the English language
+  type: book
+
+- id: McKenzieSociologyTextOral1999
+  author:
+    - family: McKenzie
+      given: D. F.
+  citation-key: McKenzieSociologyTextOral1999
+  container-title: Bibliography and the sociology of texts
+  ISBN: 978-1-107-11650-4
+  issued:
+    - year: 1999
+  language: en
+  original-date:
+    - year: 1984
+  page: 77–130
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: >-
+    The sociology of a text: oral culture, literacy, and print in early New
+    Zealand
+  title-short: Oral culture, literacy, and print in early New Zealand
+  type: chapter
+
+- id: MommaCompanionHistoryEnglish2008
+  citation-key: MommaCompanionHistoryEnglish2008
+  collection-number: '54'
+  collection-title: Blackwell companions to literature and culture
+  editor:
+    - family: Momma
+      given: Haruko
+    - family: Matto
+      given: Michael
+  ISBN: 978-1-78268-696-5
+  issued:
+    - year: 2008
+  language: en
+  number-of-pages: '724'
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester, UK
+  source: luc.primo.exlibrisgroup.com
+  title: A companion to the history of the English language
+  type: book
+
+- id: MoultonLinguistics1970
+  author:
+    - family: Moulton
+      given: William G.
+  call-number: PB21 .T5 1970
+  citation-key: MoultonLinguistics1970
+  container-title: The aims and methods of scholarship in modern languages and literatures
+  edition: '2'
+  editor:
+    - family: Thorpe
+      given: James
+  ISBN: 978-0-87352-013-3
+  issued:
+    - year: 1970
+  language: en
+  page: 1–28
+  publisher: Modern Language Association of America
+  publisher-place: New York
+  source: luc.primo.exlibrisgroup.com
+  title: Linguistics
+  type: chapter
+
+- id: MugglestoneOxfordHistoryEnglish2012
+  call-number: PE1075 .O97 2012
+  citation-key: MugglestoneOxfordHistoryEnglish2012
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  number-of-pages: '600'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: The Oxford history of English
+  title-short: Oxford history of English
+  type: book
+
+- id: MukherjeeDevelopmentEnglishLanguage2021
+  author:
+    - family: Mukherjee
+      given: Joybrato
+    - family: Bernaisch
+      given: Tobias
+  citation-key: MukherjeeDevelopmentEnglishLanguage2021
+  collection-title: Routledge handbooks in applied linguistics
+  container-title: The Routledge handbook of world Englishes
+  edition: '2'
+  editor:
+    - family: Kirkpatrick
+      given: Andy
+  ISBN: 978-1-003-12875-5
+  issued:
+    - year: 2021
+  language: en
+  publisher: Routledge
+  publisher-place: Abingdon, Oxon.
+  source: luc.primo.exlibrisgroup.com
+  title: The development of the English language in India
+  title-short: The English language in India
+  type: chapter
+
+- id: MurrayOxfordEnglishDictionary1989
+  citation-key: MurrayOxfordEnglishDictionary1989
+  contributor:
+    - family: Murray
+      given: J. A. H.
+    - family: Bradley
+      given: H.
+    - family: Craigie
+      given: W. A.
+    - family: Onions
+      given: C. T.
+    - family: Simpson
+      given: J. A.
+    - family: Weiner
+      given: E. S. C.
+    - family: Proffitt
+      given: Michael
+  edition: 2nd and 3rd eds., online
+  issued:
+    - year: 1989
+    - year: 2026
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford English Dictionary
+  title-short: OED
+  type: book
+  URL: http://www.oed.com/
+
+- id: NevalainenOxfordHandbookHistory2012
+  author:
+    - family: Nevalainen
+      given: Terttu
+    - family: Traugott
+      given: Elizabeth Closs
+  call-number: PE1075 .O95 2012
+  citation-key: NevalainenOxfordHandbookHistory2012
+  collection-title: Oxford handbooks in linguistics
+  ISBN: 978-0-19-992276-5
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: xxxix+942
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: luc.primo.exlibrisgroup.com
+  title: The Oxford handbook of the history of English
+  type: book
+
+- id: NoonanHistoryBooksPrinting2025
+  accessed:
+    - year: 2026
+      month: 8
+      day: 3
+  author:
+    - family: Noonan
+      given: Sarah L.
+  citation-key: NoonanHistoryBooksPrinting2025
+  collection-number: '2'
+  collection-title: The New Cambridge History of the English Language
+  container-title: >-
+    The New Cambridge History of the English Language: Documentation, Sources of
+    Data and Modelling
+  DOI: 10.1017/9781009205443.010
+  editor:
+    - family: Smitterberg
+      given: Erik
+    - family: Kytö
+      given: Merja
+  ISBN: 978-1-009-20545-0
+  issued:
+    - year: 2025
+  page: 177–199
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The history of books and printing
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/new-cambridge-history-of-the-english-language/history-of-books-and-printing/68E34C54E851727110C128398296D3D9
+
+- id: RingeIndoEuropeanFramework2025
+  accessed:
+    - year: 2026
+      month: 8
+      day: 4
+  author:
+    - family: Ringe
+      given: Donald
+  citation-key: RingeIndoEuropeanFramework2025
+  collection-number: '1'
+  collection-title: The New Cambridge History of the English Language
+  container-title: >-
+    The New Cambridge History of the English Language: Context, Contact and
+    Development
+  DOI: 10.1017/9781009205702.004
+  editor:
+    - family: Wright
+      given: Laura
+    - family: Hickey
+      given: Raymond
+  ISBN: 978-1-009-20570-2
+  issued:
+    - year: 2025
+  page: 27–51
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The Indo-European framework
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/new-cambridge-history-of-the-english-language/indoeuropean-framework/350C6E6E8E326856C8241730A23D5DA7
+
+- id: SauerEvolutionEnglishStudying2021
+  author:
+    - family: Sauer
+      given: Hans
+    - family: Kirner-Ludwig
+      given: Monika
+  citation-key: SauerEvolutionEnglishStudying2021
+  collection-number: '11'
+  collection-title: Stauffenburg Einführungen
+  ISBN: 978-3-86057-280-1
+  issued:
+    - year: 2021
+  language: en
+  note: 'OCLC: 1260202363'
+  publisher: Stauffenburg
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: 'Evolution of English: studying the past, understanding the present'
+  title-short: Evolution of English
+  type: book
+
+- id: SchneiderPostcolonialEnglishVarieties2007
+  author:
+    - family: Schneider
+      given: Edgar W.
+  call-number: PE2751 .S36 2007
+  citation-key: SchneiderPostcolonialEnglishVarieties2007
+  collection-title: Cambridge approaches to language contact
+  ISBN: 978-0-521-53901-2
+  issued:
+    - year: 2007
+  language: en
+  number-of-pages: xvi+367
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: luc.primo.exlibrisgroup.com
+  title: 'Postcolonial English: varieties around the world'
+  title-short: Postcolonial English
+  type: book
+
+- id: WernerStudyingEarlyPrinted2019
+  author:
+    - family: Werner
+      given: Sarah
+  citation-key: WernerStudyingEarlyPrinted2019
+  ISBN: 978-1-119-04996-8
+  issued:
+    - year: 2019
+      month: 2
+      day: 26
+  language: en
+  number-of-pages: '216'
+  publisher: Wiley
+  publisher-place: Hoboken, NJ
+  title: 'Studying early printed books, 1450-1800: a practical guide'
+  title-short: Studying early printed books
+  type: book
+...

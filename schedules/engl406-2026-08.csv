@@ -1,16 +1,16 @@
-week,date,breaks,unit,assignment_0,assignment_1,assignment_2,assignment_n
-1,Thu Aug 27,,,,,,
-2,Thu Sep 03,,,,,,
-3,Thu Sep 10,,,,,,
-4,Thu Sep 17,,,,,,
-5,Thu Sep 24,,,,,,
-6,Thu Oct 01,,,,,,
-7,Thu Oct 08,,,,,,
-8,Thu Oct 15,,,,,,
-9,Thu Oct 22,,,,,,
-10,Thu Oct 29,,,,,,
-11,Thu Nov 05,,,,,,
-12,Thu Nov 12,,,,,,
-13,Thu Nov 19,,,,,,
-14,Thu Nov 26,Thanksgiving break,,,,,
-15,Thu Dec 03,,,,,,
+week,date,breaks,unit,assignment_0,assignment_1,assignment_2,assignment_3,assignment_4,assignment_5,assignment_n,for consideration,alt
+1,Thu Aug 27,,Course Introduction,,@MugglestoneOxfordHistoryEnglish2012 [chap 12 (“English Among the Languages”)],@AnzalduaHowTameWild2021 \[Sakai],@CrystalStoriesEnglish2004 [1-14] \[Sakai],@MugglestoneOxfordHistoryEnglish2012 [514-529 (“Timeline”)],,Make a list of the language varieties (English or not) in your environment; argue for adding one event to Mugglestone’s timeline,,
+2,Thu Sep 03,,Concepts and Tools 1: Linguistics,,@BarberEnglishLanguageHistorical2025 [chap 1 (“The Changing English Language”)],Video introductions to the [International Phonetic Alphabet](https://enunciate.arts.ubc.ca/linguistics/world-sounds/) and [Sounds of Present Day English](https://enunciate.arts.ubc.ca/linguistics/introductory-videos/); multimedia IPA charts at @LawsonSeeingSpeechArticulatory2018,Handout on Syllable Structure and Phoneme Repetition [Sakai],@CrystalCambridgeEncyclopediaEnglish2003 [chaps 15 and 16 (“Word Classes” and “Sentence Structures”)] \[Sakai],@CarneyMyth5English1998 \[Sakai],@MoultonLinguistics1970 [16-17] \[Sakai\]. Moulton uses the first stanza of “Jabberwocky” to illustrate the “content word”/“function word” distinction. Use this same stanza to illustrate another linguistic concept from this week’s readings.,,@ONeilEnglishOrthography1980
+3,Thu Sep 10,,"Concepts and Tools 2: Dictionaries, Archives, Corpora",,"*OED*: [""Getting started""](https://www.oed.com/information/using-the-oed/how-to-getting-started-guides/) (videos on ""Site navigation,"" ""Advanced search,"" and ""Entry display and navigation""); [“Understanding Entries”](https://www.oed.com/information/understanding-entries/) (esp. “OED terminology” and “Using the OED in research”); and (for fun) the animated infographic [""How words enter the OED""](https://www.oed.com/information/editorial-policy/how-words-enter-the-oed/how-words-enter-the-oed-infographic/)",@HartmannDictionariesTodayWhat2008,@NoonanHistoryBooksPrinting2025,@KytoHistoricalCorporaEnglish2025,"Construct an advanced search of the *OED* using at least the filters “Date of Use” and “Language of Origin.” Report the results of your search, then select one entry from the results and read it in full. Report highlights.",,,
+4,Thu Sep 17,,Proto-Indo-European and Germanic,,@BarberEnglishLanguageHistorical2025 [chap 2 (“The Prehistory of English”)],@MugglestoneOxfordHistoryEnglish2012 [chap 1 (“Before English”)],@RingeIndoEuropeanFramework2025,Complete the exercises at @CableCompanionBaughCables2012 [13-15] \[Sakai],,,,@RobinsonOldEnglishIts1992 [chap. 1]; @AnthonyIndoEuropeanHomelandLinguistic2015; @HarbertEnglishItsGermanic2025
+5,Thu Sep 24,,Old English,,@BarberEnglishLanguageHistorical2025 [chap 3 (“Old English”)],@BrooksSocialPoliticalBackground2013,"@BurnleyHistoryEnglishLanguage2000, items 2 and 3 (“Alfred’s Preface to the *Pastoral Care*”; “Cædmon’s *Hymn*”); for both see also @BakerOldEnglishAerobics",,,,,@GneussOldEnglishLanguage2013
+6,Thu Oct 01,,,,"@MugglestoneOxfordHistoryEnglish2012 [chap 3 (“Contacts and Conflicts: Latin, Norse, and French”)]",@CuestaLanguageDevelopmentOld2025,"@BurnleyHistoryEnglishLanguage2000, item 4, 7, and 8 (“A Homily of Ælfric”; “*The Battle of Maldon*”; “The Peterborough Chronicle”); for *Maldon* see also @BakerOldEnglishAerobics",,,,,
+7,Thu Oct 08,,Middle English,Midterm project due,@BarberEnglishLanguageHistorical2025 [chap 4 (“Middle English”)],@MugglestoneOxfordHistoryEnglish2012 [chap 4 (“Middle English: Dialects and Diversity”)],"@BurnleyHistoryEnglishLanguage2000, items 9, 11, and 13 (“*Ormulum*”; “*Ancrene Wisse*”; “A Proclamation of Henry III”)",,,,,
+8,Thu Oct 15,,,,@MugglestoneOxfordHistoryEnglish2012 [chap 5 (“From Middle English to Early Modern English”)],"@BurnleyHistoryEnglishLanguage2000, items 15, 18, 19, 22, 23, and 50A (“*Kyng Alisaunder*”; “Geoffrey Chaucer”; “A Letter from the Corporation of London”; “A Paston Letter”; “Malory, ‘The Giant at St. Michael’s Mount’”; “Caxton’s Advertisement”)",@BlakeCaxtonOwnProse1973 [78-81 (Prologue to the *Eneydos*)] \[Sakai],,,,,
+9,Thu Oct 22,,Early Modern English,Library selection due,@BarberEnglishLanguageHistorical2025 [chap 5 (“Early Modern English”)],@MugglestoneOxfordHistoryEnglish2012 [chap 6 (“Restructuring Renaissance English”)],"@CrystalOxfordDictionaryOriginal2016, “Introduction”","@BurnleyHistoryEnglishLanguage2000, items 26, 28, and 34 (“The Diary of Henry Machyn”; “Letters of Queen Elizabeth I and King James VI of Scotland”; “The Letters of Lady Brilliana Harley”)",,,,
+10,Thu Oct 29,,,,@MugglestoneOxfordHistoryEnglish2012 [chap 7 (“Mapping Change in Tudor English”)],@MugglestoneOxfordHistoryEnglish2012 [chap 8 (“The Babel of Renaissance English”)],"@BurnleyHistoryEnglishLanguage2000, items 25, 27, 29, 30, and 34 (“Thomas Wilson, *The Arte of Rhetorique*”; “John Lyly, *Euphues*”; “George Puttenham, *The Arte of English Poesie*”; and “Thomas Nashe”)",,,,,
+11,Thu Nov 05,,,Library visit: prepare a brief introduction to the item you selected,"@WernerStudyingEarlyPrinted2019 [""Part 1: Overview""]",,,,,,,
+12,Thu Nov 12,,Into the Late Modern,,@BarberEnglishLanguageHistorical2025 [chap 6 (“Late Modern English”)],@MugglestoneOxfordHistoryEnglish2012 [chap 9 (“English at the Onset of the Normative Tradition”)],"@BurnleyHistoryEnglishLanguage2000, items 39 and 40 (“The Preface to Johnson’s *Dictionary*”; “Fanny Burney, a letter from Bath”)",,,,,
+13,Thu Nov 19,,,,@MukherjeeDevelopmentEnglishLanguage2021,@BaughHistoryEnglishLanguage2013 [chap. 11 (“The English Language in America”)],@SchneiderPostcolonialEnglishVarieties2007 [chaps 1 and 6 (“Introduction” and “The Emergence of American English”)],@McKenzieSociologyTextOral1999,,,,
+14,Thu Nov 26,Thanksgiving break,,,,,,,,,,
+15,Thu Dec 03,,Presentations,Presentations,,,,,,,,

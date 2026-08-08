@@ -1,10 +1,10 @@
 ---
 title: History of the English Language
 subtitle: Fall 2026 syllabus
-# bibliography: 
+bibliography: bibliographies/engl406.yaml
 ---
 
-[zotero-library]: https://www.zotero.org/irc7/collections/ <!-- TBD -->
+[zotero-library]: https://www.zotero.org/irc7/collections/LAMCNYYF/collection
 [gh-releases]: https://github.com/icornelius/zg-syllabi/releases
 <!-- TBD
 [Sakai Resources]: 
@@ -31,9 +31,9 @@ partials/course_id-0004-20230107090154.md
 partials/course_desc-0002-20220306084855.md
 ```
 
+<!-- TBD
 Learning outcome:
 
-<!-- TBD
 ``` {.include}
 partials/outcome-0006-20260110110008.md
 ```
@@ -51,16 +51,44 @@ partials/policies-0021-20260802163125.md
 \[ISBN 978-1-009-22862-6\]
 - Burnley, David. *The History of the English Language: A Source Book*. 2nd ed. New York: Routledge, 2000.
 \[ISBN 978-1-317-88339-5\]
-- Mugglestone, Lynda, ed. The Oxford History of English. Updated ed. Oxford: Oxford University Press, 2012.
+- Mugglestone, Lynda, ed. *The Oxford History of English*. Updated ed. Oxford: Oxford University Press, 2012.
 \[ISBN 978-0-19-966016-2\]
 
-Copies of Burnley's *Source Book* are available on bookfinder.com for under ten dollars.
-Muggleston is is available from the university libraries as an e-book.
+Copies of @BurnleyHistoryEnglishLanguage2000 may be found for under $20 on [bookfinder.com](https://www.bookfinder.com/search/?author=burnley&binding=ANY&condition=ANY&currency=USD&destination=US&firstEdition=false&isbn=&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=history%20of%20the%20english%20language%20source%20book&viewAll=true&mode=ADVANCED).
+(The first edition is an acceptable alternative.)
+@MugglestoneOxfordHistoryEnglish2012 is available from Loyola University Libraries as an e-book.
 
 <!-- Copyright warning -->
 ``` {.include}
 partials/policies-0022-20260802163809.md
 ```
+
+## Reference resources
+
+For basic discussions of specialized terminology see @McArthurOxfordCompanionEnglish2018, and @CrystalDictionaryLinguisticsPhonetics2009.
+For fuller discussions and references see @FrawleyInternationalEncyclopediaLinguistics2003.
+@LawsonSeeingSpeechArticulatory2018, is a multimedia reference guide to the International Phonetic Alphabet.
+
+There are several recent [handbooks and companions](https://luc.primo.exlibrisgroup.com/discovery/search?query=sub,exact,english%20language--history,AND&query=title,contains,handbook%20OR%20companion,AND&tab=Everything&search_scope=MyInst_and_CI&sortby=date_d&vid=01LUC_INST:01LUC&mode=advanced&offset=0) and two recent multi-volume treatments in the Cambridge Histories meta-series most easily retrieved through their CambridgeCore pages:
+[Cambridge History of the English Language](https://www.cambridge.org/core/series/cambridge-history-of-the-english-language/11736033E53FA1FD5E1AE627BD7227CA)
+and
+[New Cambridge History of the English Language](https://www.cambridge.org/core/series/new-cambridge-history-of-the-english-language/50E810237EB1C884E6E4B600FE4429BF).
+
+The most useful dictionaries and thesauruses are
+
+- [*The Oxford English Dictionary*](https://www.oed.com/) (*OED*)
+- [*The Dictionary of Old English*](https://tapor.library.utoronto.ca/doe/) (*DOE*)
+- [*The Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary) (*MED*)
+- [*The Historical Thesaurus of English*](https://ht.ac.uk/) (second edition; the first edition is incorporated into the *OED*)
+
+<!-- on-line access -->
+``` {.include}
+partials/texts-0012-20260808190158.md
+```
+
+For access to the *DOE*, click through from the Loyola Libraries [Databases A-Z](https://libraries.luc.edu/az.php?q=Dictionary%20of%20Old%20English).
+
+Corpora may also be mentioned here: for those see @KytoHistoricalCorporaEnglish2025.
 
 # Schedule
 
@@ -73,35 +101,32 @@ partials/schedule-0005-20240110143330.md
 schedules/engl406-2026-08.md
 ```
 
-# Grading and assignments
-
-<!-- TBD
-
-## Summary of grade components
-``` {.include}
-partials/assessment-0013-20260109221304.md
-```
+# Assignments
 
 ## Participation and presentations
+<!-- Three presentations: course readings, SpecCol item, final project -->
 ``` {.include}
 partials/assignments-0060-20260109223139.md
 ```
--->
 
-## Written work
+## Written assignments
+<!-- presentation report, midterm project, final project -->
+``` {.include}
+partials/assignments-0063-20260808123955.md
+```
 
-<!-- TBD
-
-### General instructions
+## General instructions on written work
 ``` {.include}
 partials/assignments-0062-20260110102931.md
 ```
 
-### Overview of assignments
+# Grading
+
+## Summary of grade components
+<!-- Participation, presentation report, midterm and final projects -->
 ``` {.include}
-partials/assignments-0061-20260109224711.md
+partials/assessment-0013-20260109221304.md
 ```
--->
 
 ## Grade schema
 <!-- Quintile system -->
