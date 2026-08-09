@@ -70,6 +70,27 @@ references:
   title: How to tame a wild tongue
   type: chapter
 
+- id: BaileyEnglishLanguages2012
+  author:
+    - family: Bailey
+      given: Richard W.
+  call-number: PE1075 .O97 2012
+  citation-key: BaileyEnglishLanguages2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 415–445
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: English among the languages
+  type: chapter
+
 - id: BakerOldEnglishAerobics
   accessed:
     - year: 2026
@@ -140,6 +161,28 @@ references:
   title: Caxton's own prose
   type: book
 
+- id: BlankBabelRenaissanceEnglish2012
+  author:
+    - family: Blank
+      given: Paula
+  call-number: PE1075 .O97 2012
+  citation-key: BlankBabelRenaissanceEnglish2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  language: en
+  page: 262–297
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: The babel of Renaissance English
+  type: chapter
+
 - id: BoothCraftResearch2024
   author:
     - family: Booth
@@ -171,6 +214,7 @@ references:
   call-number: PR173 .C36 2013
   citation-key: BrooksSocialPoliticalBackground2013
   container-title: The Cambridge companion to Old English literature
+  DOI: 10.1017/CCO9781139042987.007
   edition: '2'
   editor:
     - family: Godden
@@ -257,6 +301,27 @@ references:
   title: The Chicago manual of style
   type: book
   URL: www.chicagomanualofstyle.org
+
+- id: CorrieMiddleEnglishDialects2012
+  author:
+    - family: Corrie
+      given: Marilyn
+  call-number: PE1075 .O97 2012
+  citation-key: CorrieMiddleEnglishDialects2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 106–146
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: 'Middle English: dialects and diversity'
+  type: chapter
 
 - id: CrystalCambridgeEncyclopediaEnglish2003
   author:
@@ -382,6 +447,7 @@ references:
   collection-number: '54'
   collection-title: Blackwell companions to literature and culture
   container-title: A companion to the history of the English language
+  DOI: 10.1002/9781444302851.ch9
   editor:
     - family: Momma
       given: Haruko
@@ -397,6 +463,27 @@ references:
   source: luc.primo.exlibrisgroup.com
   title: 'Dictionaries today: what can we do with them?'
   title-short: Dictionaries today
+  type: chapter
+
+- id: HoadPreliminariesEnglish2012
+  author:
+    - family: Hoad
+      given: Terry
+  call-number: PE1075 .O97 2012
+  citation-key: HoadPreliminariesEnglish2012
+  container-title: The Oxford history of English
+  edition: Updated ed
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 9–38
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: 'Preliminaries: before English'
   type: chapter
 
 - id: KemenadeHandbookHistoryEnglish2006
@@ -556,6 +643,27 @@ references:
   title-short: Oral culture, literacy, and print in early New Zealand
   type: chapter
 
+- id: McMahonRestructuringRenaissanceEnglish2012
+  author:
+    - family: McMahon
+      given: April
+  call-number: PE1075 .O97 2012
+  citation-key: McMahonRestructuringRenaissanceEnglish2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 180–218
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: Restructuring Renaissance English
+  type: chapter
+
 - id: MommaCompanionHistoryEnglish2008
   citation-key: MommaCompanionHistoryEnglish2008
   collection-number: '54'
@@ -668,6 +776,28 @@ references:
   type: book
   URL: http://www.oed.com/
 
+- id: NevalainenMappingChangeTudor2012
+  author:
+    - family: Nevalainen
+      given: Terttu
+  call-number: PE1075 .O97 2012
+  citation-key: NevalainenMappingChangeTudor2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  language: en
+  page: 219–261
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: Mapping change in Tudor English
+  type: chapter
+
 - id: NevalainenOxfordHandbookHistory2012
   author:
     - family: Nevalainen
@@ -752,27 +882,6 @@ references:
   URL: >-
     https://www.cambridge.org/core/books/new-cambridge-history-of-the-english-language/indoeuropean-framework/350C6E6E8E326856C8241730A23D5DA7
 
-- id: SauerEvolutionEnglishStudying2021
-  author:
-    - family: Sauer
-      given: Hans
-    - family: Kirner-Ludwig
-      given: Monika
-  citation-key: SauerEvolutionEnglishStudying2021
-  collection-number: '11'
-  collection-title: Stauffenburg Einführungen
-  ISBN: 978-3-86057-280-1
-  issued:
-    - year: 2021
-  language: en
-  note: 'OCLC: 1260202363'
-  publisher: Stauffenburg
-  publisher-place: Tübingen
-  source: Open WorldCat
-  title: 'Evolution of English: studying the past, understanding the present'
-  title-short: Evolution of English
-  type: book
-
 - id: SchneiderPostcolonialEnglishVarieties2007
   author:
     - family: Schneider
@@ -791,6 +900,69 @@ references:
   title: 'Postcolonial English: varieties around the world'
   title-short: Postcolonial English
   type: book
+
+- id: SmithMiddleEarlyModern2012
+  author:
+    - family: Smith
+      given: Jeremy J.
+  call-number: PE1075 .O97 2012
+  citation-key: SmithMiddleEarlyModern2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 147–179
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: From Middle to Early Modern English
+  type: chapter
+
+- id: Tieken-BoonvanOstadeEnglishOnsetNormative2012
+  author:
+    - family: Tieken-Boon van Ostade
+      given: Ingrid
+  call-number: PE1075 .O97 2012
+  citation-key: Tieken-BoonvanOstadeEnglishOnsetNormative2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 298–339
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: English at the onset of the normative tradition
+  type: chapter
+
+- id: TownendContactsConflictsLatin2012
+  author:
+    - family: Townend
+      given: Matthew
+  call-number: PE1075 .O97 2012
+  citation-key: TownendContactsConflictsLatin2012
+  container-title: The Oxford history of English
+  edition: updated ed.
+  editor:
+    - family: Mugglestone
+      given: Lynda
+  ISBN: 978-0-19-966016-2
+  issued:
+    - year: 2012
+  page: 75–105
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: orbis.library.yale.edu Library Catalog
+  title: 'Contacts and conflicts: Latin, Norse, and French'
+  type: chapter
 
 - id: WernerStudyingEarlyPrinted2019
   author:

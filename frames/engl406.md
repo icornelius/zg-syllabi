@@ -4,11 +4,22 @@ subtitle: Fall 2026 syllabus
 bibliography: bibliographies/engl406.yaml
 ---
 
+<!-- TODO (from syllabus review, 2026-08-09)
+
+Supply PDFs of Moulton, Cable Companion
+
+16. Section 8.2 still says "This is version 0." Bump before release.
+
+Closed without change
+14. Commas and periods fall outside closing quotation marks where prose
+    punctuation follows a citation ending in a quoted short title, e.g. Lawson
+    et al., "Seeing Speech", is a multimedia reference guide. Not a fault in the
+    CSL: citeproc renders the bibliography correctly and cannot reach prose
+    punctuation outside the citation. Kept as is, consistently, by decision.
+-->
+
 [zotero-library]: https://www.zotero.org/irc7/collections/LAMCNYYF/collection
 [gh-releases]: https://github.com/icornelius/zg-syllabi/releases
-<!-- TBD
-[Sakai Resources]: 
--->
 
 \newpage
 
@@ -31,13 +42,12 @@ partials/course_id-0004-20230107090154.md
 partials/course_desc-0002-20220306084855.md
 ```
 
-<!-- TBD
-Learning outcome:
+On completing this course students will be able to
 
+<!-- Learning outcomes -->
 ``` {.include}
-partials/outcome-0006-20260110110008.md
+partials/outcome-0007-20260809085756.md
 ```
--->
 
 # Materials
 
@@ -49,19 +59,14 @@ partials/policies-0021-20260802163125.md
 
 - Barber, Charles, Joan C. Beal, and Philip A. Shaw. *The English Language: A Historical Introduction*. 3rd ed. Cambridge University Press, 2025.
 \[ISBN 978-1-009-22862-6\]
-- Burnley, David. *The History of the English Language: A Source Book*. 2nd ed. New York: Routledge, 2000.
+- Burnley, David. *The History of the English Language: A Source Book*. 2nd ed. Routledge, 2000.
 \[ISBN 978-1-317-88339-5\]
-- Mugglestone, Lynda, ed. *The Oxford History of English*. Updated ed. Oxford: Oxford University Press, 2012.
+- Mugglestone, Lynda, ed. *The Oxford History of English*. Updated ed. Oxford University Press, 2012.
 \[ISBN 978-0-19-966016-2\]
 
-Copies of @BurnleyHistoryEnglishLanguage2000 may be found for under $20 on [bookfinder.com](https://www.bookfinder.com/search/?author=burnley&binding=ANY&condition=ANY&currency=USD&destination=US&firstEdition=false&isbn=&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=history%20of%20the%20english%20language%20source%20book&viewAll=true&mode=ADVANCED).
-(The first edition is an acceptable alternative.)
-@MugglestoneOxfordHistoryEnglish2012 is available from Loyola University Libraries as an e-book.
+Copies of Burnley's *Source Book* may be found for under $20 on [bookfinder.com](https://www.bookfinder.com/search/?author=burnley&binding=ANY&condition=ANY&currency=USD&destination=US&firstEdition=false&isbn=&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=history%20of%20the%20english%20language%20source%20book&viewAll=true&mode=ADVANCED).
+Mugglestone's *Oxford History* is available from Loyola University Libraries as an [e-book](https://luc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99213978053102506&context=L&vid=01LUC_INST:01LUC&search_scope=MyInst_and_CI&tab=Everything&lang=en).
 
-<!-- Copyright warning -->
-``` {.include}
-partials/policies-0022-20260802163809.md
-```
 
 ## Reference resources
 
@@ -69,7 +74,9 @@ For basic discussions of specialized terminology see @McArthurOxfordCompanionEng
 For fuller discussions and references see @FrawleyInternationalEncyclopediaLinguistics2003.
 @LawsonSeeingSpeechArticulatory2018, is a multimedia reference guide to the International Phonetic Alphabet.
 
-There are several recent [handbooks and companions](https://luc.primo.exlibrisgroup.com/discovery/search?query=sub,exact,english%20language--history,AND&query=title,contains,handbook%20OR%20companion,AND&tab=Everything&search_scope=MyInst_and_CI&sortby=date_d&vid=01LUC_INST:01LUC&mode=advanced&offset=0) and two recent multi-volume treatments in the Cambridge Histories meta-series most easily retrieved through their CambridgeCore pages:
+There are several recent [handbooks and companions](https://luc.primo.exlibrisgroup.com/discovery/search?query=sub,exact,english%20language--history,AND&query=title,contains,handbook%20OR%20companion,AND&tab=Everything&search_scope=MyInst_and_CI&sortby=date_d&vid=01LUC_INST:01LUC&mode=advanced&offset=0),
+and two multi-volume treatments in the Cambridge Histories meta-series.
+The Cambridge Histories are most easily retrieved through CambridgeCore:
 [Cambridge History of the English Language](https://www.cambridge.org/core/series/cambridge-history-of-the-english-language/11736033E53FA1FD5E1AE627BD7227CA)
 and
 [New Cambridge History of the English Language](https://www.cambridge.org/core/series/new-cambridge-history-of-the-english-language/50E810237EB1C884E6E4B600FE4429BF).
@@ -88,7 +95,6 @@ partials/texts-0012-20260808190158.md
 
 For access to the *DOE*, click through from the Loyola Libraries [Databases A-Z](https://libraries.luc.edu/az.php?q=Dictionary%20of%20Old%20English).
 
-Corpora may also be mentioned here: for those see @KytoHistoricalCorporaEnglish2025.
 
 # Schedule
 
@@ -150,7 +156,8 @@ If you must miss a class, or if you must arrive late or leave early, inform me i
 ``` {.include}
 partials/policies-0020-20260109203910.md
 ```
-## Uniform Policies
+
+## Uniform policies
 
 <!-- LUC uniform syllabus policies -->
 ``` {.include}
@@ -182,7 +189,7 @@ partials/policies-0022-20260802163809.md
 
 This is version 0, last compiled \today.
 
-View the [release notes on GitHub][gh-releases]
+View the [release notes on GitHub][gh-releases].
 
 # Bibliography
 
