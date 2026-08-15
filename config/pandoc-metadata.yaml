@@ -10,4 +10,6 @@ toc: True
 secnumdepth: 3
 include-auto: True
 author: Ian Cornelius
+header-includes:
+- \usepackage{pdflscape}
 ---
