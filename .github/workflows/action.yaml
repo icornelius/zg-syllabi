@@ -24,16 +24,26 @@ jobs:
           # Pinned to the version the build is tested against locally.
           pandoc-version: '3.10.1'
 
-      - name: Install XeLaTeX
-        run: sudo apt-get update && sudo apt-get install -y texlive-xetex
+      # The Ubuntu 'texlive' apt package is too old for the PDF/UA-2 tagging
+      # that build-pdf.sh requests via -V pdfstandard=ua-2, so install TeX Live
+      # proper. The action used here is the one recommended by
+      # TeX-Live/setup-texlive-action itself. It installs scheme-infraonly, so
+      # every package the build needs must be listed. The package file is split
+      # on whitespace and '#' comments are stripped, so one name per line works.
+      - name: Install TeX Live
+        uses: zauguin/install-texlive@v4
+        with:
+          package_file: .config/tl_packages
 
+      # build-pdf.sh passes --lua-filter=include-files.lua, which Pandoc resolves
+      # relative to the working directory.
       - name: Download lua-filter
         run: wget https://raw.githubusercontent.com/pandoc/lua-filters/master/include-files/include-files.lua
 
       - name: Verify dependencies
         run: |
           pandoc --version
-          xetex --version
+          lualatex --version
           ls include-files.lua
 
       - name: Build

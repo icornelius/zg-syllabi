@@ -1,0 +1,54 @@
+# TeX Live packages required by the pandoc command in build-pdf.sh.
+#
+# zauguin/install-texlive installs scheme-infraonly, so everything the build
+# needs must be requested here. tlmgr resolves dependencies, so this file lists
+# only packages the document loads directly; the transitive closure (fontspec,
+# l3kernel, the hyperref/oberdiek chain, graphics, ...) comes along with them.
+#
+# Derived from `lualatex -recorder` runs over the .tex that pandoc 3.10.1
+# generates for frames/engl406.md and frames/engl322.md.
+#
+# Format: whitespace-separated names; '#' comments run to end of line.
+
+# Engine and format. latex-bin builds the lualatex format and pulls in
+# l3kernel, l3backend, lm, luaotfload, tools, graphics, amsmath and the
+# hyphenation patterns.
+latex
+latex-bin
+luatex
+
+# PDF/UA-2 tagging requested by -V pdfstandard=ua-2, which makes pandoc emit
+# \DocumentMetadata{pdfstandard={ua-2}, tagging=on, xmp=true}.
+latex-lab
+pdfmanagement
+tagpdf
+luamml
+
+# Pandoc's default LaTeX template.
+amsfonts
+amsmath
+bookmark
+booktabs
+caption
+etoolbox
+footnotehyper
+geometry
+hyperref
+iftex
+microtype
+parskip
+tools
+upquote
+xcolor
+xurl
+
+# Fonts and math under lualatex: unicode-math pulls fontspec, lualatex-math and
+# lm-math, but lm-math is listed explicitly because the default math font
+# (latinmodern-math) is resolved through luaotfload's cache rather than as a
+# recorded kpathsea input.
+lm
+lm-math
+unicode-math
+
+# header-includes in config/pandoc-metadata.yaml.
+pdflscape
