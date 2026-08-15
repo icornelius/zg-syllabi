@@ -9,6 +9,8 @@ for COURSE in ${COURSES[@]} ; do
 	pandoc --metadata-file config/pandoc-metadata.yaml \
 		--lua-filter include-files.lua \
 		--citeproc --toc --number-sections \
+		-V pdfstandard=ua-2 \
+		--pdf-engine lualatex \
                 frames/$COURSE.md \
 		-o build/$NAME-$COURSE-$SEMESTER.pdf &&
 		echo -e "\tSuccess"
