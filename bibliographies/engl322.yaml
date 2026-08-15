@@ -1,0 +1,228 @@
+---
+references:
+- id: BarringtonOpenAccessCompanion2017
+  citation-key: BarringtonOpenAccessCompanion2017
+  editor:
+    - family: Barrington
+      given: Candace
+    - family: Bryant
+      given: Brantley L.
+    - family: Godden
+      given: Richard H.
+    - family: Kline
+      given: Daniel T.
+    - family: Seaman
+      given: Myra
+  issued:
+    - year: 2017
+  language: en-US
+  title: The open access companion to the Canterbury Tales
+  title-short: Open access companion
+  type: book
+  URL: https://opencanterburytales.lsusites.org/
+
+- id: BoothCraftResearch2024
+  author:
+    - family: Booth
+      given: Wayne C.
+    - family: Williams
+      given: Joseph M.
+    - family: Colomb
+      given: Gregory G.
+    - family: FitzGerald
+      given: William T.
+    - family: Bizup
+      given: Joseph
+  citation-key: BoothCraftResearch2024
+  collection-title: Chicago Guides to Writing, Editing, and Publishing
+  edition: '5'
+  ISBN: 978-0-226-82666-0
+  issued:
+    - year: 2024
+  language: en
+  publisher: The University of Chicago Press
+  publisher-place: Chicago
+  title: The craft of research
+  type: book
+
+- id: CannonOxfordChaucer2025
+  citation-key: CannonOxfordChaucer2025
+  editor:
+    - family: Cannon
+      given: Christopher
+    - family: Simpson
+      given: James
+  ISBN: 978-0-19-898718-5
+  issued:
+    - year: 2025
+      month: 10
+      day: 2
+  language: en
+  number-of-pages: '1462'
+  publisher: Oxford University Press
+  source: Google Books
+  title: The Oxford Chaucer
+  title-short: Oxford Chaucer
+  type: book
+
+- id: ChicagoManualStyle2024
+  citation-key: ChicagoManualStyle2024
+  edition: '18'
+  issued:
+    - year: 2024
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: The Chicago manual of style
+  type: book
+  URL: www.chicagomanualofstyle.org
+
+- id: GallowayGeoffreyChaucer2010
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  author:
+    - family: Galloway
+      given: Andrew
+  citation-key: GallowayGeoffreyChaucer2010
+  collection-title: Medieval Studies
+  container-title: Oxford Bibliographies
+  issued:
+    - year: 2010
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Geoffrey Chaucer
+  type: entry-encyclopedia
+  URL: www.doi.org/10.1093/obo/9780195396584-0016
+
+- id: HorobinIntroductionMiddleEnglish2002
+  author:
+    - family: Horobin
+      given: Simon
+    - family: Smith
+      given: J. J.
+  call-number: PE524 .H67 2002
+  citation-key: HorobinIntroductionMiddleEnglish2002
+  collection-title: Edinburgh Textbooks on the English Language
+  ISBN: 978-0-19-521950-0
+  issued:
+    - year: 2002
+  number-of-pages: '182'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: www.franklin.library.upenn.edu Library Catalog
+  title: An introduction to Middle English
+  type: book
+
+- id: KurathMiddleEnglishDictionary1952
+  call-number: PE505 .M53x
+  citation-key: KurathMiddleEnglishDictionary1952
+  contributor:
+    - family: Kurath
+      given: Hans
+    - family: Kuhn
+      given: Sherman M.
+    - family: Lewis
+      given: Robert E.
+  edition: online ed.
+  issued:
+    - year: 1952
+    - year: 2001
+  publisher: University of Michigan
+  publisher-place: Ann Arbor
+  title: The Middle English Dictionary
+  type: book
+  URL: http://quod.lib.umich.edu/m/med/
+
+- id: LawtonNortonChaucer2019
+  citation-key: LawtonNortonChaucer2019
+  editor:
+    - family: Lawton
+      given: David
+  ISBN: 978-0-393-60347-7
+  issued:
+    - year: 2019
+  language: en
+  publisher: W.W. Norton & Company
+  publisher-place: New York
+  source: Google Books
+  title: The Norton Chaucer
+  title-short: The Norton Chaucer
+  type: book
+
+- id: MurrayOxfordEnglishDictionary1989
+  citation-key: MurrayOxfordEnglishDictionary1989
+  contributor:
+    - family: Murray
+      given: J. A. H.
+    - family: Bradley
+      given: H.
+    - family: Craigie
+      given: W. A.
+    - family: Onions
+      given: C. T.
+    - family: Simpson
+      given: J. A.
+    - family: Weiner
+      given: E. S. C.
+    - family: Proffitt
+      given: Michael
+  edition: 2nd and 3rd eds., online
+  issued:
+    - year: 1989
+    - year: 2026
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford English Dictionary
+  title-short: OED
+  type: book
+  URL: http://www.oed.com/
+
+- id: OConnellGeoffreyChaucer2016
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  author:
+    - family: O'Connell
+      given: Brendan
+  citation-key: OConnellGeoffreyChaucer2016
+  collection-title: British and Irish Literature
+  container-title: Oxford Bibliographies
+  issued:
+    - year: 2016
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Geoffrey Chaucer
+  type: entry-encyclopedia
+  URL: www.doi.org/10.1093/obo/9780199846719-0012
+
+- id: RosenfeldChaucerEncyclopedia2023
+  citation-key: RosenfeldChaucerEncyclopedia2023
+  DOI: 10.1002/9781119086130
+  editor:
+    - family: Rosenfeld
+      given: Jessica
+    - family: Gillespie
+      given: Vincent
+    - family: Newhauser
+      given: Richard
+    - family: Walter
+      given: Katie L.
+  ISBN: 978-1-119-08799-1
+  issued:
+    - year: 2023
+      month: 6
+      day: 12
+  language: en
+  number-of-pages: '2224'
+  number-of-volumes: '4'
+  publisher: Wiley
+  title: The Chaucer encyclopedia
+  title-short: Chaucer Encyclopedia
+  type: book
+  URL: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119086130
+...
