@@ -63,6 +63,11 @@ The most useful dictionaries for study of Chaucer's poetry are [*The Oxford Engl
 partials/texts-0012-20260808190158.md
 ```
 
+## Course reserve
+
+Two books will be placed on course reserve: @CannonOxfordChaucer2025 and @BoothCraftResearch2024.
+Ask for them at the circulation desk in Cudahy Library.
+
 # Schedule
 
 <!-- Links to the Bibliography, Version information, and LUC academic calendar -->
@@ -70,7 +75,7 @@ partials/texts-0012-20260808190158.md
 partials/schedule-0005-20240110143330.md
 ```
 
-All readings are from the *Oxford Chaucer*.
+All readings are from @CannonOxfordChaucer2025.
 
 <!-- Unique schedule -->
 ``` {.include}
@@ -168,6 +173,7 @@ Due dates are shown on the [Schedule].
 
 Though not graded, essays are marked according to the rubric in Table 1.
 Many types of argument require research: see the section [Reference Resources] and use the library.
+The rubric references @BoothCraftResearch2024, which is available on [Course Reserve].
 Essay prompts will be announced in due course.
 
 <!-- Table 1: rubric for formal essays -->
@@ -183,9 +189,9 @@ The first midterm exam consists of passage identification, translation, and crit
 You will be given six passages, from which you respond to four.
 
 The second midterm exam and the final exam add an essay component.
-In the second midterm exam you will be given three passages, from which you respond to two, and three essay prompts, from which you respond to one.
+In each of these exams you will be given three passages, from which you respond to two, and three essay prompts, from which you respond to one.
 
-Exam instructions for passage identification, translation, and critical commentary are given in the next section.
+Exam instructions for passage identification, translation, and critical commentary are given in the next subsection.
 
 ### Exam instructions for passage id, translation, and commentary
 <!-- Exam instructions for passage id, translation, and commentary -->
