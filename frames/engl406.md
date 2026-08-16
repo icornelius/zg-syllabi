@@ -65,7 +65,7 @@ partials/policies-0021-20260802163125.md
 \[ISBN 978-0-19-966016-2\]
 
 Copies of Burnley's *Source Book* may be found for under $20 on [bookfinder.com](https://www.bookfinder.com/search/?author=burnley&binding=ANY&condition=ANY&currency=USD&destination=US&firstEdition=false&isbn=&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=history%20of%20the%20english%20language%20source%20book&viewAll=true&mode=ADVANCED).
-Mugglestone's *Oxford History* is available from Loyola University Libraries as an [e-book](https://luc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99213978053102506&context=L&vid=01LUC_INST:01LUC&search_scope=MyInst_and_CI&tab=Everything&lang=en).
+Mugglestone's *Oxford History* is available from Loyola University Chicago Libraries as an [e-book](https://luc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99213978053102506&context=L&vid=01LUC_INST:01LUC&search_scope=MyInst_and_CI&tab=Everything&lang=en).
 
 
 ## Reference resources
