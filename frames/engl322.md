@@ -200,6 +200,8 @@ Exams will provide the following instructions for passage identification, transl
 partials/assignments-0065-20260815130743.md
 ```
 
+\needspace{12\baselineskip}
+
 ## Summary of grade components
 
 <!-- participation (class and tutorials) and three exams -->

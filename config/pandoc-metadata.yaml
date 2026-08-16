@@ -12,4 +12,5 @@ include-auto: True
 author: Ian Cornelius
 header-includes:
 - \usepackage{pdflscape}
+- \usepackage{needspace}
 ---

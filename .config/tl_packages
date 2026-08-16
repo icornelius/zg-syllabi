@@ -52,3 +52,4 @@ unicode-math
 
 # header-includes in config/pandoc-metadata.yaml.
 pdflscape
+needspace
