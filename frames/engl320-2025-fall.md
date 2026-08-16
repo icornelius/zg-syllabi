@@ -34,7 +34,7 @@ partials/outcome-0005-20250725154743.md
 partials/texts-0006-20250725155705.md
 ```
 
-## On-line resources
+## Online resources
 ``` {.include}
 partials/texts-0009-20250822123037.md
 ```

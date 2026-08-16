@@ -32,7 +32,7 @@ Closed without change
 - Location: Cuneo Hall - Room 318
 
 ## How to contact me
-<!-- office location, e-mail, and office hours -->
+<!-- office location, email, and office hours -->
 ``` {.include}
 partials/course_id-0004-20230107090154.md
 ```
@@ -88,7 +88,7 @@ The most useful dictionaries and thesauruses are
 - [*The Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary) (*MED*)
 - [*The Historical Thesaurus of English*](https://ht.ac.uk/) (second edition; the first edition is incorporated into the *OED*)
 
-<!-- on-line access -->
+<!-- online access -->
 ``` {.include}
 partials/texts-0012-20260808190158.md
 ```

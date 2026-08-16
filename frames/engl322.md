@@ -19,7 +19,7 @@ bibliography: bibliographies/engl322.yaml
 
 ## How to contact me
 
-<!-- office location, e-mail, and office hours -->
+<!-- office location, email, and office hours -->
 ``` {.include}
 partials/course_id-0004-20230107090154.md
 ```
@@ -58,7 +58,7 @@ For an excellent introductory grammar of Middle English see @HorobinIntroduction
 
 The most useful dictionaries for study of Chaucer's poetry are [*The Oxford English Dictionary*](https://www.oed.com/) (*OED*) and [*The Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary) (*MED*).
 
-<!-- on-line access -->
+<!-- online access -->
 ``` {.include}
 partials/texts-0012-20260808190158.md
 ```
