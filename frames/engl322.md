@@ -56,7 +56,7 @@ Oxford University Press has published two annotated bibliographies to Chaucer: o
 
 For an excellent introductory grammar of Middle English see @HorobinIntroductionMiddleEnglish2002.
 
-The most useful dictionaries for study of Chaucer's poetry are the [*The Oxford English Dictionary*](https://www.oed.com/) (*OED*) and [*The Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary) (*MED*).
+The most useful dictionaries for study of Chaucer's poetry are [*The Oxford English Dictionary*](https://www.oed.com/) (*OED*) and [*The Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary) (*MED*).
 
 <!-- on-line access -->
 ``` {.include}
@@ -163,7 +163,7 @@ partials/assignments-0064-20260814231222.md
 ### Essays
 
 Essays are exercises in formal expository writing, literary interpretation, and scholarly argument.
-They should be between 1,500 and 2,000 words in length, excluding works cited (between 5 and 6 pages double-spaced).
+They should be between about 1,250 and 1,500 words in length, excluding works cited (between 5 and 6 pages double-spaced).
 Due dates are shown on the [Schedule].
 
 Though not graded, essays are marked according to the rubric in Table 1.
