@@ -79,7 +79,7 @@ schedules/engl322-2026-08.md
 
 ## Final exam {.unnumbered}
 
-Tues. 8 Dec., 1:00PM - 3:00PM
+**Tue Dec 08**, 1:00PM - 3:00PM
 
 <!-- students must take the exam on that date -->
 ``` {.include}
@@ -89,10 +89,10 @@ partials/policies-0016-20240816180023.md
 # Assignments and grading
 
 This course is an experiment.
-There are three *ungraded* written assignments (a [Translation and critical commentary] and two essays).
-Each of these written assignments is followed by a tutorial, also ungraded.
+There are three *ungraded* [written assignments](#types-of-written-assignments).
+Each is followed by a tutorial, also ungraded.
 In the tutorial students meet in pairs with the instructor to discuss their written work.
-The regular class meetings, written assignments, and tutorials prepare you for graded in-class exams.
+The regular class meetings, written assignments, and tutorials are preparation for graded in-class exams.
 
 Assignment due dates, tutorials, and exams are on the [Schedule].
 
