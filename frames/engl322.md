@@ -46,7 +46,7 @@ Students should acquire the dead-tree version.
 ## Reference resources
 
 @RosenfeldChaucerEncyclopedia2023 is a comprehensive reference resource, available online.
-Loyola Libraries also provide digital access to several recent [companions to Chaucer](https://luc.primo.exlibrisgroup.com/nde/search?vid=01LUC_INST:LUC_NDE&search_scope=MyInst_and_CI&mode=advanced&tab=Everything&query=sub,equals,Chaucer%E2%94%80%20Geoffrey%E2%94%80%20-1400%20--%20Criticism%20and%20interpretation%20--%20Handbooks%E2%94%80%20manuals%E2%94%80%20etc&offset=0&lang=en).
+Loyola University Chicago Libraries also provide digital access to several recent [companions to Chaucer](https://luc.primo.exlibrisgroup.com/nde/search?vid=01LUC_INST:LUC_NDE&search_scope=MyInst_and_CI&mode=advanced&tab=Everything&query=sub,equals,Chaucer%E2%94%80%20Geoffrey%E2%94%80%20-1400%20--%20Criticism%20and%20interpretation%20--%20Handbooks%E2%94%80%20manuals%E2%94%80%20etc&offset=0&lang=en).
 @BarringtonOpenAccessCompanion2017 is designed for beginning students.
 
 The [MLA International Bibliography](https://libraries.luc.edu/mla) indexes recent scholarship.

@@ -93,7 +93,7 @@ The most useful dictionaries and thesauruses are
 partials/texts-0012-20260808190158.md
 ```
 
-For access to the *DOE*, click through from the Loyola Libraries [Databases A-Z](https://libraries.luc.edu/az.php?q=Dictionary%20of%20Old%20English).
+For access to the *DOE*, click through from the Loyola University Chicago Libraries [Databases A-Z](https://libraries.luc.edu/az.php?q=Dictionary%20of%20Old%20English).
 
 
 # Schedule
