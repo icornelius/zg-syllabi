@@ -205,6 +205,7 @@ references:
   publisher: The University of Chicago Press
   publisher-place: Chicago
   title: The craft of research
+  title-short: Craft of research
   type: book
 
 - id: BrooksSocialPoliticalBackground2013
@@ -521,7 +522,7 @@ references:
   publisher-place: Ann Arbor
   title: The Middle English Dictionary
   type: book
-  URL: http://quod.lib.umich.edu/m/med/
+  URL: https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary
 
 - id: KytoCambridgeHandbookEnglish2016
   citation-key: KytoCambridgeHandbookEnglish2016

@@ -43,6 +43,7 @@ references:
   publisher: The University of Chicago Press
   publisher-place: Chicago
   title: The craft of research
+  title-short: Craft of research
   type: book
 
 - id: CannonOxfordChaucer2025
@@ -78,16 +79,13 @@ references:
   URL: www.chicagomanualofstyle.org
 
 - id: GallowayGeoffreyChaucer2010
-  accessed:
-    - year: 2021
-      month: 1
-      day: 7
   author:
     - family: Galloway
       given: Andrew
   citation-key: GallowayGeoffreyChaucer2010
   collection-title: Medieval Studies
   container-title: Oxford Bibliographies
+  DOI: 10.1093/obo/9780195396584-0016
   issued:
     - year: 2010
   language: en
@@ -95,7 +93,6 @@ references:
   publisher-place: Oxford
   title: Geoffrey Chaucer
   type: entry-encyclopedia
-  URL: www.doi.org/10.1093/obo/9780195396584-0016
 
 - id: HorobinIntroductionMiddleEnglish2002
   author:
@@ -114,6 +111,7 @@ references:
   publisher-place: Oxford
   source: www.franklin.library.upenn.edu Library Catalog
   title: An introduction to Middle English
+  title-short: Introduction to Middle English
   type: book
 
 - id: KurathMiddleEnglishDictionary1952
@@ -134,7 +132,7 @@ references:
   publisher-place: Ann Arbor
   title: The Middle English Dictionary
   type: book
-  URL: http://quod.lib.umich.edu/m/med/
+  URL: https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary
 
 - id: LawtonNortonChaucer2019
   citation-key: LawtonNortonChaucer2019
@@ -149,7 +147,7 @@ references:
   publisher-place: New York
   source: Google Books
   title: The Norton Chaucer
-  title-short: The Norton Chaucer
+  title-short: Norton Chaucer
   type: book
 
 - id: MurrayOxfordEnglishDictionary1989
@@ -181,16 +179,13 @@ references:
   URL: http://www.oed.com/
 
 - id: OConnellGeoffreyChaucer2016
-  accessed:
-    - year: 2021
-      month: 1
-      day: 7
   author:
     - family: O'Connell
       given: Brendan
   citation-key: OConnellGeoffreyChaucer2016
   collection-title: British and Irish Literature
   container-title: Oxford Bibliographies
+  DOI: 10.1093/obo/9780199846719-0012
   issued:
     - year: 2016
   language: en
@@ -198,7 +193,6 @@ references:
   publisher-place: Oxford
   title: Geoffrey Chaucer
   type: entry-encyclopedia
-  URL: www.doi.org/10.1093/obo/9780199846719-0012
 
 - id: RosenfeldChaucerEncyclopedia2023
   citation-key: RosenfeldChaucerEncyclopedia2023
