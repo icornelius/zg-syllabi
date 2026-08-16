@@ -1,4 +1,12 @@
-# Published syllabi
+# Overview
+
+This repository holds the source of course syllabi taught by Ian Cornelius in the [Department of English at Loyola University Chicago](https://www.luc.edu/english/), which are released as PDFs.
+
+A syllabus is not written as a single document.
+It is assembled at build time from a *frame*, which supplies the outline, and files of reusable text held in `partials/`, `schedules/`, and `bibliographies/`.
+Policies, assignment instructions, and rubrics are therefore written once and shared by any number of courses.
+
+## Published syllabi
 
 For current syllabi see the [latest tagged release](https://github.com/icornelius/zg-syllabi/releases/latest).
 
@@ -24,34 +32,52 @@ Some past syllabi may be downloaded at the following links:
 - "Textual Criticism" (Graduate)
   [spring 2026](https://github.com/icornelius/zg-syllabi/releases/download/v2026.01.2-1/cornelius-engl413-2026-01.pdf)
 
-# Versioning
-
-Beginning with `v2026-08.1`, tagged releases have the following semantics: YEAR-MONTH.VERSION.
-The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
-The VERSION counter restarts at 1 each semester.
-
-# Plain text components
-
-Plain text components are maintained in the directories `frames`, `schedules`, `bibliographies`, and `partials`.
+# Where the text lives
 
 ## `frames`
 
-Markdown files (one per course).
-These supply document outlines and code blocks for loading content.
+Markdown files, one per syllabus.
+A frame is an outline, not a text.
+It carries the title block, the section headings, and any passage written for that course alone, and it pulls in shared text from `partials/` and `schedules/` at build time, using the Lua filter `include-files.lua`:
 
-## `schedules`
+````
+## Attendance
+``` {.include}
+partials/policies-0000-20220818144137.md
+```
+````
 
-Course schedules as CSV and Markdown.
-The Markdown files are created by script from the corresponding CSV and should not be edited manually.
-See [scripts](#scripts).
+Several files may be listed in one block; they are included in the order given.
 
-## `bibliographies`
+The frame's YAML block carries the title, subtitle, and the path to the course bibliography.
+Together with `config/pandoc-metadata.yaml`, it is the only metadata that reaches the PDF; the YAML of an included file is discarded.
 
-Bibliographical details for use by Pandoc's `citeproc`.
+Two consequences follow, and both matter when editing an included file:
+
+Headings in an included file start at `#` and are demoted to fit beneath the frame's own headings, because `config/pandoc-metadata.yaml` sets `include-auto`.
+Under a frame's `##`, a partial's `#` becomes `###`.
+Write each partial as though it began at the top level, and let the build place it.
+
+An included file may itself include others, and the filter resolves those paths against the directory of the file doing the including, not the working directory.
+Partials in the `frame` category use this: they supply the outline of a multi-part assignment and pull in its sections by bare filename, since those sit in `partials/` alongside them.
 
 ## `partials`
 
 This directory houses all syllabus content except course schedules and bibliographic details.
+
+Filenames follow the pattern `category-NNNN-YYYYMMDDHHMMSS.md`: a category (`assignments`, `assessment`, `policies`, `course_desc`, `course_id`, `outcome`, `schedule`, `texts`, `misc`, `frame`), a serial number within that category, and the timestamp at which the file was created.
+A filename is a permanent address, not a description.
+Revise a partial freely, but do not rename it or turn it into a different document: frames refer to partials by name, and a partial included by an archived frame must keep saying what that syllabus said.
+Where the text of an old syllabus should stand and a new course needs something different, create a new partial with the next serial number and leave the old one alone.
+
+Each partial carries a YAML block, which the build discards.
+`title` and `tags` are expected in every file; `summary`, `comment`, `dates`, `url`, and `bibkey` are used where they apply.
+This metadata identifies the document to whoever maintains it and makes it findable; it is not addressed to a student.
+Anything a student needs to know belongs in the body of the partial.
+
+Tag generously and reuse tags that are already in use, since tags are the means of finding a partial again.
+`zfind --get-all-tags` prints the tags in use; see below.
+
 Files are queryable with [ZettelGeist](https://zettelgeist.org/).
 To do that, clone the repository.
 Then, assuming you have [installed ZettelGeist](https://github.com/ZettelGeist/zettelgeist/wiki/Installing-the-Tools), and activated the Python virtual environment, do the following:
@@ -74,25 +100,128 @@ Filenames are included among the metadata printed by `--show-all`.
 For more on queries, see the ZettelGeist [manual](https://github.com/ZettelGeist/zettelgeist/wiki/Manual#zfind).
 (ZettelGeist queries have some [known issues](https://github.com/ZettelGeist/zettelgeist/issues/38)).
 
-# Production tools
+The index (`index.db`) is a local artifact and is not tracked; rebuild it after editing partials.
 
-Production tools are maintained in the directories `scripts` and `config`.
+## `schedules`
+
+Course schedules as CSV and Markdown, one pair per course and semester.
+
+The CSV is the source.
+The Markdown is generated from it by `scripts/date-formatter.py` and must not be edited by hand: `build-all.sh` sets the Markdown files read-only after writing them, and the next build overwrites whatever is there.
+Edits belong in the CSV.
+
+Unlike the generated PDFs, the generated Markdown is tracked and must be committed, because the GitHub Action builds the PDF without regenerating it.
+See [Building](#building).
+
+## `bibliographies`
+
+Bibliographical details for use by Pandoc's `citeproc`, as CSL YAML exported from Zotero, one file per course.
+A frame names its bibliography in the frame's YAML block, and the text cites entries by their `id`, e.g. `@BarberEnglishLanguageHistorical2025`.
+Several frames close with a `nocite: @*` block, so that the printed bibliography lists every entry in the file, not only those cited.
+
+# Editing the text
+
+Write one sentence per line, so that a reworded sentence shows as a one-line change.
+
+Keep the source ASCII, so far as the language allows.
+Write `--` for an en dash and `---` for an em dash, and use straight quotation marks; Pandoc renders all of these.
+The rule governs punctuation Pandoc can generate from ASCII, not spelling: an accented loanword, or an Old English word written with `æ`, keeps its character.
+Set terminal commas and periods inside the closing quotation mark, per the American convention; colons and semicolons stay outside.
+
+The schedule CSVs are the exception, since they are edited in a spreadsheet: they carry typographic quotation marks directly, and `--` for the en dashes in line and page ranges.
+
+Prefer linking a university page to restating it, so that the syllabus does not go stale when the policy changes.
+
+Text written for a single course belongs in that course's frame.
+Text that another course could use belongs in a partial.
+
+# Production tools
 
 ## `scripts`
 
-The directory `scripts` contains Python scripts to generate skeleton course schedules as CSV and transform the CSV into well-structured Markdown.
-See comments at the head of the files.
+Python scripts (3.12) to generate skeleton course schedules as CSV and transform the CSV into well-structured Markdown.
+Neither script has dependencies beyond the standard library.
+See the docstring at the head of each file for usage and for the constants that control input and output paths.
+
+`date-calculator.py` is run once at the start of a semester.
+It prompts for the meeting pattern, the first meeting, and the length of the semester, and writes a CSV of meeting dates with empty columns for units and assignments.
+It does not know about holidays; record those in the `breaks` column afterwards.
+
+`date-formatter.py` is run by `build-all.sh` on every build.
+It reads the filled-in CSV and writes the corresponding Markdown.
+Columns whose label begins with `assignment` are rendered as list items, in the order the columns appear, so a schedule may carry as many assignment columns as it needs.
 
 ## `config`
 
-The directory `config` contains files used by `pandoc` to control the conversion and formatting of documents, including the formatting of bibliographical references.
+Files used by `pandoc` to control conversion and formatting.
+`pandoc-metadata.yaml` holds the settings passed on every build with `--metadata-file`, and `chicago-in-text-shortened-author-title.csl` is the citation style it names.
+`latex-header-includes.yaml` is not referenced by the current build.
 
-# Builds and deployment
+Not to be confused with `.config/tl_packages`, which is the list of TeX Live packages the GitHub Action installs.
+A package the document comes to require must be added there, or the build will pass locally and fail in CI.
 
-For local builds, and prior to each release, run the shell script `build-all.sh`.
-This script calls a Python script (`scripts/date-formatter.py`) to create Markdown files in `schedules` and calls another shell script (`build-pdf.sh`) to create PDFs in `build`.
-The Markdown files created in `schedules` must be committed to the repository and pushed to origin prior to deployment.
-(This may be obviated in a future release.)
-The PDF files created in `build` are for local testing.
-(They are ignored by `git`.)
+# Building
+
+`build-all.sh` is the build.
+Run it from the root of the repository.
+It calls `date-formatter.py` to refresh the Markdown schedules and then calls `build-pdf.sh`, which writes one PDF per course to `build/`, named `cornelius-COURSE-SEMESTER.pdf`.
+The contents of `build/` are for local testing and are not tracked.
+
+Both scripts open with a `COURSES` array and a `SEMESTER` string.
+These name the syllabi to be built, and both files must be updated at the start of each semester.
+The names are used to locate `frames/COURSE.md` and `schedules/COURSE-SEMESTER.csv`, so a course added to the array must have a frame and a schedule named to match.
+The GitHub Action calls `build-pdf.sh` alone, so the courses listed there are the courses released.
+
+The build needs:
+
+- Pandoc, pinned in the workflow to the version the build is tested against locally (currently 3.10.1)
+- LuaLaTeX from TeX Live 2025 or later, required by the PDF/UA-2 tagging the build requests with `-V pdfstandard=ua-2`
+- Python 3
+- the Lua filter `include-files.lua`, resolved from either the working directory or Pandoc's user data directory (`~/.local/share/pandoc/filters/`)
+
+The filter is part of the [pandoc/lua-filters](https://github.com/pandoc/lua-filters) collection and is not tracked in this repository; the workflow downloads it at build time.
+
+# Releasing
+
+Work for a semester is done on a dev branch named for the release, e.g. `dev-2026.8`, and merged into `main`.
+
 Deployment is done with GitHub Actions: see `.github/workflows/action.yaml`.
+Pushing to `main` builds the PDFs.
+Pushing a tag matching `v*` also attaches them to a GitHub release.
+
+Before tagging, run `build-all.sh` locally and commit the regenerated Markdown schedules.
+The Action does not run `date-formatter.py`, so a schedule edited in the CSV but not regenerated and committed will be released in its old form.
+
+## Versioning
+
+Beginning with `v2026-08.1`, tagged releases have the following semantics: YEAR-MONTH.VERSION.
+The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
+The VERSION counter restarts at 1 each semester.
+
+# Commit conventions
+
+Commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), in the form `type(scope): description`.
+
+The product of this repository is a set of syllabi, and their readers are students.
+The prose in `frames/`, `partials/`, and `schedules/` is therefore source, not documentation.
+A commit type describes what a change does for a reader of a syllabus; only `docs` refers to documentation of the repository itself.
+
+| Type | Use for |
+| --- | --- |
+| `feat` | a new partial, section, policy, or assignment |
+| `fix` | correcting what is wrong, stale, or broken |
+| `refactor` | rewording or reorganizing, meaning unchanged |
+| `style` | whitespace, Markdown formatting, typography |
+| `build` | the build scripts, `config/`, Pandoc settings |
+| `ci` | the GitHub Action and `.config/tl_packages` |
+| `chore` | version bumps, generated schedule artifacts, repository housekeeping |
+| `docs` | `README.md`, `LICENSE`: the repository, not the syllabi |
+
+The specification defines only `feat` and `fix`; the remaining types are local convention and may be revised.
+There is no type for removal.
+Use `fix` where something is removed as wrong or outdated, and `refactor` where it is removed because it has moved or been superseded.
+
+A scope names the part of the source affected: a course, by its number (`322`, `406`, `413`); a category of partial (`assignments`, `assessment`, `policies`); or a component (`scripts`, `bib`, `csl`, `readme`).
+
+Make one logical change per commit.
+Where a change reaches several courses because it edits a shared partial, the scope is the category of partial, not the courses.
