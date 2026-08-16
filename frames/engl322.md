@@ -14,8 +14,8 @@ bibliography: bibliographies/engl322.yaml
 ## Course details
 
 - Course number: ENGL 322-001 (5641)
-- Meeting time: TuTh 10:00AM - 11:15AM
-- Location: Mundelein Center - Room 404
+- Meeting time: TuTh 10:00--11:15 a.m.
+- Location: Mundelein Center, Room 404
 
 ## How to contact me
 
@@ -84,7 +84,7 @@ schedules/engl322-2026-08.md
 
 ## Final exam {.unnumbered}
 
-**Tue Dec 08**, 1:00PM - 3:00PM
+**Tue Dec 08**, 1:00--3:00 p.m.
 
 <!-- students must take the exam on that date -->
 ``` {.include}
@@ -138,7 +138,7 @@ Due dates for written assignments are listed on the [Schedule].
 I begin reading your work on Friday morning, to prepare for tutorials the next Monday.
 If a life event prevents you from submitting your work in class on the Thursday, alert me by email.
 I will offer a one-day extension.
-If I do not receive your written work by 4:30 on the Friday, you may still attend your scheduled tutorial, but I might not have read your work.
+If I do not receive your written work by 4:30 p.m. on the Friday, you may still attend your scheduled tutorial, but I might not have read your work.
 
 ### Document format
 ``` {.include}

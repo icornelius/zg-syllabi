@@ -35,7 +35,7 @@ schedule-0005-20240110143330.md
 ```
 
 ## Final exam {.unnumbered}
-Saturday, May 3, 4:15 PM
+Saturday, May 3, 4:15 p.m.
 <!--NOTE: update each semester-->
 
 ``` {.include}

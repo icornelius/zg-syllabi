@@ -28,8 +28,8 @@ Closed without change
 ## Registrar details
 
 - Course number: ENGL 406-001 (5650)
-- Meeting time: Th 7:00PM - 9:30PM
-- Location: Cuneo Hall - Room 318
+- Meeting time: Th 7:00--9:30 p.m.
+- Location: Cuneo Hall, Room 318
 
 ## How to contact me
 <!-- office location, email, and office hours -->

@@ -15,8 +15,8 @@ bibliography: bibliographies/engl413.yaml
 ## Registrar details
 
 - Course number: ENGL 413-001 (5454)
-- Meeting time: MW 4:15PM - 5:30PM
-- Location: Cuneo Hall - Room 212
+- Meeting time: MW 4:15--5:30 p.m.
+- Location: Cuneo Hall, Room 212
 
 ## How to contact me
 ``` {.include}
