@@ -183,17 +183,18 @@ partials/assessment-0015-20260815103327.md
 
 ## Exams
 
-There are two midterm exams and a final exam, as shown on the [Schedule].
+### General specifications
 
+There are two midterm exams and a final exam, as shown on the [Schedule].
 The first midterm exam consists of passage identification, translation, and critical commentary.
 You will be given six passages, from which you respond to four.
-
 The second midterm exam and the final exam add an essay component.
 In each of these exams you will be given three passages, from which you respond to two, and three essay prompts, from which you respond to one.
 
-Exam instructions for passage identification, translation, and critical commentary are given in the next subsection.
+### Passage identification, translation, and commentary
 
-### Exam instructions for passage id, translation, and commentary
+Exams will provide the following instructions for passage identification, translation, and critical commentary.
+
 <!-- Exam instructions for passage id, translation, and commentary -->
 ``` {.include}
 partials/assignments-0065-20260815130743.md
