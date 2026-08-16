@@ -26,8 +26,9 @@ Some past syllabi may be downloaded at the following links:
 
 # Versioning
 
-Beginning with `v2025.01.0`, tagged releases have the following semantics: YEAR.MONTH.VERSION.
+Beginning with `v2026-08.1`, tagged releases have the following semantics: YEAR-MONTH.VERSION.
 The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
+The VERSION counter restarts at 1 each semester.
 
 # Plain text components
 
