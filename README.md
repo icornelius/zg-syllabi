@@ -104,14 +104,15 @@ The index (`index.db`) is a local artifact and is not tracked; rebuild it after 
 
 ## `schedules`
 
-Course schedules as CSV and Markdown, one pair per course and semester.
+Course schedules, one per course and semester.
 
 The CSV is the source.
-The Markdown is generated from it by `scripts/date-formatter.py` and must not be edited by hand: `build-all.sh` sets the Markdown files read-only after writing them, and the next build overwrites whatever is there.
+`build.sh` regenerates the corresponding Markdown from it on every build, by calling `scripts/date-formatter.py`, so the Markdown is not tracked and must not be edited by hand: the next build overwrites whatever is there.
 Edits belong in the CSV.
 
-Unlike the generated PDFs, the generated Markdown is tracked and must be committed, because the GitHub Action builds the PDF without regenerating it.
-See [Building](#building).
+The exception is `engl413-2026-01.md`, which predates this workflow and has no CSV.
+That file is source, is maintained by hand, and is tracked; `.gitignore` exempts it by name.
+A course with no CSV is built from its Markdown as committed.
 
 ## `bibliographies`
 
@@ -147,7 +148,7 @@ See the docstring at the head of each file for usage and for the constants that 
 It prompts for the meeting pattern, the first meeting, and the length of the semester, and writes a CSV of meeting dates with empty columns for units and assignments.
 It does not know about holidays; record those in the `breaks` column afterwards.
 
-`date-formatter.py` is run by `build-all.sh` on every build.
+`date-formatter.py` is run by `build.sh` on every build.
 It reads the filled-in CSV and writes the corresponding Markdown.
 Columns whose label begins with `assignment` are rendered as list items, in the order the columns appear, so a schedule may carry as many assignment columns as it needs.
 
@@ -162,21 +163,22 @@ A package the document comes to require must be added there, or the build will p
 
 # Building
 
-`build-all.sh` is the build.
+`build.sh` is the build.
 Run it from the root of the repository.
-It calls `date-formatter.py` to refresh the Markdown schedules and then calls `build-pdf.sh`, which writes one PDF per course to `build/`, named `cornelius-COURSE-SEMESTER.pdf`.
+For each course it regenerates the Markdown schedule from the CSV and then writes a PDF to `build/`, named `cornelius-COURSE-SEMESTER.pdf`.
 The contents of `build/` are for local testing and are not tracked.
 
-Both scripts open with a `COURSES` array and a `SEMESTER` string.
-These name the syllabi to be built, and both files must be updated at the start of each semester.
-The names are used to locate `frames/COURSE.md` and `schedules/COURSE-SEMESTER.csv`, so a course added to the array must have a frame and a schedule named to match.
-The GitHub Action calls `build-pdf.sh` alone, so the courses listed there are the courses released.
+The GitHub Action runs this same script, so a local build and a released PDF come from the same source.
+
+The script opens with a `COURSES` array and a `SEMESTER` string, which name the syllabi to be built and are updated at the start of each semester.
+The names locate `frames/COURSE.md` and `schedules/COURSE-SEMESTER.csv`, so a course added to the array must have a frame, and a schedule named to match.
+Where there is no CSV, the build reports as much and uses the Markdown schedule as committed.
 
 The build needs:
 
 - Pandoc, pinned in the workflow to the version the build is tested against locally (currently 3.10.1)
 - LuaLaTeX from TeX Live 2025 or later, required by the PDF/UA-2 tagging the build requests with `-V pdfstandard=ua-2`
-- Python 3
+- Python 3, for `date-formatter.py`, which uses nothing beyond the standard library
 - the Lua filter `include-files.lua`, resolved from either the working directory or Pandoc's user data directory (`~/.local/share/pandoc/filters/`)
 
 The filter is part of the [pandoc/lua-filters](https://github.com/pandoc/lua-filters) collection and is not tracked in this repository; the workflow downloads it at build time.
@@ -189,8 +191,8 @@ Deployment is done with GitHub Actions: see `.github/workflows/action.yaml`.
 Pushing to `main` builds the PDFs.
 Pushing a tag matching `v*` also attaches them to a GitHub release.
 
-Before tagging, run `build-all.sh` locally and commit the regenerated Markdown schedules.
-The Action does not run `date-formatter.py`, so a schedule edited in the CSV but not regenerated and committed will be released in its old form.
+Before tagging, run `build.sh` locally and read the PDFs.
+Nothing the build generates needs to be committed: the Action regenerates the schedules from the CSV as part of the same script.
 
 Record the release in CHANGELOG.md.
 The changelog covers the syllabi only, so commits typed `build`, `ci`, `chore`, and `docs` do not appear in it, and a semester's initial release is entered as such, without an account of how it differs from the semester before.
@@ -218,9 +220,9 @@ A commit type describes what a change does for a reader of a syllabus; only `doc
 | `fix` | correcting what is wrong, stale, or broken |
 | `refactor` | rewording or reorganizing, meaning unchanged |
 | `style` | whitespace, Markdown formatting, typography |
-| `build` | the build scripts, `config/`, Pandoc settings |
+| `build` | `build.sh`, `config/`, Pandoc settings |
 | `ci` | the GitHub Action and `.config/tl_packages` |
-| `chore` | version bumps, generated schedule artifacts, changelog upkeep, repository housekeeping |
+| `chore` | version bumps, changelog upkeep, repository housekeeping |
 | `docs` | `README.md`, `LICENSE`: the repository, not the syllabi |
 
 The specification defines only `feat` and `fix`; the remaining types are local convention and may be revised.
