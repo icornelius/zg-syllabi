@@ -17,3 +17,6 @@ mentions.txt*
 
 # LibreOffice lock files
 .~lock.*#
+
+# lua filter downloaded by the build (see README)
+include-files.lua
