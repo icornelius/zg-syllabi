@@ -1,6 +1,12 @@
 # files in the `build' dir
 build/*
 
+# Markdown schedules, generated from the CSV by scripts/date-formatter.py on
+# every build. ENGL 413 predates that workflow: its Markdown is source, and is
+# maintained by hand.
+schedules/*.md
+!schedules/engl413-2026-01.md
+
 # temporary files
 temp*
 
