@@ -156,7 +156,6 @@ Columns whose label begins with `assignment` are rendered as list items, in the 
 
 Files used by `pandoc` to control conversion and formatting.
 `pandoc-metadata.yaml` holds the settings passed on every build with `--metadata-file`, and `chicago-in-text-shortened-author-title.csl` is the citation style it names.
-`latex-header-includes.yaml` is not referenced by the current build.
 
 TeX Live packages are listed separately, in `.github/tl_packages`, since that list is read only by the GitHub Action: the runner starts from a minimal TeX Live and installs what is named there.
 A package the document comes to require must be added to it, or the build will pass locally and fail in CI.

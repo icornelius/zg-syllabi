@@ -1,6 +1,0 @@
----
-header-includes: |
-  \usepackage{hanging}
-  \usepackage{multicol}
-  \setlength{\columnsep}{1cm}
----
