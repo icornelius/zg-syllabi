@@ -4,22 +4,8 @@ subtitle: Fall 2026 syllabus
 bibliography: bibliographies/engl406.yaml
 ---
 
-<!-- TODO (from syllabus review, 2026-08-09)
-
-Supply PDFs of Moulton, Cable Companion
-
-16. Section 8.2 still says "This is version 0." Bump before release.
-
-Closed without change
-14. Commas and periods fall outside closing quotation marks where prose
-    punctuation follows a citation ending in a quoted short title, e.g. Lawson
-    et al., "Seeing Speech", is a multimedia reference guide. Not a fault in the
-    CSL: citeproc renders the bibliography correctly and cannot reach prose
-    punctuation outside the citation. Kept as is, consistently, by decision.
--->
-
 [zotero-library]: https://www.zotero.org/irc7/collections/LAMCNYYF/collection
-[gh-releases]: https://github.com/icornelius/zg-syllabi/releases
+[changelog]: https://github.com/icornelius/zg-syllabi/blob/main/CHANGELOG.md
 
 \newpage
 
@@ -194,9 +180,9 @@ partials/policies-0022-20260802163809.md
 
 ## Version information
 
-This is version 0, last compiled \today.
+This is version 2026-08.1, last compiled \today.
 
-View the [release notes on GitHub][gh-releases].
+View the [release notes][changelog].
 
 # Bibliography
 

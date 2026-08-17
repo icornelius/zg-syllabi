@@ -5,7 +5,7 @@ bibliography: bibliographies/engl322.yaml
 ---
 
 [zotero-library]: https://www.zotero.org/irc7/collections/C56Z993E/collection
-[gh-releases]: https://github.com/icornelius/zg-syllabi/releases
+[changelog]: https://github.com/icornelius/zg-syllabi/blob/main/CHANGELOG.md
 
 \newpage
 
@@ -282,9 +282,9 @@ partials/policies-0022-20260802163809.md
 
 ## Version information
 
-This is version 0, last compiled \today.
+This is version 2026-08.1, last compiled \today.
 
-[View release notes on GitHub][gh-releases]
+[View the release notes][changelog]
 
 # Bibliography
 
