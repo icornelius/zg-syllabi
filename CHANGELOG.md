@@ -14,7 +14,7 @@ The entries that follow an initial release record changes made to that semester'
 
 Changes are cited by the commit that made them.
 
-## 2026-08.1 - unreleased
+## [2026-08.1] - 2026-08-16
 
 Initial release for the Fall 2026 semester: "Chaucer" (ENGL 322) and "History of the English Language" (ENGL 406).
 
@@ -104,6 +104,7 @@ Initial release for the Fall 2025 semester: "Medieval British Literature" (ENGL 
 
 Initial release for the Spring 2025 semester: "History of the English Language" (ENGL 300).
 
+[2026-08.1]: https://github.com/icornelius/zg-syllabi/releases/tag/v2026-08.1
 [2026.01.2-1]: https://github.com/icornelius/zg-syllabi/releases/tag/v2026.01.2-1
 [2026.01.2]: https://github.com/icornelius/zg-syllabi/releases/tag/v2026.01.2
 [2026.01.1]: https://github.com/icornelius/zg-syllabi/releases/tag/v2026.01.1
