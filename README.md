@@ -192,11 +192,17 @@ Pushing a tag matching `v*` also attaches them to a GitHub release.
 Before tagging, run `build-all.sh` locally and commit the regenerated Markdown schedules.
 The Action does not run `date-formatter.py`, so a schedule edited in the CSV but not regenerated and committed will be released in its old form.
 
+Record the release in CHANGELOG.md.
+The changelog covers the syllabi only, so commits typed `build`, `ci`, `chore`, and `docs` do not appear in it, and a semester's initial release is entered as such, without an account of how it differs from the semester before.
+
 ## Versioning
 
 Beginning with `v2026-08.1`, tagged releases have the following semantics: YEAR-MONTH.VERSION.
 The MONTH is the two-digit month in which a given semester begins (usually 01 or 08).
 The VERSION counter restarts at 1 each semester.
+
+Earlier tags use a dot in place of the hyphen, and their counter begins at 0.
+For the releases themselves see CHANGELOG.md.
 
 # Commit conventions
 
@@ -214,14 +220,15 @@ A commit type describes what a change does for a reader of a syllabus; only `doc
 | `style` | whitespace, Markdown formatting, typography |
 | `build` | the build scripts, `config/`, Pandoc settings |
 | `ci` | the GitHub Action and `.config/tl_packages` |
-| `chore` | version bumps, generated schedule artifacts, repository housekeeping |
+| `chore` | version bumps, generated schedule artifacts, changelog upkeep, repository housekeeping |
 | `docs` | `README.md`, `LICENSE`: the repository, not the syllabi |
 
 The specification defines only `feat` and `fix`; the remaining types are local convention and may be revised.
 There is no type for removal.
 Use `fix` where something is removed as wrong or outdated, and `refactor` where it is removed because it has moved or been superseded.
 
-A scope names the part of the source affected: a course, by its number (`322`, `406`, `413`); a category of partial (`assignments`, `assessment`, `policies`); or a component (`scripts`, `bib`, `csl`, `readme`).
+A scope names the part of the source affected: a course, by its number (`322`, `406`, `413`); a category of partial (`assignments`, `assessment`, `policies`); or a component (`scripts`, `bib`, `csl`, `readme`, `changelog`).
 
 Make one logical change per commit.
+Entries in CHANGELOG.md cite the commit that made the change, so a commit mixing several student-facing changes cannot be cited precisely.
 Where a change reaches several courses because it edits a shared partial, the scope is the category of partial, not the courses.
