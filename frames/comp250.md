@@ -17,6 +17,14 @@ author:
 partials/course_id-0010-20250413114604.md
 ```
 
+<!--
+## How to contact me
+
+``` {.include}
+partials/course_id-0004-20230107090154.md
+```
+-->
+
 ## Course description
 ``` {.include}
 partials/course_desc-0010-20250318222122.md
@@ -51,7 +59,7 @@ partials/policies-0017-20250817182816.md
 # Schedule
 ``` {.include}
 partials/schedule-0005-20240110143330.md
-schedules/comp250-engl296.md
+schedules/comp250-2026-08.md
 ```
 
 ## Final exam {.unnumbered}
@@ -108,31 +116,11 @@ partials/policies-0019-20250818104538.md
 partials/policies-0011-20230107104207.md
 ```
 
-## Equity and compliance
+## Uniform policies
 
-### Nondiscrimination statement
+<!-- LUC uniform syllabus policies -->
 ``` {.include}
-partials/policies-0013-20240812164628.md
-```
-
-### Religious observances
-``` {.include}
-partials/policies-0015-20240816165914.md
-```
-
-### Reporting obligations for Responsible Campus Partners
-``` {.include}
-partials/policies-0014-20240812165200.md
-```
-
-### Names and pronouns
-``` {.include}
-partials/policies-0008-20220818163739.md
-```
-
-### Accommodations and assistance
-``` {.include}
-partials/policies-0009-20220818163938.md
+partials/policies-0023-20260802173348.md
 ```
 
 ## Privacy
