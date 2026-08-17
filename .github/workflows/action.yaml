@@ -41,7 +41,7 @@ jobs:
       - name: Install TeX Live
         uses: zauguin/install-texlive@v4
         with:
-          package_file: .config/tl_packages
+          package_file: .github/tl_packages
 
       # build.sh passes --lua-filter=include-files.lua, which Pandoc resolves
       # relative to the working directory.

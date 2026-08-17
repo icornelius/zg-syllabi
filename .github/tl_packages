@@ -1,4 +1,4 @@
-# TeX Live packages required by the pandoc command in build-pdf.sh.
+# TeX Live packages required by the pandoc command in build.sh.
 #
 # zauguin/install-texlive installs scheme-infraonly, so everything the build
 # needs must be requested here. tlmgr resolves dependencies, so this file lists

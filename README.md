@@ -158,8 +158,8 @@ Files used by `pandoc` to control conversion and formatting.
 `pandoc-metadata.yaml` holds the settings passed on every build with `--metadata-file`, and `chicago-in-text-shortened-author-title.csl` is the citation style it names.
 `latex-header-includes.yaml` is not referenced by the current build.
 
-Not to be confused with `.config/tl_packages`, which is the list of TeX Live packages the GitHub Action installs.
-A package the document comes to require must be added there, or the build will pass locally and fail in CI.
+TeX Live packages are listed separately, in `.github/tl_packages`, since that list is read only by the GitHub Action: the runner starts from a minimal TeX Live and installs what is named there.
+A package the document comes to require must be added to it, or the build will pass locally and fail in CI.
 
 # Building
 
@@ -221,7 +221,7 @@ A commit type describes what a change does for a reader of a syllabus; only `doc
 | `refactor` | rewording or reorganizing, meaning unchanged |
 | `style` | whitespace, Markdown formatting, typography |
 | `build` | `build.sh`, `config/`, Pandoc settings |
-| `ci` | the GitHub Action and `.config/tl_packages` |
+| `ci` | the GitHub Action and `.github/tl_packages` |
 | `chore` | version bumps, changelog upkeep, repository housekeeping |
 | `docs` | `README.md`, `LICENSE`: the repository, not the syllabi |
 
