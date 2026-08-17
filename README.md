@@ -61,6 +61,10 @@ Write each partial as though it began at the top level, and let the build place 
 An included file may itself include others, and the filter resolves those paths against the directory of the file doing the including, not the working directory.
 Partials in the `frame` category use this: they supply the outline of a multi-part assignment and pull in its sections by bare filename, since those sit in `partials/` alongside them.
 
+Frames named for a course and a semester, such as `engl323-2024-fall.md`, are archived.
+They date from a build that ran Pandoc inside `build/`, and their schedule paths and filenames no longer suit `build.sh`, which does not build them.
+They are kept for reference, as a starting point when a course is taught again; the released PDF is the record of what a past syllabus said.
+
 ## `partials`
 
 This directory houses all syllabus content except course schedules and bibliographic details.
