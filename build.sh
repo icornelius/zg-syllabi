@@ -10,8 +10,8 @@
 
 set -euo pipefail
 
-COURSES=("engl406" "engl322")
-NAME="cornelius"
+COURSES=("comp250")
+NAME="name"
 SEMESTER="2026-08"
 
 mkdir -p build
