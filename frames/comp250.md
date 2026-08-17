@@ -83,6 +83,13 @@ partials/assignments-0034-20240104180544.md
 partials/assignments-0043-20250818182102.md
 ```
 
+The rubric in Table 1 provides a framework for evaluation of essays.
+
+<!-- Table 1: rubric for formal essays -->
+``` {.include}
+partials/assessment-0015-20260815103327.md
+```
+
 ## Note collections
 ``` {.include}
 partials/frame-0003-20250921095127.md
