@@ -1,9 +1,9 @@
 ---
-title: COMP 250/ENGL 296
+title: COMP 250
 subtitle: "Research Writing: Open Source Tools and Techniques"
 date: Fall 2026
 bibliography: bibliographies/engl299-2025-fall.yaml
-author:
+author: George K. Thiruvathukal
 ---
 
 [zotero-library]: https://www.zotero.org/groups/6099821/luc_engl_299_fall_2025
@@ -13,22 +13,21 @@ author:
 # Basic information
 
 ## Course details
-``` {.include}
-partials/course_id-0010-20250413114604.md
-```
 
-<!--
+- Course number: COMP 250-01W
+- Meeting time: TuTh 11:30 a.m.--12:45 p.m.
+- Location: Mundelein 610
+
 ## How to contact me
 
-``` {.include}
-partials/course_id-0004-20230107090154.md
-```
--->
+- Name: George K. Thiruvathukal
+- Office location: Doyle 316
+- Office hours: by appointment at <https://calendly.com/gkthiruvathukal>
+- Email: <gthiruvathukal@luc.edu>
 
 ## Course description
-``` {.include}
-partials/course_desc-0010-20250318222122.md
-```
+
+This writing-intensive course trains students in free, open-source, and text-based software to support clear, well-organized, accurate, and verifiable writing in academic contexts. The software tool-chain includes Zotero, LaTeX, Pandoc, and Git. Key writing skills are note-taking, information management, and revision.
 
 ## Prerequisites
 
@@ -39,7 +38,7 @@ partials/course_desc-0010-20250318222122.md
 - Students will acquire working knowledge of text-based and open-source software tools to support academic research and writing
 - Students will create researched arguments that are clear, well-organized, accurate and verifiable
 
-# Required Materials
+# Required materials
 
 ## Texts and other media
 ``` {.include}
@@ -144,12 +143,9 @@ partials/policies-0006-20220818162916.md
 By remaining in this course, students agree to accept this syllabus and abide by its policies.
 Students will be informed of any changes to the syllabus.
 
-<!--
 # Version information
-Last updated \today
 
-File history for published syllabi is available on GitHub in the repository [`icornelius/zg-syllabi`](https://github.com/icornelius/zg-syllabi).
--->
+This is version 0, last compiled \today.
 
 # Bibliography
 This bibliography supplies details for readings listed on the course [Schedule].
