@@ -11,7 +11,7 @@
 set -euo pipefail
 
 COURSES=("comp250")
-NAME="name"
+NAME="thiruvathukal"
 SEMESTER="2026-08"
 
 mkdir -p build
