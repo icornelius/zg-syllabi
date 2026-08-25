@@ -16,7 +16,7 @@ author: George K. Thiruvathukal
 
 - Course number: COMP 250-01W
 - Meeting time: TuTh 11:30 a.m.--12:45 p.m.
-- Location: Mundelein 610
+- Location: Mundelein 621
 
 ## How to contact me
 
